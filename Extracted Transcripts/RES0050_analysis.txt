@@ -1,0 +1,45 @@
+**List of symptoms:**
+- Persistent cough
+- Shortness of breath
+- Wheezing
+- Increased sputum production (yellow and green)
+- Fatigue
+- Worsening symptoms over the past three days
+- Shortness of breath worsens with physical activity
+- Chest discomfort during coughing
+- Dull chest pain
+- No fever, chills, night sweats, or weight loss
+- No heart palpitations, fainting episodes, or swelling in extremities
+- No urinary or bowel problems
+- No joint pains, muscle aches, rashes, nausea, or vomiting
+
+**List of possible diseases or illnesses:**
+- Chronic obstructive pulmonary disease (COPD) exacerbation
+- Respiratory tract infection (viral or bacterial)
+- Possibility of COVID-19 infection
+
+**SOAP Note:**
+
+**Subjective:**
+The patient presents with a history of a persistent cough for the past five years, which has worsened over the last three days. They report feeling short of breath, wheezy, and fatigued. The cough is accompanied by increased sputum production, with sputum appearing yellow and green. Shortness of breath is exacerbated by physical activity, and the patient experiences chest discomfort and dull chest pain during coughing episodes.
+
+**Objective:**
+- No fever, chills, night sweats, weight loss, heart palpitations, or swelling noted.
+- No urinary or bowel issues, joint pains, muscle aches, rashes, nausea, or vomiting reported.
+- Patient has a history of high blood pressure and diabetes, currently managed with a beta blocker and metformin.
+- Past medical history includes smoking cessation two years ago after 45 years of smoking one pack per day.
+- Occasional alcohol consumption every two weeks.
+- No recent travel history or exposure to sick individuals.
+
+**Assessment:**
+1. Possible COPD exacerbation given the chronic cough, shortness of breath, and wheezing.
+2. Suspected respiratory tract infection (viral or bacterial) based on the worsening cough and sputum production.
+3. Consideration for COVID-19 infection due to the current global situation and respiratory symptoms.
+
+**Plan:**
+1. Perform a PCR nasal swab for COVID-19.
+2. Order a chest X-ray and additional investigations to determine the underlying cause of the respiratory symptoms.
+3. Monitor oxygen saturation levels and respiratory status closely.
+4. Encourage the patient to follow up with their family doctor for the pneumococcal vaccine as recommended for individuals over 65.
+5. Advise the patient to continue smoking cessation and maintain current medications for high blood pressure and diabetes.
+6. Follow up with the patient to discuss test results and further management options.

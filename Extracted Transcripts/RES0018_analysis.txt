@@ -1,0 +1,40 @@
+**List of symptoms:**
+- Dry cough
+- Headaches
+- Chills, especially at night
+- Shortness of breath
+- Fatigue
+- Loss of taste
+- Nausea
+
+**List of possible diseases or illnesses:**
+- COVID-19 (coronavirus)
+- Viral infection
+- Pneumonia
+
+**SOAP Note:**
+
+**Subjective:**
+The patient presents with a dry cough that started a few days ago, accompanied by headaches, chills, shortness of breath, fatigue, loss of taste, and nausea. The cough has been worsening in frequency and intensity over the past two days. The patient also reports feeling like they have the flu and experiencing chills at night, requiring multiple blankets to sleep comfortably. There is a history of exposure to a coughing coworker in the office setting. The patient has missed work due to feeling unwell.
+
+**Objective:**
+- No phlegm production with the cough
+- No chest pain, wheezing, or wheezing
+- No swelling in feet or ankles
+- No rash, muscle aches, or joint aches
+- No changes in vision or voice
+- No abdominal pains, urinary problems, or bowel problems
+- No history of medical conditions, medications, allergies, hospitalizations, or surgeries
+- Living with a wife and two children in a townhouse
+- Rare alcohol consumption, no smoking or drug use
+- Monogamous sexual relationship with wife, no history of sexually transmitted infections
+- Family history includes an aunt with breast cancer, no history of heart attacks, strokes, or similar symptoms
+
+**Assessment:**
+The patient's symptoms are concerning for a respiratory infection, possibly COVID-19, given the current pandemic situation and exposure to a coughing coworker. Differential diagnoses include other viral infections or pneumonia. Further testing with sputum cultures and PCR nasal swab for COVID-19 has been ordered to confirm the diagnosis.
+
+**Plan:**
+1. Order sputum cultures and PCR nasal swab testing for COVID-19.
+2. Advise the patient to self-isolate at home until test results are available.
+3. Provide supportive care for symptoms such as cough, headaches, chills, and fatigue.
+4. Follow up with the patient to discuss test results and adjust management accordingly.

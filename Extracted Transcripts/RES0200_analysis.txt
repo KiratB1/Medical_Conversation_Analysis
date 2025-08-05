@@ -1,0 +1,37 @@
+**List of symptoms:**
+- Shortness of breath
+- Increased coughing
+- Yellow sputum production
+- Discomfort during coughing fits
+- Shortness of breath worsens with movement
+- Chills
+
+**List of possible diseases or illnesses:**
+- COPD exacerbation
+- Respiratory infection
+- Pneumonia
+- Bronchitis
+
+**SOAP Note:**
+
+**Subjective:**
+The patient presents with a history of COPD diagnosed five years ago, experiencing increased coughing with yellow sputum production, shortness of breath that worsens with movement, and chills over the past few days. The patient also reports using Ventilin frequently in the past week and discomfort during coughing fits.
+
+**Objective:**
+- Patient's vital signs stable
+- No fever reported
+- No palpitations, chest pain, calf pain, dizziness, or fainting spells
+- No significant findings on physical examination
+
+**Assessment:**
+- Likely COPD exacerbation based on patient's history and symptoms
+- Differential diagnosis includes respiratory infection, pneumonia, or bronchitis
+
+**Plan:**
+1. Order blood work including CBC, electrolytes, kidney function, and ABG's
+2. Perform chest X-ray to evaluate lung status
+3. Monitor oxygen saturation and provide supplemental oxygen as needed
+4. Continue bronchodilator therapy with Ventilin
+5. Prescribe steroids and antibiotics to manage exacerbation and prevent infections
+6. Conduct a COVID-19 swab test to rule out infection
+7. Follow up with patient for test results in 24 to 48 hours.

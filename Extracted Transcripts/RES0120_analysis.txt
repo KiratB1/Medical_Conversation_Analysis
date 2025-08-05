@@ -1,0 +1,44 @@
+**List of symptoms:**
+- Feeling unwell for the past four days
+- Chills
+- Shortness of breath
+- Chest pain, especially when taking deep breaths
+- Sharp pain in the center of the chest
+- Runny nose
+
+**List of possible diseases or illnesses:**
+- Pneumonia
+- COVID-19
+- Viral or bacterial respiratory infection
+
+**SOAP Note:**
+
+**Subjective:**
+The patient presents with a four-day history of feeling unwell, experiencing chills, shortness of breath, and chest pain, particularly when taking deep breaths. The chest pain is described as sharp and located in the center of the chest. The patient also reports a runny nose. There is a history of potential exposure to individuals coughing in a public setting.
+
+**Objective:**
+- No cough reported
+- No fever confirmed, but chills present
+- Runny nose reported
+- No swelling in legs or hands
+- No dizziness, fainting, chest pain with activities, night sweats, or changes in bowel movements, appetite, urinary pattern, weight, or sense of taste/smell
+- Medical history includes diabetes, high blood pressure, and high cholesterol, managed with insulin, ramipril, and rosuvastatin respectively
+- Past surgical history includes cholecystectomy without complications
+- Former smoker (quit 20 years ago after smoking for 25 years at a pack a day)
+- Social history includes occasional alcohol consumption and no recreational drug use
+- Living situation with husband in a condo, no known exposures to dust, mold, asbestos, or pets
+
+**Assessment:**
+1. Differential Diagnosis:
+   - Pneumonia: Considering the patient's symptoms of shortness of breath, chest pain, chills, and potential exposure to individuals with respiratory symptoms.
+   - COVID-19: Given the current global situation, the possibility of COVID-19 infection cannot be ruled out.
+   - Viral or bacterial respiratory infection: Differential diagnosis includes other infectious causes of respiratory symptoms.
+
+**Plan:**
+1. Perform COVID-19 testing to rule out infection.
+2. Conduct blood work to assess for signs of infection.
+3. Obtain chest x-ray to evaluate for pneumonia.
+4. Monitor vital signs and perform a full physical examination.
+5. Consider hospitalization if pneumonia is confirmed or if the patient's condition worsens, to initiate appropriate treatment and monitoring.
+6. Educate the patient on symptom management and follow-up instructions.
+7. Advise the patient to continue monitoring symptoms and seek medical attention if there is any deterioration.

@@ -1,0 +1,47 @@
+**List of symptoms:**
+- Chest tightness
+- Shortness of breath
+- Cough for a few years, worsening over the past three days
+- Cough triggered by physical activity
+- Harsh cough with mucus movement
+- Greenish sputum production
+- Wheeziness
+- Fatigue
+- Unintentional weight loss
+- Tight chest (uncomfortable, not painful)
+- Swelling in feet
+- Difficulty breathing (rated 8/10 in severity)
+
+**List of possible diseases or illnesses:**
+- Chronic bronchitis
+- COPD exacerbation
+- Smoker's cough
+- Pneumonia (if bacterial infection is present)
+- Possible viral illness (considering COVID-19)
+
+**SOAP Note:**
+
+**Subjective:**
+The patient presents with a history of chronic cough, worsened over the past three days, associated with greenish sputum production, wheeziness, fatigue, unintentional weight loss, chest tightness, shortness of breath, and swelling in the feet. The patient rates the difficulty breathing at 8/10 in severity, which is significantly worse than before. The patient has a history of COPD, high blood pressure, unintentional weight loss, and a previous diagnosis of chronic bronchitis.
+
+**Objective:**
+- Patient appears fatigued
+- No signs of respiratory distress at rest
+- No fever or chills noted
+- Oxygen saturation to be assessed
+- Physical examination to evaluate lung sounds and chest tightness
+- No acute distress noted
+
+**Assessment:**
+1. COPD exacerbation: Based on the patient's history of COPD, worsening symptoms, and wheeziness.
+2. Chronic bronchitis: Previous diagnosis and long-standing cough with sputum production.
+3. Possible pneumonia: Considering greenish sputum production and worsening respiratory symptoms.
+
+**Plan:**
+1. Assess oxygen saturation aiming for 88-92%.
+2. Consider prescribing antibiotics and/or steroids for possible pneumonia if moderate exacerbation is suspected.
+3. Educate the patient on the importance of using inhalers regularly and seeking prompt medical attention if symptoms worsen.
+4. Monitor for any signs of respiratory distress and follow up with the patient in case of new symptoms or concerns.
+5. Consider COVID-19 testing to rule out viral illness.
+6. Encourage smoking cessation and provide resources for support.
+7. Follow up with the patient to review treatment effectiveness and adjust management as needed.

@@ -1,0 +1,41 @@
+**List of symptoms:**
+- Sore throat
+- Fever
+- Pain with swallowing
+- Loss of appetite
+- Fatigue
+- Neck swelling with painless lumps
+- Body aches
+- Night sweats
+- Pink spots on the arm
+- Generalized discomfort in the upper left abdomen
+
+**List of possible diseases or illnesses:**
+- Infectious mononucleosis (EBV or mono)
+- COVID-19
+- Pharyngitis
+- Lymphadenopathy
+- Viral infection
+
+**SOAP Note:**
+
+**Subjective:**
+The patient presents with a sore throat that has worsened over the past five days, accompanied by a fever reaching 38.8 degrees Celsius. She reports pain with swallowing, loss of appetite, fatigue, and the presence of painless lumps on the right side of her neck. The patient also experiences body aches, night sweats, pink spots on her arm, and generalized discomfort in the upper left abdomen. She denies headaches, cough, shortness of breath, chest pain, heart palpitations, dizziness, nausea, vomiting, diarrhea, joint pains, vaginal symptoms, weight changes, and recent travel history. The patient is sexually active with one partner, uses an IUD, and practices safe sex. She has a history of eczema but no current medications or allergies. There is no family history of cancer or genetic diseases.
+
+**Objective:**
+- Vital signs: Fever of 38.8 degrees Celsius
+- Physical exam findings: Enlarged lymph nodes on the right side of the neck, pink spots on the arm, generalized abdominal discomfort
+
+**Assessment:**
+1. Infectious mononucleosis (EBV or mono) - based on constellation of symptoms including sore throat, fever, fatigue, neck swelling with painless lumps, and exposure history.
+2. COVID-19 - differential diagnosis given the current pandemic situation and overlapping symptoms.
+3. Pharyngitis
+4. Lymphadenopathy
+5. Viral infection
+
+**Plan:**
+1. Perform monospot test and blood work to confirm diagnosis of infectious mononucleosis.
+2. Conduct COVID-19 swab test as a precautionary measure.
+3. Monitor symptoms closely and provide supportive care for pain and discomfort.
+4. Advise rest, hydration, and symptom management.
+5. Follow up with the patient for test results and further management.

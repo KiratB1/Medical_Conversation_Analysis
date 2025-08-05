@@ -1,0 +1,33 @@
+**List of symptoms:**
+- Cough
+- Runny nose
+- Congestion
+- Drainage in the nose
+- Dry cough
+- Clear to whitish nasal discharge
+- Tickle in the throat
+
+**List of possible diseases or illnesses:**
+- Common cold
+- Viral upper respiratory infection
+- Allergic rhinitis
+
+**SOAP Note:**
+
+**Subjective:**
+The patient presents with symptoms of cough, runny nose, congestion, and nasal drainage for the past five to six days. The cough is described as dry, with no sputum production. The patient also reports clear to whitish nasal discharge and a tickle in the throat.
+
+**Objective:**
+- No fever, chills, wheezing, chest pain, blood in sputum, wheezing, facial pain, sore throat, shortness of breath, eye redness, headaches, muscle aches, or urinary problems reported.
+- No significant findings on physical examination.
+
+**Assessment:**
+Based on the patient's history and symptoms, the likely diagnosis is:
+- Viral upper respiratory infection (common cold) or allergic rhinitis.
+
+**Plan:**
+1. Recommend COVID-19 testing due to the presence of cough and nonspecific symptoms.
+2. Advise the patient to continue symptomatic management with over-the-counter medications like Tylenol cold.
+3. Encourage rest, hydration, and adequate nutrition.
+4. Follow up with the patient in a few days to monitor symptom progression.
+5. Educate the patient on the importance of seeking medical attention if symptoms worsen or new symptoms develop.

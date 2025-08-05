@@ -1,0 +1,32 @@
+**List of symptoms:**
+- Stuffy nose
+- Runny nose
+- Congestion
+- Clear nasal drainage
+- Fatigue
+
+**List of possible diseases or illnesses:**
+- Common cold (viral infection)
+- Possible COVID-19 infection
+
+**SOAP Note:**
+
+**Subjective:**
+The patient presents with a one-week history of a stuffy nose that has progressed to a runny nose. The nasal discharge is mainly clear, with no cough, sore throat, shortness of breath, fevers, or chills reported. The symptoms have been constant over the past week, with a slight improvement noted after using decongestants. The patient reports mild fatigue but denies any loss of taste or smell, chest pain, gastrointestinal symptoms, or urinary difficulties. There is a history of type 1 diabetes diagnosed in childhood, for which the patient is compliant with insulin therapy. No recent sick contacts or travel history reported.
+
+**Objective:**
+- Vital signs within normal limits
+- Nasal congestion and clear nasal discharge noted
+- Patient appears fatigued but otherwise well
+- No signs of respiratory distress or other acute concerns
+
+**Assessment:**
+1. Viral upper respiratory infection, likely common cold, given the patient's symptoms of nasal congestion and clear discharge.
+2. COVID-19 cannot be ruled out due to the ongoing pandemic, prompting the need for testing.
+
+**Plan:**
+1. Conduct a COVID-19 swab test to rule out infection; results expected in 48 hours.
+2. Recommend supportive care including rest, hydration, and over-the-counter medications like Tylenol cold for symptom relief.
+3. Advise the patient to isolate at home until test results are available and follow public health guidelines accordingly.
+4. Follow up with the patient post-test results to provide further instructions or treatment as necessary.
+5. Monitor for any worsening symptoms or development of new concerns.

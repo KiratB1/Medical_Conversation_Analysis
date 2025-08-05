@@ -1,0 +1,47 @@
+**List of symptoms:**
+- Cough
+- Shortness of breath
+- Fever
+- Night sweats
+- Yellow phlegm
+- Chest pain (sharp, worsens with deep breath)
+- Wheezing
+- Fatigue
+- Congestion
+- Muscle aches
+- Low energy
+
+**List of possible diseases or illnesses:**
+- Pneumonia
+- COVID-19
+- Acute bronchitis
+- Asthma exacerbation
+
+**SOAP Note:**
+
+**Subjective:**
+The patient presents with a two-day history of cough, shortness of breath, fever, night sweats, yellow phlegm, chest pain worsened by deep breathing, wheezing, fatigue, congestion, muscle aches, and low energy. Symptoms started around a day and a half ago and have been progressively worsening. The patient reports no improvement with over-the-counter medications.
+
+**Objective:**
+- Vital signs: Temperature not checked, but patient reports feeling feverish. Night sweats reported.
+- Chest pain located centrally, sharp in nature, worsens with deep breath.
+- Wheezing noted, new onset.
+- Patient appears fatigued and reports low energy.
+- No signs of swelling in extremities.
+- No abnormalities noted on skin examination.
+
+**Assessment:**
+1. Differential Diagnosis:
+   - Pneumonia: Considering cough, fever, yellow phlegm, chest pain, and shortness of breath.
+   - COVID-19: Given the overlap of symptoms with the ongoing pandemic.
+   - Acute bronchitis: Possible due to cough, wheezing, and congestion.
+   - Asthma exacerbation: Considering new onset wheezing and shortness of breath.
+
+**Plan:**
+1. Conduct a thorough physical examination.
+2. Order chest x-ray to evaluate for pneumonia or other lung pathologies.
+3. Perform COVID-19 swab test.
+4. Monitor oxygen saturation levels and consider oxygen therapy if necessary.
+5. Prescribe antibiotics if pneumonia is confirmed.
+6. Advise rest, hydration, and symptomatic relief measures.
+7. Follow up in a few hours to reassess the patient's condition and consider hospital admission if symptoms worsen or if investigations indicate the need for further intervention.

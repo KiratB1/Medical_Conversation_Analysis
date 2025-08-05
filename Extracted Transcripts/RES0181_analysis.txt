@@ -1,0 +1,34 @@
+**List of symptoms:**
+- Sore throat for the past three days
+- Fever
+- Painful to swallow solids
+- Fatigue
+
+**List of possible diseases or illnesses:**
+- Strep throat or Group A strep pharyngitis
+- Viral illness
+- COVID-19
+
+**SOAP Note:**
+
+**Subjective:**
+The patient presents with a sore throat persisting for the past three days, accompanied by a fever. The sore throat is painful when swallowing solids, and the patient reports feeling fatigued.
+
+**Objective:**
+- No voice changes noted
+- No neck swelling
+- Appetite decreased due to throat pain
+- Fever recorded at 38.8°C
+- No cough, shortness of breath, chest pain, wheezing, or palpitations reported
+- No gastrointestinal symptoms such as nausea, vomiting, abdominal pain, diarrhea, or constipation
+- No urinary issues, skin changes, muscle aches, or body pains observed
+
+**Assessment:**
+The patient likely presents with strep throat or Group A strep pharyngitis, given the symptoms of sore throat, fever, and swollen tonsils. Viral illness is also a possibility, but bacterial infection is higher on the differential. COVID-19 needs to be ruled out due to the ongoing pandemic.
+
+**Plan:**
+1. Perform a rapid strep antigen test to confirm the presence of strep throat.
+2. Consider testing for COVID-19 to rule out infection.
+3. Provide symptomatic relief for pain and fever.
+4. Advise rest and hydration.
+5. Follow up with the patient after test results to determine appropriate treatment.

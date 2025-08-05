@@ -1,0 +1,42 @@
+**List of symptoms:**
+- Difficulty breathing
+- Coughing
+- Increased frequency of coughing throughout the day
+- Production of dark greenish yellow sputum
+- Sharp pain on the right side of the chest/belly area
+- Fever (38.6°C)
+- Hot feeling for the past few days
+
+**List of possible diseases or illnesses:**
+- Acute bronchitis
+- Pneumonia
+- Chronic obstructive pulmonary disease (COPD)
+- Respiratory infection
+- Possible exacerbation of underlying lung condition due to smoking history
+
+**SOAP Note:**
+
+**Subjective:**
+The patient presents with a history of difficulty breathing, coughing with increased frequency, production of dark greenish yellow sputum, sharp pain on the right side of the chest/belly area, fever, and a hot feeling for the past few days. The symptoms started approximately three days ago and have progressively worsened, with the patient feeling continually sick today. The patient also reports a smoking history of 30 years at a rate of about a pack per day, with a previous diagnosis of bronchitis related to smoking. The patient has type 2 diabetes managed with Metformin, an SGLT2 inhibitor, insulin, and amlodipine for high blood pressure. The patient also mentions volunteer work at a homeless shelter a few times a week.
+
+**Objective:**
+- Fever of 38.6°C
+- Increased frequency of coughing, producing dark greenish yellow sputum
+- Sharp pain on the right side of the chest/belly area
+- Smoking history of 30 years
+- Type 2 diabetes with associated kidney complications
+- Hypertension managed with amlodipine
+
+**Assessment:**
+1. Acute respiratory infection possibly leading to bronchitis or pneumonia, exacerbated by smoking history.
+2. Differential diagnosis includes COPD exacerbation given the chronic smoking history.
+3. Fever and systemic symptoms suggest an inflammatory process requiring further evaluation.
+
+**Plan:**
+1. Order chest X-ray to evaluate for pneumonia or other lung pathologies.
+2. Conduct sputum culture to identify potential pathogens causing the infection.
+3. Consider pulmonary function tests to assess lung function and potential COPD exacerbation.
+4. Prescribe antibiotics if bacterial infection is suspected.
+5. Advise the patient to quit smoking and provide resources for smoking cessation.
+6. Monitor blood glucose levels closely due to the acute illness potentially impacting diabetes management.
+7. Follow up with the patient in a few days to assess response to treatment and adjust management as needed.

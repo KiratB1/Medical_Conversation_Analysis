@@ -1,0 +1,35 @@
+**List of symptoms:**
+- Feeling feverish
+- Sore throat
+- Loss of taste
+- Congestion
+- Muscle aches
+- Fatigue
+
+**List of possible diseases or illnesses:**
+- Common cold
+- COVID-19 (to be tested for)
+- Allergic rhinitis
+
+**SOAP Note:**
+
+**Subjective:**
+The patient presents with symptoms of feeling feverish, sore throat, loss of taste, congestion, muscle aches, and fatigue. Symptoms started last night with the sore throat and feverish feeling starting this morning. Patient also reports a history of migraines and regular smoking of 2-3 cigarettes per day. Patient is concerned about COVID-19 due to the ongoing pandemic.
+
+**Objective:**
+- Vital signs: Not recorded
+- Physical examination: Not mentioned in the transcript
+
+**Assessment:**
+1. Differential diagnosis:
+   - Common cold: Symptoms of sore throat, congestion, and fatigue are consistent with a viral upper respiratory infection.
+   - COVID-19: Considering the ongoing pandemic, testing for COVID-19 is warranted due to symptoms of fever, loss of taste, and fatigue.
+   - Allergic rhinitis: Congestion and loss of taste could also be indicative of allergic rhinitis.
+
+**Plan:**
+1. Conduct a nasal swab for COVID-19 testing.
+2. Consider testing for other respiratory viruses if COVID-19 test is negative.
+3. Provide symptomatic relief for sore throat and muscle aches.
+4. Advise patient to monitor symptoms and follow up if there is any worsening or new symptoms.
+5. Discuss smoking cessation and offer resources for support.
+6. Educate patient on COVID-19 precautions and isolation measures until test results are available.

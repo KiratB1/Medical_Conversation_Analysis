@@ -1,0 +1,42 @@
+**List of symptoms:**
+- Chest tightness, especially when breathing in
+- Difficulty breathing, especially during walks
+- Hoarse voice with increased phlegm
+- Feeling of it being harder to get a full breath
+- Chest tightness present constantly but worsens during physical activity
+- No chest pain
+- No anxiety, sweating, or feeling of impending doom
+- No cough, fever, night sweats, chills, or unexplained weight loss
+
+**List of possible diseases or illnesses:**
+- Asthma exacerbation
+- Bronchitis
+- Respiratory infection
+- Allergic reaction
+- Anxiety-related chest tightness
+
+**SOAP Note:**
+
+**S:**
+- Patient presents with chest tightness for the last three days, especially noticeable when breathing in and during walks.
+- No associated chest pain, anxiety, or other alarming symptoms.
+- Patient has a history of asthma but notes that the current symptoms feel different from previous asthma episodes.
+- Hoarse voice with increased phlegm but no cough or fever reported.
+- No recent changes in environment, allergies, or introduction of new pets.
+
+**O:**
+- Patient appears well, no signs of distress.
+- Lung auscultation reveals no abnormal sounds.
+- Vital signs within normal limits.
+- No signs of respiratory distress.
+
+**A:**
+- Likely exacerbation of asthma given the patient's history and current symptoms.
+- Differential diagnosis includes bronchitis, respiratory infection, allergic reaction, or anxiety-related chest tightness.
+
+**P:**
+1. Prescribe rescue inhaler for immediate relief during walks.
+2. Advise patient to continue taking daily asthma medication as prescribed.
+3. Monitor symptoms and response to the rescue inhaler.
+4. Follow up in a week to assess progress and consider further investigations if needed.
+5. Educate patient on asthma management and trigger avoidance.

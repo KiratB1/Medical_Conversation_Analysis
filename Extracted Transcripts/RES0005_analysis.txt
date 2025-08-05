@@ -1,0 +1,46 @@
+**List of symptoms:**
+- Chronic cough for two years
+- Cough worsening over time
+- Blood streaks in sputum
+- Increased sputum production
+- Fatigue
+- Shortness of breath on exertion
+- Weight loss (8-10 pounds in 1.5 months)
+- Limited physical activity due to coughing and shortness of breath
+- Wheezing on exertion
+- Nocturnal dyspnea
+- Smoking history (20 cigarettes/day for 40 years)
+
+**List of possible diseases or illnesses:**
+- Chronic obstructive pulmonary disease (COPD)
+- Chronic bronchitis
+- Lung cancer
+- Pneumonia
+- Asbestosis
+- Fungal lung infection
+
+**SOAP Note:**
+
+**Subjective:**
+The patient presents with a two-year history of a chronic cough that has been worsening over time. They report the presence of blood streaks in sputum, increased sputum production, fatigue, shortness of breath on exertion, significant weight loss, limited physical activity due to coughing and shortness of breath, and wheezing on exertion. The patient also mentions a smoking history of 20 cigarettes per day for 40 years.
+
+**Objective:**
+- No fever, chills, night sweats, headaches, chest pain, heart palpitations, swelling in feet or ankles, abdominal pain, urinary problems, bowel problems, skin rashes, joint/muscle pains, weakness
+- No recent hospitalizations, allergies, surgeries
+- Vaccinations up to date
+- Vital signs: Not provided in the transcript
+
+**Assessment:**
+1. Chronic cough with blood streaks in sputum, worsening over time, and associated weight loss raises concerns for possible malignancy, such as lung cancer.
+2. History of COPD and chronic bronchitis suggests a chronic respiratory condition contributing to the symptoms.
+3. Smoking history increases the risk of respiratory diseases, including COPD and lung cancer.
+4. Additional differential diagnoses include pneumonia, fungal lung infection, and possible asbestosis due to occupational exposure.
+
+**Plan:**
+1. Conduct chest CT scan to evaluate lung pathology, particularly for malignancy.
+2. Perform laboratory investigations including CBC and electrolytes.
+3. Obtain an ECG to assess cardiac function.
+4. Consider pulmonary function tests to assess respiratory function and severity of COPD.
+5. Evaluate for possible pneumonia or fungal infection through sputum culture or other diagnostic tests.
+6. Discuss smoking cessation strategies and potential benefits of restarting COPD inhaler therapy.
+7. Monitor symptoms closely and follow up for further management based on investigation results.

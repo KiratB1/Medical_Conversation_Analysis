@@ -1,0 +1,37 @@
+**List of symptoms:**
+- Fever
+- Cough
+- Runny nose
+- Headache
+- Fatigue
+
+**List of possible diseases or illnesses:**
+- Viral infection (including COVID-19)
+- Common cold
+- Flu
+
+**SOAP Note:**
+
+**Subjective:**
+The patient presents with a fever that started two days ago, accompanied by a dry cough and a runny nose that both began four days ago. The patient reports a mild headache, fatigue for the past two to three days, and denies other symptoms such as congestion, sore throat, red or teary eyes, difficulty breathing, chest pain, muscle aches, changes in smell or taste, abdominal pain, or diarrhea. The patient denies any past medical conditions, surgeries, or current medications but mentions an allergy to penicillin. The patient lives with their mother in a townhouse, attends school, and states they may have had contact with sick individuals at school. The patient denies recent travel outside the province, drug use, alcohol consumption, or sexual activity.
+
+**Objective:**
+- Fever of 38.5°C reported by the patient
+- Dry cough and watery, clear nasal discharge
+- Mild headache
+- Fatigue
+- No signs of respiratory distress or other physical abnormalities noted
+
+**Assessment:**
+- Suspected viral infection, possibly COVID-19, common cold, or flu based on symptoms reported by the patient.
+- Differential diagnosis includes other viral illnesses.
+
+**Plan:**
+1. Order a COVID-19 swab test to confirm the presence of the virus.
+2. Instruct the patient to self-isolate, avoid contact with others, including their mother, and stay home from school until test results are received.
+3. Encourage rest, hydration, and symptomatic relief with Tylenol or Advil for fever and headache.
+4. Advise the patient to monitor symptoms and seek medical attention if symptoms worsen or persist for an extended period.
+5. Inform the patient that public health nurses will provide further guidance based on test results.
+6. Schedule a follow-up appointment or encourage the patient to call if needed.
+
+Overall, the patient's symptoms suggest a viral respiratory infection, and further investigation with a COVID-19 test is warranted to confirm the diagnosis and guide appropriate management.

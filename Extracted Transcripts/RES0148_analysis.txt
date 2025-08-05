@@ -1,0 +1,47 @@
+**List of symptoms:**
+- Cough for the past three days
+- Fever (38 degrees Celsius)
+- Chills
+- Fatigue
+- Muscle aches
+- Wheezing
+- No sputum production
+- No shortness of breath
+- No chest pain
+- No blood in sputum
+- No night sweats
+- No eye redness, runny nose, or sore throat
+- No nausea, vomiting, loss of taste or smell
+- No abdominal pains or diarrhea
+- No urinary problems
+- No skin changes or rashes
+
+**List of possible diseases or illnesses:**
+- Upper respiratory tract infection
+- Influenza (flu)
+- Common cold
+- COVID-19 (pending test results)
+
+**SOAP Note:**
+
+**Subjective:**
+The patient presents with a new dry cough for the past three days, accompanied by a fever of 38 degrees Celsius, chills, fatigue, muscle aches, and wheezing. The cough has slightly improved since onset. No sputum production, shortness of breath, chest pain, blood in sputum, or other respiratory symptoms reported. Patient also denies gastrointestinal symptoms, urinary problems, skin changes, or systemic symptoms like night sweats. Patient reports living with husband in an apartment, who had a recent mild illness with a sore throat. Patient has a history of fibromyalgia and schizophrenia, currently taking quetiapine and Advil for joint pains. Patient is a smoker and consumes alcohol occasionally.
+
+**Objective:**
+- Vital signs: Fever of 38 degrees Celsius
+- General appearance: Fatigued, no acute distress
+- Respiratory exam: Wheezing noted, no abnormal breath sounds, no chest pain
+- Skin: No rashes or skin changes
+- Abdominal exam: No tenderness or abnormalities
+
+**Assessment:**
+1. Likely upper respiratory tract infection with cough, fever, chills, and wheezing.
+2. Differential diagnosis includes influenza, common cold, and COVID-19 (pending test results).
+3. Patient's fibromyalgia may contribute to overall achiness and fatigue.
+
+**Plan:**
+1. Conduct COVID-19 swab test and advise self-isolation for 14 days.
+2. Recommend rest, hydration, and symptomatic relief for cough.
+3. Monitor symptoms closely and advise on seeking medical attention if condition worsens.
+4. Encourage smoking cessation and provide resources for support.
+5. Follow up with test results and adjust management accordingly.

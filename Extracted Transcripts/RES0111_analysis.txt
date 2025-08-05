@@ -1,0 +1,32 @@
+**List of symptoms:**
+- Sore throat for the past four days
+- Developing a fever
+- Difficulty swallowing solid foods
+- Hoarse voice
+- Throat pain
+- Throat redness and swelling
+
+**List of possible diseases or illnesses:**
+- Streptococcal pharyngitis (strep throat)
+- Mononucleosis (mono)
+- Viral or bacterial throat infection
+- COVID-19
+
+**SOAP Note:**
+
+**Subjective:**
+The patient presents with a sore throat for the past four days, accompanied by difficulty swallowing solid foods and developing a fever. The patient reports a hoarse voice and throat pain. No other significant symptoms reported.
+
+**Objective:**
+- Throat examination reveals redness and swelling.
+- No cough, runny nose, chest pain, shortness of breath, congestion, changes in vision or hearing, palpitations, gastrointestinal symptoms, fatigue, weight loss, or other systemic symptoms reported.
+- Patient denies recent travel or known exposure to sick individuals.
+
+**Assessment:**
+1. Acute pharyngitis with possible etiologies including streptococcal pharyngitis, mononucleosis, viral or bacterial throat infection, or COVID-19.
+
+**Plan:**
+1. Perform rapid strep test and COVID-19 test.
+2. Recommend quarantine for 14 days or until test results are back and symptoms improve.
+3. Educate the patient on the importance of vaccines, especially the HPV vaccine.
+4. Follow up with the patient regarding test results and provide appropriate management based on findings.

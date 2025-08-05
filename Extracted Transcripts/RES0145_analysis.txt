@@ -1,0 +1,36 @@
+**List of symptoms:**
+- Sore throat
+- Dry cough
+- Itchy eyes
+- Runny nose
+- Fatigue
+- Body aches
+- Feverishness
+
+**List of possible diseases or illnesses:**
+- Pharyngitis
+- Viral infection with possible superimposed bacterial infection
+- Strep throat (streptococcal pharyngitis)
+
+**SOAP Note:**
+
+**Subjective:**
+The patient presents with a sore throat that started four days ago, accompanied by a dry cough that began a week prior. The cough has slightly improved, but the sore throat has worsened. The patient reports experiencing fatigue, body aches, feverishness, itchy eyes, and a runny nose. There is a history of recurrent tonsillitis, with the last episode occurring six months ago.
+
+**Objective:**
+- Vital signs: Temperature measured at 38.2°C yesterday
+- No reported chest pain, difficulty breathing, changes in smell or taste
+- No recent surgeries or hospitalizations
+- Allergic to peanuts with a history of anaphylaxis
+
+**Assessment:**
+1. Likely diagnosis of pharyngitis with possible streptococcal infection given the sore throat, fever, and history of recurrent tonsillitis.
+2. Differential diagnosis includes a viral infection with a superimposed bacterial infection.
+3. Rule out COVID-19 with a rapid test due to the presence of respiratory symptoms and fever.
+
+**Plan:**
+1. Perform a physical examination including throat inspection and chest auscultation.
+2. Conduct a rapid strep test and COVID-19 test.
+3. Advise the patient to self-isolate at home until test results are available.
+4. Prescribe symptomatic treatment for pain relief and fever management.
+5. Follow up with the patient once test results are obtained to determine further management.

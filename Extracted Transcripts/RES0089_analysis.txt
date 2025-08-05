@@ -1,0 +1,42 @@
+**List of symptoms:**
+- Shortness of breath
+- Coughing (wet cough with green phlegm)
+- Chest tightness
+- Fatigue
+- Swelling in legs
+- Wheezing
+- Some sweating
+- Some night sweats
+- Some shortness of breath when lying down
+- Occasional feeling of being sweaty
+- Joint pain
+
+**List of possible diseases or illnesses:**
+- Exacerbation of COPD (Chronic Obstructive Pulmonary Disease)
+- Bacterial respiratory infection
+- Congestive heart failure (CHF)
+- Pneumonia
+- Bronchitis
+
+**SOAP Note:**
+
+**Subjective:**
+The patient presents with a two-week history of worsening shortness of breath, productive cough with green phlegm, chest tightness, fatigue, and swelling in the legs. The patient also reports wheezing, occasional night sweats, joint pain, and some shortness of breath when lying down. There is a history of COPD diagnosed seven years ago and CHF diagnosed two years ago. The patient mentions smoking marijuana occasionally and consuming alcohol once a week.
+
+**Objective:**
+- Physical examination reveals signs of respiratory distress, wheezing, and swelling in the lower extremities.
+- Patient's vitals: Blood pressure within normal range, increased respiratory rate, and mild tachycardia.
+- Chest X-ray and blood work ordered to investigate the cause of symptoms.
+
+**Assessment:**
+- Exacerbation of COPD with possible bacterial respiratory infection leading to worsening symptoms.
+- Concurrent congestive heart failure contributing to the patient's presentation.
+
+**Plan:**
+1. Administer Ventolin for immediate symptom relief.
+2. Initiate antibiotic therapy for suspected bacterial infection.
+3. Prescribe a steroid medication to reduce inflammation.
+4. Conduct chest X-ray and blood work to further evaluate the condition.
+5. Monitor closely for any signs of worsening respiratory distress or heart failure.
+6. Consider hospital admission for further management if necessary.
+7. Discuss smoking cessation and alcohol moderation for improved health outcomes.

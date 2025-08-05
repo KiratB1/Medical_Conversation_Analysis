@@ -1,0 +1,41 @@
+**List of symptoms:**
+- Coughing up blood
+- Swelling and tenderness in the right calf
+- Pain in the right calf
+- Skin changes in the calf
+- Uneasy breathing
+- Increased heart rate
+- Stable weight
+- Immobilization after knee surgery
+- No chest pain, but feeling the need to take deeper breaths
+- No fevers, chills, night sweats, abdominal pain, nausea, vomiting, diarrhea, urinary problems, skin changes, joint pains, muscle aches, wheezing, lightheadedness, dizziness, or passing out
+
+**List of possible diseases or illnesses:**
+- Pulmonary embolism
+- Deep vein thrombosis (DVT)
+- Postoperative complications from knee surgery
+- Venous thromboembolism
+- Cardiovascular conditions related to high blood pressure and diabetes
+
+**SOAP Note:**
+
+**Subjective:**
+The patient presents with a chief complaint of coughing up blood and swelling with tenderness in the right calf, which started two days after knee replacement surgery on the right leg. The patient also reports skin changes in the calf, uneasy breathing, increased heart rate, and a need for deeper breaths. No other significant symptoms reported.
+
+**Objective:**
+- Patient's right calf shows significant swelling and tenderness upon palpation.
+- Skin changes in the calf noted, though not extensively described.
+- Patient denies chest pain, fevers, chills, night sweats, abdominal pain, nausea, vomiting, diarrhea, urinary problems, skin changes, joint pains, muscle aches, wheezing, lightheadedness, dizziness, or passing out.
+- Patient has a history of knee surgery, high blood pressure, and diabetes. Currently taking Ramipril for blood pressure and Metformin for diabetes.
+
+**Assessment:**
+1. Concern for pulmonary embolism given recent knee surgery, immobilization, coughing up blood, calf swelling, and skin changes.
+2. Differential diagnosis includes deep vein thrombosis, postoperative complications, and cardiovascular conditions related to comorbidities.
+
+**Plan:**
+1. Order imaging studies, specifically a CTPA, to investigate for a pulmonary embolism.
+2. Perform a physical exam, focusing on the chest and the patient's right calf.
+3. Start lab work to assess for any abnormalities.
+4. Monitor vital signs closely, especially heart rate and respiratory rate.
+5. Educate the patient on the importance of follow-up care and adherence to prescribed medications.
+6. Consider referral to a specialist for further evaluation and management if necessary.

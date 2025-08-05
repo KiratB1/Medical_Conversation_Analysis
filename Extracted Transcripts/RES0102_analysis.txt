@@ -1,0 +1,43 @@
+**List of symptoms:**
+- Ongoing cough
+- Sharp chest pain
+- Blood in sputum
+- Night sweats
+- Weight loss
+- Fatigue
+- Chest pain exacerbated by coughing and movement
+- Pain with deep breaths
+
+**List of possible diseases or illnesses:**
+- Tuberculosis (TB)
+- Pericarditis
+- Lung cancer (less likely due to no family history)
+- Pneumonia
+- Respiratory infection
+
+**SOAP Note:**
+
+**Subjective:**
+The patient presents with an ongoing dry cough that started a couple of weeks ago, worsening over time, with the recent onset of sharp chest pain, blood in sputum, night sweats, weight loss, and fatigue. The chest pain is localized on the left side and center, exacerbated by coughing and movement, and relieved by leaning forward. The patient denies any recent cold or flu-like symptoms but reports volunteering at a homeless shelter and exposure to individuals with respiratory symptoms. There is a history of type 2 diabetes, high blood pressure, and depression. No significant family history of lung conditions or cancers.
+
+**Objective:**
+- Blood in sputum observed
+- Night sweats reported
+- Weight loss noted
+- Fatigue present
+- Chest pain localized on the left side and center, exacerbated by coughing and movement, relieved by leaning forward
+- Pain with deep breaths reported
+
+**Assessment:**
+1. Differential Diagnosis:
+   - Tuberculosis (TB)
+   - Pericarditis
+   - Pneumonia
+   - Lung cancer (less likely due to no family history)
+   - Respiratory infection
+
+**Plan:**
+1. Perform a TB test (sputum smear) to rule out tuberculosis.
+2. Consider further testing such as an EKG, ultrasound, and chest x-ray if TB test is positive to evaluate for pericarditis or other complications.
+3. Advise the patient to isolate if TB test comes back positive, initiate antibiotic treatment, and consider hospital admission.
+4. Monitor symptoms closely and follow up for test results and further management.

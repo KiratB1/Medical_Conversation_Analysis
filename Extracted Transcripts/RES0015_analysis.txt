@@ -1,0 +1,42 @@
+**List of symptoms:**
+- Worsening breathlessness
+- Cough
+- Fever
+- Night sweats
+- Weight loss
+- Pink tinged sputum
+- Shortness of breath
+- Chills
+
+**List of possible diseases or illnesses:**
+- Tuberculosis (TB)
+- Pneumonia
+- Chronic obstructive pulmonary disease (COPD)
+- Lung cancer
+
+**SOAP Note:**
+
+**Subjective:**
+The patient presents with worsening breathlessness that started six weeks ago, along with a persistent cough and intermittent fever over the last couple of weeks. He reports experiencing night sweats, weight loss, and coughing up pink tinged sputum. The patient rates his breathlessness as high as 8 out of 10 and mentions no prior experience of these symptoms. He also notes living with housemates who have similar symptoms.
+
+**Objective:**
+- No chest pain, wheezing, or leg swelling reported.
+- No changes in smell, taste, hearing, vision, skin, or eye symptoms.
+- Night sweats and fever with chills observed.
+- Cough with pink tinged sputum, varying in color.
+- Patient smokes 5 cigarettes per day for the past 10 years.
+- No alcohol consumption or drug use.
+- Negative family history of lung conditions, heart conditions, and cancers.
+
+**Assessment:**
+1. Differential diagnosis includes:
+   - Tuberculosis (TB) due to recent travel history from India, night sweats, weight loss, and exposure to symptomatic housemates.
+   - Pneumonia based on cough, fever, and sputum production.
+   - COPD and lung cancer considering chronic smoking history and respiratory symptoms.
+
+**Plan:**
+1. Order AFB smear and other diagnostic tests to rule out TB.
+2. Perform a chest X-ray to investigate for pneumonia.
+3. Consider pulmonary function tests for COPD assessment.
+4. Schedule follow-up for further evaluation based on initial test results.
+5. Advise smoking cessation counseling and lifestyle modifications to improve respiratory health.

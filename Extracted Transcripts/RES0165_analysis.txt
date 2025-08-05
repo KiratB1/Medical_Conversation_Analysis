@@ -1,0 +1,38 @@
+**List of symptoms:**
+- Cough
+- Sore throat
+- Runny nose
+- Muscle aches
+- Mild fatigue
+- Dry cough
+- Sore throat
+- Runny nose
+
+**List of possible diseases or illnesses:**
+- Common cold
+- Influenza (flu)
+- COVID-19
+
+**SOAP Note:**
+
+**Subjective:**
+The patient presents with a two-day history of cough, sore throat, and runny nose. The cough is dry and has been worsening over the past day and a half. The patient also reports muscle aches, mild fatigue, and onset of a runny nose about an hour or two ago. Symptoms are intermittent and not worsening significantly, with a slight increase in severity. No shortness of breath, chest pain, dizziness, or other concerning symptoms reported.
+
+**Objective:**
+- Patient appears generally well, no signs of distress
+- Vital signs within normal limits
+- No signs of respiratory distress
+- Throat examination shows mild irritation, no visible exudates or swelling
+- Lungs clear to auscultation
+- No lymphadenopathy noted
+
+**Assessment:**
+1. Viral upper respiratory tract infection, likely common cold or influenza, given the patient's symptoms of cough, sore throat, runny nose, and muscle aches.
+2. Consideration for COVID-19 testing due to the patient's occupation in a hospital setting and overlapping symptoms with viral illnesses.
+
+**Plan:**
+1. Conduct a COVID-19 swab test for the patient to rule out infection.
+2. Recommend over-the-counter medications like Tylenol cold for symptom management.
+3. Advise the patient to stay hydrated and get adequate rest.
+4. Instruct the patient to monitor symptoms and seek medical attention if symptoms worsen.
+5. Follow up with the patient to discuss test results and provide further guidance as needed.

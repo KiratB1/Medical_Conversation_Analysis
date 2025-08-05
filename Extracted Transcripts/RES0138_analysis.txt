@@ -1,0 +1,32 @@
+**List of symptoms:**
+- Difficulty breathing for the past 8-9 months
+- Shortness of breath with activities
+- Dry cough
+- Shallow breathing
+
+**List of possible diseases or illnesses:**
+- Chronic obstructive pulmonary disease (COPD)
+- Lung cancer
+
+**SOAP Note:**
+
+**Subjective:**
+The patient has been experiencing difficulty breathing for the past 8-9 months, with shortness of breath during activities and a dry cough. He also reports shallow breathing. The symptoms have been progressively worsening.
+
+**Objective:**
+- Patient denies fever, chills, nausea, vomiting, chest pain, increased fatigue, diarrhea, constipation, numbness, tingling, confusion, memory loss, trouble urinating, swelling in extremities, weight changes, exposure to fumes or dust currently, and exposure to pets.
+- Patient has a history of a heart attack last year and high blood pressure. He takes aspirin, an ACE inhibitor (ending in -pril), and rosuvastatin for his heart condition.
+- Patient has a long history of smoking (45 years, one pack a day), but quit smoking. He drinks a glass of white wine nightly.
+- Patient worked in a mine with exposure to chemicals in the past.
+
+**Assessment:**
+- Differential diagnosis includes COPD and lung cancer due to the chronic shortness of breath and history of smoking.
+- Patient's heart attack history and high blood pressure are also relevant to consider.
+
+**Plan:**
+1. Conduct a physical examination, including vital signs assessment.
+2. Perform pulmonary function tests and chest x-ray to evaluate lung function.
+3. Consider a CT scan of the lungs to further assess for lung cancer.
+4. Order blood work to check for any abnormalities.
+5. Administer a COVID swab test as a precaution.
+6. Follow up with the patient for test results and further management.

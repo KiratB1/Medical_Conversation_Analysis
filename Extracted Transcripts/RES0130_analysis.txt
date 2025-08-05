@@ -1,0 +1,35 @@
+**List of symptoms:**
+- Persistent cough for several months
+- Coughing up blood (hemoptysis)
+- Shortness of breath
+- Weight loss
+- Headaches
+- Mild memory loss
+
+**List of possible diseases or illnesses:**
+- Chronic obstructive pulmonary disease (COPD)
+- Lung cancer
+- Tuberculosis (TB)
+
+**SOAP Note:**
+
+**Subjective:**
+The patient presents with a persistent cough lasting for approximately six months, accompanied by hemoptysis for the past two weeks. He reports shortness of breath, weight loss of 5 to 10 pounds over the last month, and occasional headaches. The patient also mentions mild memory loss but attributes it to aging. He denies fever, chills, night sweats, rashes, changes in vision or hearing, nasal symptoms, chest pain, palpitations, calf pain, gastrointestinal symptoms, nausea, vomiting, urinary changes, dizziness, fainting spells, confusion, or major allergies. The patient has a history of arthritis, high blood pressure, and GERD, for which he takes Tylenol, topical creams, and amlodipine, respectively. He is up to date with immunizations, with a family history of lung cancer in his grandfather. The patient is a current smoker, previously smoking two packs a day but now down to half a pack, and uses CBD drops for pain relief. He resides in a relatively new apartment with his husband, denies exposure to sick individuals, recent travel, or environmental hazards.
+
+**Objective:**
+- Physical examination findings not provided in the transcript.
+
+**Assessment:**
+1. Chronic cough with hemoptysis: Concern for underlying respiratory pathology such as COPD, lung cancer, or TB.
+2. Shortness of breath: Possible indication of respiratory compromise.
+3. Weight loss: Unintentional weight loss raises concern for systemic illness.
+4. Headaches: Mild and episodic, possibly unrelated to primary complaint.
+5. Mild memory loss: May be age-related cognitive changes, further evaluation needed.
+
+**Plan:**
+1. COVID-19 swab to rule out acute infection.
+2. Chest x-ray to assess for lung abnormalities, particularly for signs of lung cancer.
+3. Consideration for TB testing due to hemoptysis.
+4. Referral for further evaluation if initial workup is inconclusive, including potential biopsy for definitive diagnosis.
+5. Smoking cessation counseling and resources to support reduction in smoking habits.
+6. Follow-up appointment to review test results and determine next steps in management.

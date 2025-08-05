@@ -1,0 +1,38 @@
+**List of symptoms:**
+- Sore throat
+- Difficulty swallowing
+- Burning sensation in the back of the throat
+- Raspy voice
+- Feeling of losing voice
+- Fatigue
+- Chills
+- Mild abdominal pain
+- Nausea
+
+**List of possible diseases or illnesses:**
+- Pharyngitis (sore throat)
+- Laryngitis (hoarse voice)
+- Viral upper respiratory infection
+- Gastrointestinal upset
+
+**SOAP Note:**
+
+**Subjective:**
+The patient presents with a sore throat that started the previous night, along with difficulty swallowing, a burning sensation in the back of the throat, a raspy voice, and fatigue. The patient reports chills and a high temperature noted by the nurse upon arrival. Additionally, the patient experiences mild abdominal pain and nausea, especially when swallowing.
+
+**Objective:**
+- No reported runny nose, ear pain, headaches, chest pain, breathing difficulties, cough, muscle aches, changes in eye appearance, bowel changes, or vomiting.
+- Throat examination reveals redness and swelling.
+- Vital signs show an elevated temperature noted by the nurse.
+
+**Assessment:**
+1. Acute pharyngitis with possible laryngitis and viral upper respiratory infection.
+2. Gastrointestinal upset contributing to mild abdominal pain and nausea.
+
+**Plan:**
+1. Recommend rest, hydration, and throat lozenges for symptomatic relief.
+2. Consider a throat swab for further evaluation if symptoms persist or worsen.
+3. Monitor temperature and advise on fever management.
+4. Follow up in a few days for reassessment if symptoms do not improve.
+5. Educate on the importance of proper nutrition despite swallowing difficulties and avoiding excessive cold foods.
+6. Advise on infection control measures at home to prevent potential spread, given the patient's contact with individuals experiencing similar symptoms.

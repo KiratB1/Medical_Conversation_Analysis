@@ -1,0 +1,54 @@
+**List of symptoms:**
+- Shortness of breath
+- Coughing
+- Chest pain
+- Mucus production (creamy yellow sputum)
+- Fatigue
+- Night sweats
+- Low-grade fever
+- Stuffy nose
+- Weight loss (denied)
+- Hot sensation
+- Mild stuffy nose
+- Soreness due to persistent coughing
+
+**List of possible diseases or illnesses:**
+- Respiratory infection (pneumonia or viral)
+- Acute bronchitis
+- Asthma exacerbation
+- Pulmonary embolism
+- Congestive heart failure (less likely due to age and activity level)
+- Sarcoidosis (less likely due to acute presentation)
+- Chronic obstructive pulmonary disease (COPD)
+- Pulmonary fibrosis
+- Lung cancer (less likely given the acute onset)
+
+**SOAP Note:**
+
+**Subjective:**
+The patient, Jessica, presents with a 2-day history of shortness of breath, coughing, chest pain exacerbated by coughing and deep breaths, and creamy yellow sputum production. She reports feeling fatigued, experiencing night sweats, and having a low-grade fever. Jessica denies weight loss but mentions feeling hot and having a mild stuffy nose. She also reports a sore throat due to persistent coughing.
+
+**Objective:**
+- Patient appears fatigued but alert and oriented.
+- No signs of respiratory distress at rest.
+- Normal heart rate and blood pressure.
+- Clear lung sounds on auscultation.
+- No swelling or palpitations noted.
+- No abnormal findings on abdominal examination.
+- No recent weight loss observed.
+
+**Assessment:**
+1. Acute respiratory infection (likely pneumonia or viral)
+2. Differential diagnosis includes asthma exacerbation, COPD exacerbation, or pulmonary embolism.
+3. Rule out CHF, sarcoidosis, pulmonary fibrosis, and lung cancer given the acute presentation and patient's age and activity level.
+
+**Plan:**
+1. Perform blood work to assess white blood cell count.
+2. Chest X-ray to evaluate for pneumonia, consolidation, or other abnormalities.
+3. Consider pulmonary function tests if indicated.
+4. Follow up with the patient after investigations for further management and treatment.
+
+Additional considerations:
+- Monitor for any worsening symptoms or new developments.
+- Educate the patient on symptom management and when to seek medical attention if symptoms worsen.
+- Advise on rest, hydration, and proper medication adherence for diabetes and other prescribed medications.

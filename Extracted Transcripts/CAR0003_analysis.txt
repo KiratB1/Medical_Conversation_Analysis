@@ -1,0 +1,38 @@
+**List of symptoms:**
+- Breathlessness, worsening over time
+- Cough
+- Frothy sputum
+- Breathlessness triggered by exertion and worsens when lying down
+- Swelling in legs
+- Fatigue
+- Difficulty climbing stairs
+- Gradual decrease in exercise levels
+- Poor diet and attempts to eat healthier
+
+**List of possible diseases or illnesses:**
+- Congestive heart failure
+- Chronic obstructive pulmonary disease (COPD)
+- Pulmonary edema
+- Cardiovascular issues related to high blood pressure and high cholesterol
+
+**SOAP Note:**
+
+**Subjective:**
+The patient presents with a chief complaint of worsening breathlessness over the past two months, particularly triggered by exertion and worsened when lying down. The patient also reports a cough with frothy sputum, swelling in the legs, fatigue, and difficulty climbing stairs. There is a history of a heart attack four years ago, high blood pressure, diabetes, and high cholesterol. The patient reports a decrease in exercise levels and attempts to improve diet. Daily routine at work and home is affected by shortness of breath.
+
+**Objective:**
+- Swelling noted in the legs
+- Patient reports difficulty climbing three to four stairs before feeling breathless
+- Patient's exercise levels have decreased over the past two months
+- Patient's diet is not well balanced
+- No other significant objective findings noted in the transcript
+
+**Assessment:**
+Based on the patient's symptoms, history of heart attack, high blood pressure, high cholesterol, and swelling in the legs, the likely diagnosis is congestive heart failure. Further investigations are needed to confirm the diagnosis and assess the need for diuretic therapy to manage fluid buildup.
+
+**Plan:**
+1. Conduct further investigations including imaging studies and cardiac tests to confirm the diagnosis of congestive heart failure.
+2. Consider initiating treatment with a diuretic such as lasix to address fluid retention associated with heart failure.
+3. Monitor and adjust medications as needed based on investigation results.
+4. Provide lifestyle modification recommendations including diet improvements and gradual increase in exercise levels.
+5. Follow-up with the patient for ongoing management and monitoring of symptoms.

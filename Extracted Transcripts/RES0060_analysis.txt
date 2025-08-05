@@ -1,0 +1,57 @@
+**List of symptoms:**
+- Fever (measured at 38.5°C)
+- Cough (dry)
+- Fatigue
+- Reduced appetite
+- Scratchy throat
+- Runny nose
+- Nausea
+- Headache (pressure-like)
+- Weight loss
+- Shortness of breath (after coughing fits)
+- Chills at night
+- Body aches
+- Nausea
+- Loss of appetite
+- Tiredness
+- Coughing fits
+
+**List of possible diseases or illnesses:**
+- Viral upper respiratory infection
+- Influenza (flu)
+- COVID-19
+- Tension headaches
+- Pre-diabetes
+- Gastrointestinal upset
+- Allergic reaction
+- Anxiety-related symptoms
+
+**SOAP Note:**
+
+**Subjective:**
+The patient presents with a 4-day history of fever (38.5°C), dry cough, worsening fatigue, reduced appetite, scratchy throat, runny nose, nausea, pressure-like headaches, weight loss, shortness of breath following coughing fits, chills at night, body aches, and tiredness. The patient reports no recent sick contacts but mentioned shopping in crowded places last weekend. No recent travel history. The patient has a history of high cholesterol managed with Rosuvastatin and pre-diabetes with lifestyle modifications.
+
+**Objective:**
+- Vital signs: Fever noted at 38.5°C
+- Dry cough, scratchy throat, runny nose
+- No wheezing, chest pain, or blood associated with cough
+- No sputum production
+- No abnormal lung or heart sounds
+- No signs of dehydration
+- No neurological deficits
+- No abdominal tenderness
+- No respiratory distress
+
+**Assessment:**
+1. Possible viral upper respiratory infection or influenza given the patient's fever, dry cough, fatigue, and runny nose.
+2. Consideration for COVID-19 due to the patient's symptoms and recent exposure to crowded places.
+3. Tension headaches secondary to illness and fatigue.
+4. Gastrointestinal upset possibly contributing to nausea and reduced appetite.
+5. Pre-diabetes management with lifestyle modifications.
+
+**Plan:**
+1. Perform a COVID-19 swab and advise isolation for 14 days.
+2. Monitor symptoms closely for any worsening or new developments.
+3. Encourage rest, hydration, and symptomatic relief measures for cough and headaches.
+4. Review blood work for pre-diabetes management and consider adjustments if needed.
+5. Follow up in a few days to reassess the patient's condition and consider further investigations if necessary.

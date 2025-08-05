@@ -1,0 +1,38 @@
+**List of symptoms:**
+- Rash on the right leg
+- Pain and swelling in the affected area
+- Redness and scabs
+- Increased hunger and fatigue
+- Feeling hot
+- Leaking white substance from a scab
+- Leg feels hotter than the left
+- Dull ache in the leg
+- Decreased sensation in the feet
+
+**List of possible diseases or illnesses:**
+- Cellulitis
+- Diabetic foot ulcer
+- Diabetic neuropathy
+- Infection
+- Poorly controlled diabetes
+- Peripheral artery disease
+
+**SOAP Note:**
+
+**Subjective:**
+- A 45-year-old male presents with a rash on his right leg that has been painful and swollen for about a week. He reports redness, scabs, and leakage of white substance from the affected area. The patient has a history of diabetes with poor control, as indicated by a high A1C level of 9. He also mentions increased hunger, fatigue, feeling hot, and decreased sensation in his feet.
+
+**Objective:**
+- Physical examination reveals a swollen, red, and painful rash on the patient's right leg. Scabs and signs of infection are noted. The leg feels warmer to the touch compared to the left leg. Decreased sensation is observed in the feet.
+
+**Assessment:**
+1. Cellulitis or infection of the right leg, exacerbated by poor diabetic control.
+2. Diabetic foot ulcer with signs of infection.
+3. Possible diabetic neuropathy contributing to decreased sensation in the feet.
+
+**Plan:**
+1. Order blood work to assess glucose levels and infection markers.
+2. Initiate treatment for cellulitis/infection with antibiotics.
+3. Provide wound care for the diabetic foot ulcer.
+4. Educate the patient on the importance of glucose control, foot care, and lifestyle modifications.
+5. Follow-up appointment to monitor progress and adjust treatment as needed.

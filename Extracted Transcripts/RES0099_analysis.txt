@@ -1,0 +1,32 @@
+**List of symptoms:**
+- Headache
+- Body aches
+- Fatigue
+- Fever
+- Dry cough
+
+**List of possible diseases or illnesses:**
+- Viral infection (including COVID-19)
+- Influenza
+- Upper respiratory tract infection
+
+**SOAP Note:**
+
+**Subjective:**
+The patient presents with a two-day history of headache, body aches, fatigue, fever, and a dry cough. The headache is described as pressure at the front near the forehead on both sides, with continuous constant pain. The patient has not experienced headaches like this before. There is no sensitivity to light or sound, nausea, vomiting, sudden onset worst headache of life sensation, or blood in cough. The patient felt feverish with chills but no night sweats. The cough started yesterday morning and has worsened since then. There are no flu-like symptoms, shortness of breath, chest pain, dizziness, wheezing, swelling, abdominal pain, urinary problems, diarrhea, rashes, or joint pains. The patient reports feeling drained and took Tylenol for symptom relief.
+
+**Objective:**
+- Vital signs: to be checked during the examination
+- Physical examination: to be performed to assess for signs of infection such as respiratory distress, lymphadenopathy, or other relevant findings
+
+**Assessment:**
+1. Viral infection, likely COVID-19, given the constellation of symptoms including headache, body aches, fatigue, fever, and dry cough. The patient has potential exposure at work and presents with nonspecific viral symptoms.
+2. Influenza or other upper respiratory tract infection should also be considered in the differential diagnosis.
+
+**Plan:**
+1. Perform a PCR swab for COVID-19 and influenza.
+2. Check vital signs including temperature.
+3. Conduct a physical examination to assess for signs of infection.
+4. Order blood work to further evaluate the patient's condition.
+5. Advise the patient to self-isolate for the next 14 days, regardless of test results.
+6. Follow up with the patient to discuss test results and provide further guidance or treatment as needed.

@@ -1,0 +1,37 @@
+**List of symptoms:**
+- Pain in the left knee
+- Swelling in the left knee
+- Limited movement in the left knee
+- Redness and warmth in the left knee
+- Stabbing pain in the left knee
+- Fever
+
+**List of possible diseases or illnesses:**
+- Septic arthritis
+- Cellulitis
+- Infection in the knee joint
+
+**SOAP Note:**
+
+**Subjective:**
+The patient presents with severe pain in the left knee that started a few hours ago. The pain is described as stabbing, with swelling, redness, and warmth in the knee. The patient reports limited movement in the knee and rates the pain as 9/10. Additionally, the patient has been feeling feverish for the past day.
+
+**Objective:**
+- Swelling, redness, and warmth observed in the left knee
+- Patient has difficulty weight bearing and walking, requiring a wheelchair
+- Pain reported on movement and palpation of the knee
+- No other joint or muscle pain reported
+- No skin changes or rashes observed
+- No fever measured during the visit
+
+**Assessment:**
+Based on the patient's history and symptoms, the likely diagnosis is septic arthritis, considering the sudden onset of knee pain, swelling, redness, warmth, and fever. Cellulitis is also a differential diagnosis given the patient's history of skin infections.
+
+**Plan:**
+1. Perform blood work to assess inflammation markers and CBC.
+2. Conduct a joint aspiration of the left knee to analyze synovial fluid for infection.
+3. Start the patient on antibiotics immediately.
+4. Consider hospital admission for further monitoring and treatment.
+5. X-ray may be needed to evaluate the knee joint.
+
+Follow-up appointments and monitoring will be necessary to track the patient's progress and response to treatment.

@@ -1,0 +1,41 @@
+**List of symptoms:**
+- Persistent cough
+- Dark yellow-greenish mucus when coughing
+- Cough worsens with physical activities like running
+- Coughing several times a day
+- Feeling of breathlessness during severe coughing fits
+- Chest pain when coughing
+- Warmth feeling in the past few days
+- Disturbed sleep due to coughing
+- Allergies to animals triggering eczema
+
+**List of possible diseases or illnesses:**
+- Acute bronchitis
+- Chronic bronchitis
+- Asthma exacerbation
+- Allergic rhinitis
+- Exercise-induced bronchoconstriction (EIB)
+- Eczema exacerbation
+
+**SOAP Note:**
+
+**Subjective:**
+The patient reports a persistent cough that started around six months ago, with worsening symptoms over the past week. The cough is associated with dark yellow-greenish mucus, worsens with physical activities like running, and occurs several times a day. The patient experiences breathlessness during severe coughing fits and chest pain when coughing. Additionally, the patient mentions feeling warmer in the past few days, disturbed sleep due to coughing at night, and allergies triggering eczema.
+
+**Objective:**
+- No reported fever, chills, nausea, vomiting, headaches, urinary problems, bowel problems, changes in weight, or recent infections.
+- Patient denies exposures to tuberculosis, inhalants, recent travel, night sweats, racing heart, fatigue, chest pain (except during coughing), and any family history of asthma.
+- Patient's current medications include hydrocortisone cream for eczema.
+- Patient's lifestyle includes occasional marijuana use and active participation in soccer and biking despite coughing during exercise.
+
+**Assessment:**
+1. The patient presents with symptoms suggestive of a respiratory condition, possibly acute bronchitis exacerbated by physical activities and allergic triggers.
+2. Differential diagnosis also includes chronic bronchitis, asthma exacerbation, allergic rhinitis, exercise-induced bronchoconstriction (EIB), and exacerbation of eczema due to allergies.
+3. The patient's chest pain during coughing warrants further evaluation to rule out any underlying cardiac issues.
+
+**Plan:**
+1. Recommend a chest X-ray to assess for any underlying lung pathology.
+2. Prescribe bronchodilators and/or corticosteroids to manage airway inflammation and improve breathing.
+3. Advise the patient to avoid allergens triggering eczema and consider antihistamines for symptom relief.
+4. Suggest lifestyle modifications to minimize exposure to irritants and allergens.
+5. Follow up with the patient in a week to monitor symptom progression and treatment effectiveness.

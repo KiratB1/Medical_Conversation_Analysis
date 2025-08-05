@@ -1,0 +1,36 @@
+**List of symptoms:**
+- Cough
+- Feeling short of breath
+- Feeling like having a fever
+- Persistent and harsh cough
+- Yellow sputum production
+- Chills
+- Muscle aches, particularly in lower limbs, thighs, and shoulders
+- Fatigue
+
+**List of possible diseases or illnesses:**
+- Recurrent pneumonia
+- Bacterial or viral respiratory infection
+- Pneumonia recurrence
+- Possible bacterial pneumonia
+- Respiratory tract infection
+
+**SOAP Note:**
+
+**Subjective:**
+The patient presents with a history of recent hospitalization for pneumonia, followed by the recurrence of symptoms including cough, shortness of breath, feeling like having a fever, yellow sputum production, chills, muscle aches, and fatigue. Symptoms have worsened since discharge, with cough being persistent and harsh. The patient denies chest pain, dizziness, lightheadedness, swelling, chest pain, headaches, nausea, vomiting, taste/smell changes, bowel issues, urinary trouble, weight loss, and recent travel. The patient reports living with family members who do not have similar symptoms.
+
+**Objective:**
+- No significant findings noted during the physical examination.
+- Past medical history includes hyperthyroidism and current medications include multivitamins, calcium, vitamin D, and Synthroid.
+- The patient completed a course of antibiotics post-discharge.
+
+**Assessment:**
+1. Recurrent pneumonia or bacterial respiratory infection likely given the recent hospitalization for pneumonia and symptom recurrence.
+2. Differential diagnosis includes viral respiratory infection or pneumonia recurrence.
+
+**Plan:**
+1. Conduct a COVID swab test to rule out COVID-19 infection.
+2. Perform a chest X-ray to assess for pneumonia.
+3. Obtain blood work to evaluate for signs of infection.
+4. Monitor the patient closely in the hospital setting until test results are available and further management can be determined.

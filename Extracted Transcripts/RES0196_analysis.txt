@@ -1,0 +1,43 @@
+**List of symptoms:**
+- Ear pain
+- Fever (38.8 degrees Celsius)
+- Pulling at ear
+- Crying due to pain
+- Fatigue
+- Tiredness
+- Missed school for three days
+
+**List of possible diseases or illnesses:**
+- Acute otitis media (ear infection)
+- Otitis media with effusion (fluid in the middle ear)
+- Otitis externa (swimmer's ear)
+- Possible upper respiratory infection
+- Possible bacterial infection leading to fever
+- Possible need for antibiotics
+
+**SOAP Note:**
+
+**Subjective:**
+An 8-year-old female patient presenting with a chief complaint of right ear pain, fever for the past two days (38.8 degrees Celsius), and fatigue. The patient has a history of recurrent ear infections since the age of 2, with the last episode occurring at the age of 7. The pain started three days ago, accompanied by crying and pulling at the ear. The patient has missed school for three days due to the symptoms.
+
+**Objective:**
+- Vital signs: Fever of 38.8 degrees Celsius
+- Pain noted in the right ear
+- No visible drainage from the ear
+- No reported cough, runny nose, sore throat, or other cold symptoms
+- No recent travel or sick contacts reported
+- No nausea, vomiting, changes in bowel movements
+- Patient appears fatigued but otherwise in good general health
+
+**Assessment:**
+1. Acute otitis media likely due to the patient's history of recurrent ear infections, ear pain, and fever.
+2. Rule out other possible ear conditions such as otitis media with effusion or otitis externa.
+3. Consideration for bacterial infection given the presence of fever.
+4. Differential diagnosis includes upper respiratory infection.
+
+**Plan:**
+1. Perform a full physical examination, focusing on the ear to assess for inflammation or perforation.
+2. Consider prescribing antibiotics based on physical examination findings and previous history of requiring antibiotics for ear infections.
+3. Provide conservative management with pain medications and ear drops if appropriate.
+4. Monitor the patient's symptoms and consider COVID-19 testing if additional symptoms develop.
+5. Follow up with the patient to assess response to treatment and ensure resolution of symptoms.

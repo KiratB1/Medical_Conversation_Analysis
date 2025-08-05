@@ -1,0 +1,41 @@
+**List of symptoms:**
+- History of asthma since childhood
+- Shortness of breath during exercise
+- Throat closing sensation
+- Wheezing during exercise
+- Dry cough, occasionally with clear, whitish material
+- Eczema flare-ups on hands during winter
+
+**List of possible diseases or illnesses:**
+- Asthma exacerbation
+- Exercise-induced bronchoconstriction (EIB)
+- Allergic asthma
+- Eczema exacerbation
+
+**SOAP Note:**
+
+**S:**
+- Patient presents with a history of asthma diagnosed at age 13, previously managed with puffers but has been symptom-free for the last five years until recently.
+- Reports shortness of breath and throat closing sensation during exercise, along with wheezing and dry cough mainly with physical activity.
+- Notes eczema flare-ups on hands during winter.
+- Denies chest pain, weight loss, fevers, chills, heart racing, nighttime symptoms, dizziness, fainting, headaches, reflux, heartburn, nausea, vomiting, changes in bowel movements, and other systemic symptoms.
+
+**O:**
+- Patient appears in good general health.
+- No acute distress observed.
+- Lungs clear to auscultation with wheezing heard during exercise.
+- Skin examination reveals eczematous changes on hands.
+- No other abnormalities noted on physical examination.
+
+**A:**
+1. Asthma exacerbation: Based on the patient's history of asthma, presenting symptoms of shortness of breath, wheezing, and cough exacerbated by exercise.
+2. Exercise-induced bronchoconstriction (EIB): Considering the symptoms triggered specifically by physical activity.
+3. Allergic asthma: Given the seasonal allergies and recent symptom onset during winter months.
+4. Eczema exacerbation: Noted eczema flare-ups on hands correlating with the winter season.
+
+**P:**
+1. Pulmonary function test (PFT) and chest X-ray to assess lung function and establish a baseline.
+2. Initiate treatment with short-acting beta-agonist and inhaled corticosteroid for asthma management.
+3. Educate the patient on proper inhaler technique and adherence to the prescribed medications.
+4. Follow-up appointment scheduled to monitor response to treatment and adjust management as needed.
+5. Consider additional therapies such as Cromolyn for possible athletic asthma after further evaluation.

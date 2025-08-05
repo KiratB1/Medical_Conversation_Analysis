@@ -1,0 +1,48 @@
+**List of symptoms:**
+- Cough that started two days ago and worsening
+- Rust colored sputum
+- Shortness of breath triggered by exertion or movement
+- Feeling like not able to get a full breath
+- Cough producing 3-4 teaspoons of sputum every couple of hours
+- Fever (38.2°C) and chills
+- Feeling chilly
+- Runny nose and sore throat a couple of weeks ago
+- Fatigue, poor appetite, feeling like sleeping all day
+- Breathing faster
+- Feeling heart beating faster than usual
+
+**List of possible diseases or illnesses:**
+- Pneumonia (bacterial or viral)
+- Acute bronchitis
+- COVID-19 infection
+- Chronic obstructive pulmonary disease (COPD)
+- Heart condition exacerbation
+
+**SOAP Note:**
+
+**Subjective:**
+The patient presents with a cough that started two days ago, worsening over time, and producing rust colored sputum. They report shortness of breath triggered by exertion or movement, with a sensation of not being able to take a full breath. The patient also mentions fever, chills, runny nose, sore throat a few weeks ago, fatigue, poor appetite, and feeling like sleeping all day. They note breathing faster and a sensation of the heart beating faster than usual.
+
+**Objective:**
+- Vital signs: Fever of 38.2°C, chills
+- No swelling in extremities noted
+- No chest pain, blood in cough or sputum
+- No dizziness, fainting episodes
+- No chest pain with breathing
+- No significant weight changes
+- Left hand issues post-stroke, managed with Botulinum toxin injections
+- Medications: Metformin, Empagliflozin, insulin, aspirin, multivitamin, vitamin D
+- Smoking history of 45 years, half pack per day
+- Retired Grade 3 teacher, no external support needed
+
+**Assessment:**
+1. Possible pneumonia or acute bronchitis based on cough, sputum production, shortness of breath, and fever.
+2. Differential diagnosis includes COVID-19 infection due to pandemic context and respiratory symptoms.
+3. Consider exacerbation of COPD or heart condition given the patient's smoking history and symptoms.
+
+**Plan:**
+1. Conduct a physical examination focusing on respiratory system and vitals.
+2. Order blood work, chest x-ray, and COVID swab test to confirm diagnosis.
+3. Monitor shortness of breath closely during the visit and provide assistance if needed.
+4. Discuss smoking cessation resources with the patient to address long-term health concerns.
+5. Follow up with the patient post-test results for further management and treatment planning.

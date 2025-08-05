@@ -1,0 +1,37 @@
+**List of symptoms:**
+- Loss of smell for the past two days
+- Loss of taste
+- Fatigue
+- Dry feeling
+- Feeling a little hot
+
+**List of possible diseases or illnesses:**
+- COVID-19
+- Viral upper respiratory infection
+- Sinusitis
+
+**SOAP note:**
+
+**Subjective:**
+The patient reports a loss of smell and taste for the past two days, along with feeling fatigued and a dry sensation. The patient mentions concerns about COVID-19 due to these symptoms.
+
+**Objective:**
+- No cough, shortness of breath, chest pain, palpitations, nausea, vomiting, diarrhea, constipation, urinary changes, headaches, fevers, chills, night sweats, sore throat, runny nose, congestion, eye pain, ear pain, rashes, recent weight changes, or recent sore throat.
+- Patient has a history of eczema and a peanut allergy, for which she carries an EpiPen.
+- Patient takes birth control and uses steroid cream for eczema flares.
+- No known allergies to medications, no history of surgeries or hospitalizations, no current illnesses in the family, except for uncle with prostate cancer.
+
+**Assessment:**
+1. Differential diagnosis:
+   - COVID-19: Loss of smell and taste are common symptoms.
+   - Viral upper respiratory infection: Presents with similar symptoms.
+   - Sinusitis: Can cause loss of smell and taste, along with fatigue.
+
+2. Rule out COVID-19 with a nasal swab test to confirm the diagnosis.
+
+**Plan:**
+1. Perform a nasal swab test for COVID-19.
+2. Advise the patient to self-isolate for the next 14 days after symptoms resolve.
+3. Monitor symptoms and follow up with the patient when test results are available.
+4. Consider symptomatic relief measures for fatigue and dry sensation.
+5. Educate the patient on COVID-19 precautions and the importance of self-isolation.

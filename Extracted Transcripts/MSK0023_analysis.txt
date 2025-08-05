@@ -1,0 +1,35 @@
+**List of symptoms:**
+- Knee pain
+- Swelling
+- Bruising
+- Sharp pain in the knee
+- Inability to walk or bear weight on the knee
+- Pain with bending or straightening the knee
+- Pain rated 9-10 out of 10
+
+**List of possible diseases or illnesses:**
+- Knee ligament injury, possibly anterior cruciate ligament (ACL) injury
+
+**SOAP Note:**
+
+**Subjective:**
+- A 10th-grade student presented with left knee pain that started after a basketball injury during practice about 6 hours ago.
+- The patient described hearing a pop in the knee while landing for a rebound, followed by immediate sharp pain.
+- Pain is localized to the left knee, with swelling, bruising, and inability to bear weight.
+- Pain is sharp and rated 9-10 out of 10, exacerbated by knee movements.
+
+**Objective:**
+- Physical examination reveals bruising and swelling around the left knee.
+- Limited range of motion with pain on flexion, extension, and weight-bearing.
+- No signs of warmth to touch or systemic symptoms noted.
+
+**Assessment:**
+- Suspected knee ligament injury, likely anterior cruciate ligament (ACL) injury based on mechanism of injury and symptoms reported by the patient.
+
+**Plan:**
+1. Order an MRI of the knee to assess the extent of ligament damage.
+2. Depending on MRI findings, consider conservative management or surgical intervention.
+3. Educate the patient on the importance of rest, ice, elevation, and possibly crutches for mobility support.
+4. Follow up with the patient post-MRI to discuss treatment options and further management.
+
+Note: The patient's history of previous ankle sprains and family history of musculoskeletal conditions (rotator cuff injury in father) may be relevant for future considerations in treatment and rehabilitation.

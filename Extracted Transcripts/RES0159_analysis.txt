@@ -1,0 +1,56 @@
+**List of Symptoms:**
+- Persistent dry cough for the last 5-6 months
+- Increasing shortness of breath, especially with exertion
+- Discomfort and pain when taking deep breaths
+- Night sweats for the last couple of weeks to a month
+- Unintentional weight loss of 15 pounds in the last two months
+- Muscle aches and joint pains (attributed to osteoarthritis)
+- Nocturnal dyspnea or orthopnea not reported
+- No coughing up blood
+- No fevers or chills
+- No changes in bowel movements or urinary symptoms
+- No abdominal pain
+- No headaches
+- No falls, confusion, loss of consciousness
+
+**Possible Diseases or Illnesses:**
+- Chronic obstructive pulmonary disease (COPD)
+- Asthma exacerbation
+- Lung cancer
+- Tuberculosis
+- Pneumonia
+- Bronchitis
+- Pulmonary embolism
+- Heart failure
+- Chronic bronchitis
+
+**SOAP Note:**
+
+**Subjective:**
+The patient presents with a persistent dry cough for the last 5-6 months, worsening shortness of breath, chest discomfort, night sweats, unintentional weight loss, and generalized muscle and joint pain. No fevers, chills, hemoptysis, gastrointestinal, or urinary symptoms reported. The patient has a long smoking history of 55 years, currently smoking one pack a day. The patient also has a history of osteoarthritis and benign prostatic hyperplasia (BPH).
+
+**Objective:**
+- Vital signs: Pending
+- Physical examination: Pending
+- Laboratory tests ordered: Chest X-ray, pulmonary function tests, complete blood count (CBC), comprehensive metabolic panel (CMP)
+
+**Assessment:**
+1. Differential diagnosis includes:
+   - Chronic obstructive pulmonary disease (COPD)
+   - Asthma exacerbation
+   - Lung cancer
+   - Tuberculosis
+   - Pneumonia
+   - Bronchitis
+   - Pulmonary embolism
+   - Heart failure
+   - Chronic bronchitis
+
+**Plan:**
+1. Perform a thorough physical examination focusing on the respiratory system.
+2. Order chest X-ray to evaluate lung pathology.
+3. Conduct pulmonary function tests to assess lung function.
+4. Obtain a complete blood count (CBC) and comprehensive metabolic panel (CMP) for further evaluation.
+5. Advise the patient to follow up for results and further management recommendations.
+6. Discuss smoking cessation strategies and provide resources for support.
+7. Consider referral to a pulmonologist for further evaluation and management.

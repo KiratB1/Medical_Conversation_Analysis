@@ -1,0 +1,44 @@
+**List of symptoms:**
+- Sore throat for the past three days
+- Feverish feeling
+- Fever noticed a day ago
+- Hot with chills
+- Constant sore throat, worsening
+- Painful swallowing
+- Lumps in the neck
+- Fatigue
+- Difficulty eating solids due to sore throat
+
+**List of possible diseases or illnesses:**
+- Viral infection
+- Mononucleosis (mono)
+- COVID-19
+
+**SOAP Note:**
+
+**Subjective:**
+The patient presents with a sore throat persisting for three days, accompanied by fever, chills, fatigue, painful swallowing, and lumps in the neck. The sore throat is constant and worsening, with difficulty eating solids. The patient denies cough, chest pain, skin changes, recent travel, headaches, nausea, vomiting, night sweats, chest pain, changes in bowel movements or urination, but reports feeling tired. Patient has a history of Crohn's disease and lives with family members who have a history of Crohn's disease, ulcerative colitis, asthma, and eczema.
+
+**Objective:**
+- Swelling in neck region
+- No visible skin changes, rashes, or swelling elsewhere on the body
+- No lymph node swelling in the entire neck
+- No reported changes in urination or bowel movements
+- No reported chest pain, heart racing, headaches, nausea, vomiting, night sweats, or skin changes
+- No recent infections or travel history
+- Patient on Sulfasalazine for Crohn's disease, had a colonoscopy last year, and no other current medications or surgeries
+
+**Assessment:**
+1. Differential diagnosis includes:
+   - Viral infection
+   - Mononucleosis (mono)
+   - COVID-19
+
+2. Considering the patient's symptoms and history of Crohn's disease, further testing for COVID-19 and mono (EBV antibody testing) is recommended to rule out potential infections.
+
+**Plan:**
+1. Perform COVID-19 swab testing and mono (EBV antibody) testing.
+2. Advise the patient to self-isolate until test results are available.
+3. Follow up with the patient in 24-48 hours to discuss test results and next steps.
+4. Provide supportive care for symptom management, such as rest, hydration, and throat lozenges.
+5. Monitor for any worsening symptoms and advise seeking medical attention if necessary.

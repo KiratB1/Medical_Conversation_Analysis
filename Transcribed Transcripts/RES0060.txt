@@ -1,0 +1,126 @@
+D: What brings you in?
+P: So I've had a fever that I measured this morning, and I've had a cough these last several days.
+D: Okay. For like four days. Five, six. How long has it been?
+P: Yeah, today's Friday, so started Monday. So I guess like. Yeah, the cough started four days ago.
+D: Okay. And the fever started four days ago as well.
+P: Well, I was feeling. I've been feeling hot this week, but I checked my temperature this morning and it was. That was the first time I checked it, and it was 38.5.
+D: Okay. So that's definitely a fever. We can take your temperature. Take today as well. So have your symptoms been the same or getting worse or getting better over the past few days?
+P: They've been getting worse. I've been starting to feel really fatigued and tired as well. And the cough has gotten worse too.
+D: Okay. Have you ever felt like this before?
+P: Maybe a really long time ago when I was a kid or something like that. Maybe when I had the flu, but nothing recently.
+D: Okay. Do you have a sore throat at all?
+P: No sore throat. It does get a little scratchy with. With my cough, but hasn't been sore.
+D: Okay. And do you have any issues swallowing food?
+P: No, but I haven't been as hungry.
+D: Okay, you haven't been as hungry. Have you had any changes to your taste?
+P: No, I feel like I've been tasting my food. Okay.
+D: Okay. How about smell?
+P: I feel like I've been able to smell. Okay.
+D: Okay. Do you have a runny nose or a blocked nose? Do you feel congested?
+P: Maybe a little runny, but not too bad.
+D: Okay. How about your hearing or vision? Any changes there?
+P: No, I haven't noticed anything.
+D: Okay. Any pain or discharge from either your ears or eyes?
+P: No, nothing like that.
+D: Okay, so let's go back to the cough. Are you producing any sputum?
+P: No sputum.
+D: Okay, so it's a dry cough.
+P: Yeah, it is.
+D: Okay. Any blood associated with the cough?
+P: I haven't seen any blood.
+D: Okay. Do you feel wheezy at all?
+P: I haven't noticed any wheeze.
+D: Okay, how about shortness of breath.
+P: Usually? Well, if I. After some of my coughing fits, I can be a little bit shorter breath, but otherwise I've been okay.
+D: Okay. Any. Any chest pain?
+P: No, I haven't had any chest pain.
+D: Okay. Do you ever feel like your heart's racing?
+P: No, I don't.
+D: Okay. And any night sweats or chills?
+P: Have felt a little. A little chilly at night, but I haven't had any night sweats.
+D: Okay. How about weight loss? Have you had any Weight loss over the past few months?
+P: No, my weight's been about the same, maybe down a few pounds these last or over this week, so I just haven't been eating as much.
+D: Okay. Yeah. Does anything make the cough better or worse?
+P: No, I can't think of anything.
+D: Okay. And how have your bowel movements been?
+P: They've. I would say they've been normal.
+D: Okay. And any abdominal pain?
+P: No pain, but I have been a little nauseous.
+D: Nauseous. Okay. Have you thrown up?
+P: No, I haven't vomited, but I've certainly felt like it a few times.
+D: Okay. And any triggers for your nausea?
+P: I can't think of anything. I just. It just sort of came on and it went away with on its own pretty quickly, but I don't know, maybe it was when I. When I had had my headache.
+D: Oh, okay. When. When did your headache start?
+P: So I. It's been. They've been kind of on and off over these last several days, so I've been kind of resting a bit more too.
+D: Okay. Yeah, on and off for the past several days. You said have you ever had headaches before?
+P: Yeah, I've had. I think they're called tension headaches. I get those every so often. And we'll take Advil or something like that for them and they usually go away.
+D: Okay. Do these headaches feel like the same headaches?
+P: Yeah, they feel about the same. Kind of like a pressure or a vice grip on my head.
+D: Okay. Okay. So it's not like the worst headache you've ever experienced?
+P: No, I think it's just been part of how I haven't been feeling well these last few days.
+D: Okay. Yeah. And do you feel fatigued or tired at all?
+P: Yeah, for sure. I haven't really had any changes, but just haven't been really getting my work done throughout the day because. Just been feeling so tired.
+D: Yeah. Any. Do you feel any sort of body aches that go along with your fatigue?
+P: Maybe a little.
+D: A little. Okay. Can you think of anything that may have caused your symptoms? You know, have you been in contact with anyone who's been sick recently?
+P: I can't think of anybody I've been around who's been sick, but last weekend I went shopping in the mall, so I went into quite a few stores.
+D: Okay. And you were wearing your mask? Everyone else was wearing their mask?
+P: Yeah, everybody that I. As far as I can tell.
+D: Okay. Have you traveled anywhere recently?
+P: No, I've been home.
+D: Been home. Okay, I just want to ask you a few more questions. Any memory loss or confusion? No, Any dizziness or fainting spells?
+P: Nothing like that, no.
+D: Okay. Are you otherwise healthy?
+P: Yeah, well, I've been told I had high cholesterol. I've been taking Rosuvastatin for that the past few years.
+D: Okay, and is it helping with your cholesterol levels?
+P: Yeah, the last time I was at the family doctor, I was told they were at a good level.
+D: Okay. Okay, good.
+P: And I think. I'm sorry, I'm pre diabetic as well.
+D: Okay. When was the last time you had blood work done?
+P: I think, I don't know, six months ago.
+D: Okay. Okay. And that's when you were told you were pre diabetic?
+P: Yeah, I think my A1C was like 6.2%, so on the cusp.
+D: Okay. Yep. That's. That's understandable. Have you made any sort of lifestyle changes to get your blood glucose under control?
+P: Well, been walking the dog more, the weather's getting better and trying to eat out less often.
+D: Okay.
+P: Yeah.
+D: Go ahead.
+P: Oh, sorry. I was gonna say, yeah, I've been trying to lose weight, but it. It's been. Yeah, relatively stable still.
+D: Okay. Okay. We can review some options with you later on in the visit if you would like.
+P: Yeah, certainly. We can talk about that later.
+D: Okay, sounds good. Have you had any surgeries or hospitalizations in the past?
+P: Yeah, I had a inguinal hernia repaired about five years ago.
+D: Five years ago. Okay. And are you on any medications?
+P: Just Rosuvastatin right now.
+D: Okay. Any over the counter medications or herbal supplements?
+P: Just a multivitamin.
+D: Okay. Do you have any allergies?
+P: Penicillin? I break out in hives.
+D: Okay. Did you need to be treated with any sort of antibiotics recently?
+P: No, I haven't had antibiotics for a long time.
+D: Okay. And are you up to date with all your immunizations?
+P: I am, yeah. I get the flu shot every year.
+D: Okay. Yeah. That's really good. Do you know if you have any family history of any lung conditions or heart conditions?
+P: No, I don't think so, no.
+D: Okay. How about cancers in the family?
+P: I think my grandfather had bladder cancer, but I'm not sure.
+D: Okay. And I forget if I asked you earlier, but have you had any changes to your urinary habits? Any changes in your urine itself or avoiding frequency?
+P: No, I haven't had any changes there and I haven't noticed any, like, blood or color changes. No pain either.
+D: Okay. Okay, good. And do you smoke?
+P: No, I do not.
+D: No. Okay. How about marijuana?
+P: Nope.
+D: Any other recreational drug?
+P: No, I just have a few beers on the weekend, like Probably, I don't know, two or three on Saturday and Sunday.
+D: Okay. Okay. And where do you live?
+P: Live in a, like, duplex and rent the basement on a house nearby.
+D: Okay. Do you live with anyone?
+P: Yeah, I live with my girlfriend.
+D: Okay. And any concerns for, you know, old carpets or mold or asbestos and the duplex that you're living in?
+P: Not in our unit, so, I mean, maybe upstairs, but if it's anything like our place, then no.
+D: Okay. I think those were all the questions that I had for you. Did you have any questions or concerns that you wanted to bring up before we end the interview?
+P: No. Well, I guess I was just concerned about COVID.
+D: Yeah. You know, that's the top on my list of differential diagnoses for you. So what we'll do is we'll do a Covid swab, and that should come back in a day or so. But we will. We do encourage isolation for 14 days, and that includes from your girlfriend as well. So even if the COVID swab comes back negative, sometimes it falls negative. So as long as you're having these symptoms, these symptoms are common in Covid, So we do ask that you isolate for 14 days. If the swab comes back positive, we will also notify Public Health so that they can get in touch with you and do some contact tracing to see where you may have gotten Covid from. But other than that, if it's not Covid, it could likely be another upper respiratory viral illness, because this time of year, a lot of different viruses are going around, like adenovirus or the flu, you know, so it could be one of those. And then if you're still sick or your symptoms change, we can reassess at to make sure it's not a bacterial infection or, you know, bacterial pneumonia, in which case we can prescribe antibiotics.
+P: Okay. Yeah. Thank you for all of that information. That sounds great.
+D: Okay. Well, take care then.
+P: All right. Thank you.

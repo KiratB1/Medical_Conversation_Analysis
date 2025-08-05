@@ -1,0 +1,32 @@
+**List of symptoms:**
+- Sore throat for the last week
+- Chills over the last few nights
+- Feeling tired over the last week
+- Pain when swallowing
+- Red and angry-looking back of the throat
+- Feeling lumps on both sides of the neck
+
+**List of possible diseases or illnesses:**
+- Strep throat
+- Mononucleosis (mono)
+- Viral infection
+
+**SOAP Note:**
+
+**Subjective:**
+The patient presents with a sore throat lasting for a week, accompanied by chills over the last few nights, fatigue, pain when swallowing, and feeling lumps on both sides of the neck. The patient reports no cough, headaches, stuffy/runny nose, sinus congestion, difficulty breathing, chest pain, palpitations, changes in bowel movements, urinary concerns, belly pain, or muscle aches. The patient denies any significant medical history, medications, allergies, or recent exposures to sick individuals. The patient mentions that their boyfriend had similar symptoms a few weeks ago, which resolved without medical intervention.
+
+**Objective:**
+Upon examination, the back of the patient's throat appears red and angry-looking. The doctor plans to perform a rapid strep test and examine the neck for the presence of lumps. Vital signs, including temperature, will be assessed during the visit.
+
+**Assessment:**
+1. Possible strep throat based on symptoms of sore throat, pain when swallowing, and redness in the throat.
+2. Mono (mononucleosis) is also considered due to the presence of fatigue, chills, and neck lumps.
+3. Viral infection is a differential diagnosis given the patient's presentation.
+
+**Plan:**
+1. Conduct a rapid strep test to confirm or rule out strep throat.
+2. Perform a physical examination to assess the neck lumps.
+3. Consider additional tests, such as a blood test for mono, if indicated.
+4. Advise the patient to continue using lozenges and staying hydrated for throat comfort.
+5. Discuss treatment options based on test results, which may include antibiotics for strep throat or activity restrictions for mono.

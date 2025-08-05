@@ -1,0 +1,43 @@
+**List of symptoms:**
+- Cough with green/yellowish gunk
+- Increased fatigue
+- Low energy levels
+- Swollen hands, feet, ankles
+- Nocturia (frequent urination at night)
+- Poor sleep quality
+- Unintentional weight loss
+- High blood pressure
+- Smoking history
+
+**List of possible diseases or illnesses:**
+- Chronic bronchitis
+- Chronic obstructive pulmonary disease (COPD)
+- Pneumonia
+- Congestive heart failure
+- Sleep apnea
+- Urinary tract infection
+- Smoking-related complications
+
+**SOAP Note:**
+
+**Subjective:**
+The patient presents with a chronic cough that has been ongoing for the past few years, with recent worsening of symptoms, including coughing up green/yellowish gunk. The cough is more prominent in the mornings and has been associated with increased fatigue, low energy levels, and unintentional weight loss. The patient reports swelling in the extremities, frequent urination at night, poor sleep quality, and a history of high blood pressure. Additionally, the patient has a significant smoking history of one to two packs of cigarettes per day for nearly 40 years.
+
+**Objective:**
+- No fever, chills, night sweats, or chest pain reported.
+- No significant findings on physical examination (not provided in the transcript).
+
+**Assessment:**
+1. Chronic bronchitis or COPD: Considering the chronic cough with sputum production, worsening symptoms, and smoking history.
+2. Possible pneumonia: Given the presence of green/yellowish sputum and fatigue.
+3. Uncontrolled high blood pressure: History of diagnosed high blood pressure.
+4. Smoking-related complications: Increased risk due to long-term smoking habits.
+
+**Plan:**
+1. Order chest X-ray to evaluate lung changes.
+2. Perform spirometry to assess lung function.
+3. Consider sputum culture to identify any underlying infections.
+4. Initiate smoking cessation counseling and support.
+5. Monitor blood pressure and consider adjustments to current medication (Lisinopril).
+6. Advise lifestyle modifications, including regular exercise and a balanced diet.
+7. Follow-up appointment to review diagnostic results and adjust treatment plan accordingly.

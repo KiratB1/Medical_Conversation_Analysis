@@ -1,0 +1,38 @@
+**List of symptoms:**
+- Cough
+- Shortness of breath
+- Fever (38.5°C)
+- Dry cough
+- Abdominal pain
+- Nausea
+- Loss of appetite
+- Muscle aches
+- Loss of smell
+- Loss of appetite
+
+**List of possible diseases or illnesses:**
+- Covid-19
+- Upper respiratory tract infection
+- Pneumonia
+- Influenza
+- Gastritis
+
+**SOAP Note:**
+
+**Subjective:**
+The patient presents with a two-day history of cough, shortness of breath, fever (38.5°C), dry cough, abdominal pain, nausea, loss of appetite, muscle aches, and loss of smell. The symptoms have been progressively worsening over the past two days. The patient also reports no chest pain, heart palpitations, runny nose, changes in vision or hearing, weight loss, rashes, changes in bowel movements, dizziness, fainting spells, memory loss, confusion, or joint aches. The patient has a medical history of type 2 diabetes and high blood pressure, with current medications being metformin and an ACE inhibitor.
+
+**Objective:**
+- Vital signs: Fever of 38.5°C
+- Physical examination: No chest pain, heart palpitations, runny nose, changes in vision or hearing, weight loss, rashes, changes in bowel movements, joint aches, or signs of distress.
+
+**Assessment:**
+1. Possible Covid-19 infection given the presence of fever, cough, shortness of breath, loss of smell, and potential exposure at work.
+2. Differential diagnosis includes upper respiratory tract infection, pneumonia, influenza, and gastritis.
+
+**Plan:**
+1. Covid-19 swab test to confirm diagnosis.
+2. Isolation for 14 days.
+3. Supportive care at home with hydration, rest, and proper nutrition.
+4. Monitor symptoms and seek emergency care if symptoms worsen or new concerning symptoms develop.
+5. Follow-up in 24-48 hours for test results.

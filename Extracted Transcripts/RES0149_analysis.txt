@@ -1,0 +1,37 @@
+**List of symptoms:**
+- Shortness of breath
+- Chest pain while breathing deeply
+- Pain on the right side of the chest
+- Swelling and warmth in the left calf area
+- Difficulty breathing while walking
+- Stabbing sensation in the chest when taking a deep breath, coughing, or laughing
+
+**List of possible diseases or illnesses:**
+- Pulmonary embolism
+- Pneumonia
+- Pleurisy
+- Anxiety-related chest pain
+- Deep vein thrombosis in the left leg
+
+**SOAP Note:**
+
+**Subjective:**
+The patient presents with sudden onset of difficulty breathing starting this morning, associated with chest pain on the right side exacerbated by deep breaths, coughing, or laughing. The patient also reports swelling and warmth in the left calf area. There is a history of recent long-distance travel from India due to a family emergency. The patient mentions past diagnosis of anxiety and childhood asthma but no current medications.
+
+**Objective:**
+- Chest pain on the right side with deep inspiration
+- Swelling and warmth in the left calf area
+- No cough, wheeze, fever, chills, night sweats, changes in weight, nausea, vomiting, changes in taste or smell, runny nose, sore throat, diarrhea, urinary problems, skin changes, or rashes
+- No history of recent trauma, surgeries, or hospitalizations except for appendectomy at age 30
+- No current medication use, allergies, smoking, alcohol consumption, recreational drug use
+- Family history of heart attack, diabetes on both sides
+
+**Assessment:**
+1. Possible pulmonary embolism given the recent long-distance travel, chest pain exacerbated by deep breaths, and swelling in the left calf.
+2. Differential diagnosis includes pneumonia, pleurisy, anxiety-related chest pain, and deep vein thrombosis in the left leg.
+
+**Plan:**
+1. Perform a physical exam including vital signs, heart, lung, and lower extremity assessment.
+2. Order imaging studies to assess for pulmonary embolism.
+3. Consider further investigations based on physical exam findings and imaging results.
+4. Monitor for any signs of worsening symptoms and provide appropriate management.

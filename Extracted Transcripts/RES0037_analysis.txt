@@ -1,0 +1,42 @@
+**List of symptoms:**
+- Coughing for over two months
+- Yellow, greenish sputum
+- Teaspoon of sputum throughout the day
+- Pink tinge in sputum
+- Coughing a few times an hour
+- Night sweats
+- Fevers and feeling hot
+- Weight loss
+- Reduced appetite
+
+**List of possible diseases or illnesses:**
+- Chronic bronchitis
+- Tuberculosis
+- Pneumonia
+- Lung cancer
+- Pulmonary fibrosis
+
+**SOAP Note:**
+
+**Subjective:**
+The patient presents with a persistent cough for over two months, bringing up yellow, greenish sputum with a pink tinge, and experiencing night sweats. They report fevers, feeling hot, weight loss, and reduced appetite. The coughing occurs multiple times an hour and impacts sleep.
+
+**Objective:**
+- Patient is a smoker for 30 years, trying to cut down.
+- Recent travel to India, staying in crowded conditions.
+- No wheezing, chest pain, swelling, bowel movement changes, urinary problems, or dizziness/fainting.
+- History of high blood pressure, type 2 diabetes, and high cholesterol, on medications for these conditions.
+- Family history of heart attack in mother at 48.
+
+**Assessment:**
+1. Differential diagnosis includes:
+   - Chronic bronchitis
+   - Tuberculosis
+   - Pneumonia
+   - Lung cancer
+   - Pulmonary fibrosis
+
+**Plan:**
+1. Order chest X-Ray to investigate for tuberculosis and pneumonia.
+2. Consider sputum culture for further evaluation.
+3. Follow up with the patient after test results to determine the next steps in management.

@@ -1,0 +1,30 @@
+**List of symptoms:**
+- Sore throat for the last three or four days
+- Pain with swallowing, especially solids
+- Hoarseness
+- Neck swelling on one side
+- Fever for the last two days
+
+**List of possible diseases or illnesses:**
+- Pharyngitis
+- Tonsillitis
+- Strep throat
+- Lymphadenitis
+
+**SOAP Note:**
+- **Subjective:**
+  - The patient presents with a sore throat, pain with swallowing, hoarseness, neck swelling on one side, and fever for the last two days. The symptoms have been persistent for the last three to four days.
+
+- **Objective:**
+  - Physical examination to be conducted to assess for lymph node enlargement and signs of exudates or purulence in the throat.
+  - Rapid strep test to be performed to determine the presence of streptococcal infection.
+
+- **Assessment:**
+  - Differential diagnosis includes pharyngitis, tonsillitis, strep throat, and lymphadenitis based on the patient's symptoms.
+  - Suspected bacterial cause due to the absence of cough and presence of lymph node enlargement.
+
+- **Plan:**
+  - Conduct a physical exam to assess the throat and neck swelling.
+  - Perform a rapid strep test to confirm streptococcal infection.
+  - Consider prescribing antibiotics if strep throat is confirmed.
+  - Follow up with the patient after test results for further management.

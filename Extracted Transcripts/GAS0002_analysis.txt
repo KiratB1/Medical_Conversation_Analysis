@@ -1,0 +1,43 @@
+**List of symptoms:**
+- Pain in the upper right area of the abdomen
+- Severe sharp pain
+- Nausea
+- Decreased appetite
+- Fatigue
+- No vomiting
+- No changes in urinary habits or bowel patterns
+
+**List of possible diseases or illnesses:**
+- Gallstones
+- Gallbladder disease
+- Cholecystitis
+- Peptic ulcer disease
+- Gastritis
+
+**SOAP Note:**
+
+**Subjective:**
+The patient presents with severe sharp pain in the upper right area of the abdomen that started a few days ago, worsened three to four hours prior to the Emergency Department visit, and is rated as an 8 on a scale of 1 to 10. The pain is associated with nausea, decreased appetite, and fatigue. The patient reports no vomiting, changes in urinary habits, or bowel patterns. The pain started after a meal three days ago and has not been alleviated by over-the-counter pain medications.
+
+**Objective:**
+- Patient appears uncomfortable and in distress due to pain.
+- No signs of jaundice or skin changes noted.
+- No abdominal tenderness or guarding on physical examination.
+- Vital signs stable.
+
+**Assessment:**
+1. Differential Diagnosis:
+   - Cholecystitis
+   - Gallstones
+   - Peptic ulcer disease
+   - Gastritis
+
+2. Working Diagnosis:
+   - Cholecystitis
+
+**Plan:**
+1. Order laboratory tests including complete blood count, liver function tests, and abdominal ultrasound to confirm the diagnosis.
+2. Initiate pain management with appropriate analgesics.
+3. Consider consultation with a gastroenterologist for further evaluation and management.
+4. Advise the patient to follow a low-fat diet until further evaluation is completed.
+5. Schedule a follow-up appointment to review test results and adjust treatment plan accordingly.

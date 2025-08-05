@@ -1,0 +1,38 @@
+**List of symptoms:**
+- Pain at the base of the left thumb
+- Difficulty gripping or clenching
+- Pain worsens with movement, especially when trying to touch the pinky with the thumb or rotate the hand
+- Pain described as achy at baseline but sharp with movement
+- Pain rated as 6 out of 10
+- Pain localized to the base of the thumb, not radiating elsewhere
+- Painful ulnar deviation of the wrist
+- Pain with thumb movement but not with rotating the wrist
+
+**List of possible diseases or illnesses:**
+- De Quervain's tenosynovitis
+- Osteoarthritis (ruled out due to age but mentioned for consideration)
+- Repetitive strain injury
+
+**SOAP Note:**
+
+**Subjective:**
+The patient presents with a chief complaint of left thumb pain at the base for the past two days, which has worsened in the last day. The pain is described as achy at baseline but sharp with movement, particularly when attempting to touch the pinky with the thumb or rotate the hand. The pain is localized to the base of the thumb and does not radiate. The patient rates the pain as 6 out of 10. There is difficulty gripping or clenching, and painful ulnar deviation of the wrist was noted during examination. The patient is left-handed and engages in repetitive activities such as typing and handwritten notes with the left hand.
+
+**Objective:**
+- Pain localized to the base of the left thumb
+- Painful ulnar deviation of the wrist
+- Difficulty making a fist and gripping with the left hand
+- No visible swelling or deformities noted
+- No signs of trauma or injury to the hand
+- No limitations in wrist rotation observed
+- Positive Finkelstein test with pain elicited during ulnar deviation
+
+**Assessment:**
+The patient's presentation is consistent with De Quervain's tenosynovitis, a condition often caused by repetitive motions and overuse of the wrist and thumb. Differential diagnosis includes osteoarthritis, although less likely given the patient's age and absence of prior hand injuries. Repetitive strain injury is also a consideration given the patient's work activities involving the left hand.
+
+**Plan:**
+1. Order X-Ray to rule out osteoarthritis.
+2. Initiate conservative management with a splint for the thumb to restrict movement and reduce swelling.
+3. Advise the patient to avoid activities that exacerbate pain and provide ergonomic recommendations for typing and writing.
+4. If conservative measures are ineffective, consider corticosteroid injection for symptom relief.
+5. Follow up with the patient to assess response to treatment and consider further interventions if necessary.

@@ -1,0 +1,40 @@
+**List of symptoms:**
+- Chest pain (left side)
+- Sharp pain
+- Lightheadedness
+- Trouble breathing
+- Racing heart
+- Sweating (related to breathing issues)
+- Pain worsens with laying down
+- Pain worsens with deep breaths
+
+**List of possible diseases or illnesses:**
+- Angina
+- Myocardial infarction (heart attack)
+- Pulmonary embolism
+- Pneumonia
+- Pleurisy
+- Pericarditis
+
+**SOAP Note:**
+
+**Subjective:**
+A 39-year-old male patient presented with severe chest pain on the left side that started last night and has been constant for approximately 8 hours. The pain is described as sharp and worsens with laying down and deep breaths. The patient also reports feeling lightheaded, having trouble breathing, a racing heart, and sweating. The pain is rated as a seven or eight on a scale of 1 to 10. The patient denies any recent trauma, prior similar episodes, or family history of strokes or cancers.
+
+**Objective:**
+- No visible signs of distress
+- No abnormal breath sounds
+- No wheezing heard
+- No neck pain or trauma
+- Neck appears slightly swollen
+
+**Assessment:**
+1. Acute chest pain with associated symptoms suggestive of a cardiac or pulmonary etiology.
+2. Differential diagnosis includes angina, myocardial infarction, pulmonary embolism, pneumonia, pleurisy, or pericarditis.
+
+**Plan:**
+1. Immediate referral to the emergency department for further evaluation and management.
+2. Consideration for cardiac enzymes, electrocardiogram (ECG), chest X-ray, and possibly a CT pulmonary angiography.
+3. Provide oxygen therapy if needed and monitor vital signs closely.
+4. Advise the patient to avoid physical exertion and continue to avoid laying down until further evaluation.
+5. Follow-up with the patient post-emergency department visit for further management and treatment plan.

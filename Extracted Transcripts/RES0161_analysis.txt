@@ -1,0 +1,35 @@
+**List of symptoms:**
+- Congestion around nose and face
+- Headaches mainly over cheeks and above nose
+- Yellowish nasal discharge
+- Fullness and pressure in ears
+- Feeling warm but unsure if fever
+- Fatigue
+- Runny nose, especially in the morning
+- Tiredness over the last few days
+
+**List of possible diseases or illnesses:**
+- Acute rhinosinusitis
+- Sinusitis
+- Viral infection causing sinus inflammation
+
+**SOAP Note:**
+
+**Subjective:**
+The patient presents with symptoms of congestion around the nose and face, headaches mainly over the cheeks and above the nose, yellowish nasal discharge, fullness and pressure in the ears, feeling warm, fatigue, and occasional runny nose. Symptoms have been worsening over the past 5 days, with associated tiredness.
+
+**Objective:**
+- Patient denies cough, sore throat, chest pain, difficulty breathing, muscle aches, weight loss, night sweats, or allergies.
+- Patient's daughter had a recent sore throat but tested negative for COVID-19.
+- Patient has a history of high cholesterol, high blood pressure, and a family history of heart attacks and cancer.
+- Patient is a current smoker but has significantly cut down on smoking in recent years.
+- Patient works from home as an accounting clerk.
+
+**Assessment:**
+Likely diagnosis of acute rhinosinusitis based on symptoms of sinus inflammation, headaches, nasal discharge, and ear pressure. Differential diagnosis includes sinusitis or viral infection causing sinus inflammation.
+
+**Plan:**
+1. Recommend conservative management for acute rhinosinusitis, including rest, over-the-counter medications like Tylenol for pain relief, steam baths for pressure relief, and increased water intake to clear mucus.
+2. Perform a physical exam and consult with attending physician for confirmation.
+3. Conduct a COVID-19 swab test due to overlapping symptoms with COVID-19. Advise patient to quarantine until results are available.
+4. Follow up with patient after test results to determine further course of action.

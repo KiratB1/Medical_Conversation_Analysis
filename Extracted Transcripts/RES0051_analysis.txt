@@ -1,0 +1,33 @@
+**List of symptoms:**
+- Cough for the past five days
+- Sore throat
+- Loss of taste
+- Fatigue
+
+**List of possible diseases or illnesses:**
+- Common cold
+- Upper respiratory tract infection
+- Viral infection
+
+**SOAP Note:**
+
+**Subjective:**
+The patient presents with a cough for the past five days, accompanied by a sore throat, loss of taste, and fatigue. No history of similar symptoms before. Denies chest pain, wheezing, abdominal pain, nausea, vomiting, urinary problems, and other systemic symptoms.
+
+**Objective:**
+- Patient appears alert and oriented.
+- No signs of respiratory distress.
+- No fever noted during the visit.
+- No abnormal findings on physical examination.
+
+**Assessment:**
+1. Viral upper respiratory tract infection likely causing the patient's symptoms.
+2. Rule out COVID-19 with a test due to overlapping symptoms.
+3. Differential diagnosis includes common cold and other viral infections.
+
+**Plan:**
+1. Conduct a physical examination.
+2. Perform a COVID-19 test.
+3. Advise 14 days of self-isolation until test results are received.
+4. Monitor symptoms and provide supportive care for the common cold.
+5. Follow up with the patient to discuss test results and further management.

@@ -1,0 +1,33 @@
+**List of symptoms:**
+- Feeling hot
+- Cough (dry, persistent)
+- Fatigue
+
+**List of possible diseases or illnesses:**
+- Viral infection
+- COVID-19
+- Common cold (adenovirus)
+- Bacterial infection (pneumonia or lower respiratory tract infection)
+
+**SOAP Note:**
+
+**S:**
+- Patient reports feeling hot for the past two days, accompanied by a dry cough and significant fatigue.
+- Denies any recent infections, headaches, chest pain, difficulty breathing, wheezing, palpitations, dizziness, nausea, vomiting, diarrhea, constipation, abdominal pain, urinary symptoms, night sweats, chills, weight loss, rashes, joint/muscle pain, and recent surgeries.
+- Patient has a history of rheumatoid arthritis and takes DMARD, iron, vitamin D, and biotin.
+
+**O:**
+- Temperature measured at 38.3°C during the visit.
+- No other physical examination findings mentioned in the transcript.
+
+**A:**
+- Differential diagnosis includes viral infection, COVID-19, common cold (adenovirus), and bacterial infection such as pneumonia or lower respiratory tract infection.
+- Rheumatoid arthritis is a chronic condition that may impact the immune response and overall health.
+- The patient's symptoms warrant further investigation to determine the underlying cause of fever and cough.
+
+**P:**
+1. Order nasal PCR swab for COVID-19 testing.
+2. Conduct blood work to assess for infection markers.
+3. Consider chest X-ray to evaluate for pneumonia or lower respiratory tract infection.
+4. Monitor symptoms closely and provide supportive care for fever and cough.
+5. Advise the patient to rest, stay hydrated, and follow up for test results and further management.

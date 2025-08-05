@@ -1,0 +1,39 @@
+**List of symptoms:**
+- Fever
+- Runny nose
+- Cough
+- Wheezing
+- Harsh cough
+- Phlegm initially, now dry
+- Fussiness
+- Irritability
+
+**List of possible diseases or illnesses:**
+- Viral infection (common cold)
+- COVID-19
+- Bronchiolitis
+- Asthma exacerbation
+
+**SOAP note:**
+
+**Subjective:**
+The patient, a one-year-old female, presents with a fever that has been fluctuating between 38-39 degrees Celsius over the past three to four days. She has a runny nose, cough, and is now experiencing wheezing. The cough started around the same time as the fever and runny nose. The cough is described as harsh, initially associated with phlegm which is now dry. The patient has been fussy and irritable. The mother reports no chest pain, fainting spells, chills, night sweats, or blood in phlegm. No changes in urinary or bowel habits. The patient has had similar symptoms in the past and was hospitalized briefly, where oxygen and fluids were administered. No prior medical conditions or surgeries. Immunizations are up to date.
+
+**Objective:**
+- Vital signs: Fever documented between 38-39 degrees Celsius in the past few days, no fever today. Wheezing noted on auscultation.
+- Runny nose observed, currently less severe.
+- Redness in the back of the throat noted.
+- No skin changes, rashes, or eye redness.
+- No bulging on the forehead or anterior fontanelle.
+- Five wet diapers per day, indicating adequate hydration.
+
+**Assessment:**
+1. Likely viral infection causing symptoms of fever, runny nose, cough, and wheezing.
+2. Possibility of COVID-19 given the current pandemic situation.
+3. Differential diagnosis includes bronchiolitis and asthma exacerbation based on wheezing and cough characteristics.
+
+**Plan:**
+1. Perform a COVID-19 swab test to rule out infection.
+2. Supportive care with oxygen, fluids, and monitoring of breathing.
+3. Consider initiating steroids and inhaler therapy if necessary for bronchiolitis or asthma exacerbation.
+4. Follow-up appointment scheduled to monitor the patient's progress and response to treatment.

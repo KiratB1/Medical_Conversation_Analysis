@@ -1,0 +1,42 @@
+**List of symptoms:**
+- Cough
+- Shortness of breath
+- Feeling hot
+- Fuzzy feeling
+- Difficulty concentrating
+- Confusion
+- Phlegm with yellow color
+- Wheezing
+- Fever (38.5°C)
+- Runny nose with yellow discharge
+- Chest pain
+- Fatigue
+
+**List of possible diseases or illnesses:**
+- Pneumonia (bacterial or viral)
+- Upper respiratory tract infection
+- Acute bronchitis
+- Influenza
+
+**SOAP Note:**
+
+**Subjective:**
+The patient presented with a one-week history of cough, shortness of breath, feeling hot, fuzzy feeling, difficulty concentrating, confusion, yellow phlegm, wheezing, fever (38.5°C), runny nose with yellow discharge, chest pain, and fatigue. Symptoms have been progressively worsening over time.
+
+**Objective:**
+- Patient reports no history of shortness of breath, chest pain, or confusion prior to this episode.
+- Chest pain is central and worsens with deep breathing.
+- Patient has a history of deep vein thrombosis (DVT), diabetes, and hypothyroidism. Current medications include insulin, Synthroid, and aspirin.
+- No recent travels or known exposure to sick individuals besides using a laundromat.
+
+**Assessment:**
+- Differential diagnosis includes pneumonia (bacterial or viral), upper respiratory tract infection, acute bronchitis, and influenza.
+- Considering the patient's symptoms and history, pneumonia is the most likely diagnosis.
+
+**Plan:**
+1. Perform physical examination, including chest auscultation.
+2. Order lab tests, including complete blood count and inflammatory markers.
+3. Conduct a chest X-ray to assess for pulmonary involvement.
+4. Isolate the patient and perform a COVID-19 test due to overlapping symptoms with pneumonia and public health guidelines.
+5. Initiate treatment based on the confirmed diagnosis, which may include antibiotics for bacterial pneumonia or supportive care for viral pneumonia.
+6. Monitor the patient's respiratory status, fever, and overall improvement during hospitalization.

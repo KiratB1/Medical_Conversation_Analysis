@@ -1,0 +1,35 @@
+**List of symptoms:**
+- Dry cough
+- Scratchy throat
+- Headache
+- Feeling hot
+- General malaise
+- Post nasal drip
+- Stuffy nose
+
+**List of possible diseases or illnesses:**
+- Upper respiratory tract infection
+- Allergic rhinitis
+- Viral infection
+- Seasonal allergies
+
+**SOAP Note:**
+
+**Subjective:**
+The patient, Jessica, presents with a three to four-day history of a dry cough, scratchy throat, headache, feeling hot, and general malaise. She reports no sputum production, fever, nausea, vomiting, diarrhea, joint pain, or skin changes. She mentions a history of seasonal allergies, currently managed with Claritin, and post nasal drip. Jessica denies any recent travel, smoking, alcohol or drug use, and is not sexually active. She lives on a farm with her family, including a younger brother who recently had a cold.
+
+**Objective:**
+- Vital signs: Not provided
+- Physical examination: Not provided
+
+**Assessment:**
+1. Upper respiratory tract infection: based on symptoms of dry cough, scratchy throat, headache, and feeling hot.
+2. Allergic rhinitis: history of seasonal allergies and post nasal drip.
+3. Viral infection: considering the patient's exposure to her brother's recent cold.
+
+**Plan:**
+1. Recommend rest, hydration, and over-the-counter pain relievers for symptom relief.
+2. Consider prescribing antihistamines for allergic rhinitis symptoms.
+3. Advise monitoring symptoms and follow-up if they worsen or persist.
+4. Educate on infection prevention measures, especially in the current COVID-19 situation.
+5. Follow up with the patient in a few days to assess symptom progression.

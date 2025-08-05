@@ -1,0 +1,39 @@
+**List of symptoms:**
+- Cough that started 4 days ago
+- Constant coughing, worsening over time
+- Dry cough with no sputum or blood
+- Difficulty breathing, shortness of breath
+- Harsh cough quality
+- Decreased sense of smell for the past 2 days
+- Fever or feeling hot
+- Fatigue and muscle aches
+
+**List of possible diseases or illnesses:**
+- Acute bronchitis
+- Viral respiratory infection
+- COVID-19
+- Post-viral olfactory dysfunction (loss of smell)
+- Influenza
+
+**SOAP Note:**
+
+**Subjective:**
+The patient presents with a cough that started 4 days ago, described as constant and worsening over time. The cough is dry with no sputum or blood. The patient reports difficulty breathing, shortness of breath, and a harsh cough quality. Additionally, the patient has experienced a decreased sense of smell for the past 2 days, along with fever, fatigue, and muscle aches.
+
+**Objective:**
+- No wheezing or chest pain reported
+- No heart palpitations, swelling, or calf pain
+- No changes in vision, hearing, or taste mentioned
+- No nausea, vomiting, abdominal pain, changes in urine, confusion, or memory loss reported
+- Patient appears otherwise healthy with no significant findings on physical examination
+
+**Assessment:**
+1. Respiratory symptoms including cough, shortness of breath, and decreased sense of smell suggest a possible respiratory infection such as acute bronchitis, viral respiratory infection, or COVID-19.
+2. Fever, fatigue, and muscle aches may indicate a systemic viral illness like influenza.
+
+**Plan:**
+1. Collect a swab for COVID-19 testing and send for PCR analysis to rule out infection.
+2. Advise the patient to isolate for 14 days from family members and practice good hand hygiene.
+3. Recommend supportive care including staying hydrated, getting adequate rest, and consuming nutritious foods.
+4. Instruct the patient to monitor symptoms and return to the ER if experiencing high fever, neurological symptoms, or worsening difficulty breathing.
+5. Follow up with the patient in 24 to 48 hours for test results and further management.

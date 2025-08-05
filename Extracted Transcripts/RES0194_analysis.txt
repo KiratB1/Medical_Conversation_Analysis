@@ -1,0 +1,44 @@
+**List of symptoms:**
+- Dry cough
+- Headaches
+- Muscle aches
+- Feeling achy all over
+- Feverishness
+- Diarrhea
+- Decreased appetite
+
+**List of possible diseases or illnesses:**
+- Viral infection
+- COVID-19
+
+**SOAP Note:**
+
+**Subjective:**
+The patient presents with a dry cough that started three days ago, accompanied by headaches, muscle aches, feeling achy all over, feverishness, diarrhea, and decreased appetite. The patient also reports no recent strenuous activities or injuries, no recent travel, no exposure to sick individuals, and no other significant symptoms apart from the mentioned.
+
+**Objective:**
+- No coughing up of sputum or blood
+- Headache located at the front of the forehead, described as pressure
+- Muscle aches are generalized
+- No shortness of breath, sore throat, chest pain, runny nose, nausea, vomiting, loss of taste or smell, night sweats, fatigue
+- Diarrhea reported for the past day, no blood in stool, loose consistency
+- Decreased appetite, stable weight
+- No recent changes in diet or exposure to new foods
+- No known allergies to medications, except for peanuts
+- No recent hospitalizations or surgeries, apart from ACL repair and knee surgery 10 years ago
+- Family history of high blood pressure and lung cancer in grandfather
+- Works in a pharmacy company, wears masks, and follows cleaning and distancing protocols at work
+- Lives with wife who is asymptomatic
+- Non-smoker, occasional alcohol consumption, occasional use of CBD products
+
+**Assessment:**
+1. Differential Diagnosis:
+   - Viral infection
+   - COVID-19
+   
+**Plan:**
+1. Conduct a COVID-19 swab test to rule out the possibility of COVID-19.
+2. Recommend isolation for two weeks until symptoms resolve and test results are received.
+3. Provide instructions from public health regarding further testing and return to work guidelines.
+4. Advise the patient to rest, stay hydrated, and monitor symptoms closely.
+5. Follow up with the patient in 24 to 48 hours after test results are available.

@@ -1,0 +1,42 @@
+**List of symptoms:**
+- Runny nose
+- Sneezing
+- Clear nasal discharge
+- Stuffy nose
+- Morning cough with phlegm
+- Itching nose and ears
+- Fatigue
+- Itchy mouth
+- Difficulty falling asleep due to itching
+
+**List of possible diseases or illnesses:**
+- Allergic rhinitis
+- Seasonal allergies
+- Eczema
+
+**SOAP Note:**
+
+**Subjective:**
+A child presents with symptoms of persistent runny nose, sneezing, clear nasal discharge, stuffy nose, morning cough with phlegm, itching in nose and ears, fatigue, and difficulty falling asleep due to itching. Symptoms have been ongoing for the past two weeks, affecting the child's daily activities and sleep.
+
+**Objective:**
+- No signs of respiratory distress or shortness of breath noted.
+- Clear nasal discharge observed.
+- Mild nasal redness and itching noted.
+- No swelling in face, neck, belly, or limbs.
+- No rashes, weight loss, fevers, chills, nausea, vomiting, dizziness, fainting, confusion, headaches, or abnormal bowel movements reported.
+- No discharge from eyes, no swollen eyelids or red eyes observed.
+- No vision or hearing changes noted.
+- No swelling or tenderness in face, neck, belly, or limbs.
+- No signs of respiratory distress or rapid breathing observed.
+
+**Assessment:**
+The patient likely presents with allergic rhinitis, given the chronic nature of symptoms, history of seasonal exacerbation, and family history of asthma and allergies. Eczema may also contribute to the symptomatology.
+
+**Plan:**
+1. Conduct a Covid swab test to rule out infection.
+2. Recommend allergy testing to identify triggers.
+3. Prescribe intranasal corticosteroid for symptom management.
+4. Educate on allergen avoidance strategies.
+5. Monitor response to treatment and consider second-line options if needed.
+6. Follow up in 24 to 48 hours for Covid test results and further management.

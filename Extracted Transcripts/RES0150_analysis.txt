@@ -1,0 +1,34 @@
+**List of symptoms:**
+- Cough
+- Stuffy nose
+- Rash on face and neck
+- Watery discharge from eyes
+- Red and teary eyes
+- Fever
+- Decreased appetite
+
+**List of possible diseases or illnesses:**
+- Common cold
+- Allergic reaction
+- Measles (suggested by the doctor)
+- Viral infection
+
+**SOAP Note:**
+
+**Subjective:**
+The patient is a young child presenting with symptoms of cough, stuffy nose, rash on the face and neck, watery discharge from eyes, red and teary eyes, fever, and decreased appetite. The symptoms have been present for a week, with the fever increasing to 39.5 degrees Celsius. The patient's parent reports no other significant medical history or current medications. The patient is unvaccinated due to parental concerns about autism.
+
+**Objective:**
+- Vital signs: Fever of 39.5 degrees Celsius noted
+- Physical exam findings: Rash on the face and neck observed, watery discharge from eyes, red and teary eyes
+
+**Assessment:**
+1. Viral infection with symptoms suggestive of measles based on the presence of rash, fever, and red eyes. Differential diagnosis also includes a common cold or allergic reaction.
+2. Unvaccinated status increases the risk of infectious diseases.
+
+**Plan:**
+1. Perform further evaluation to confirm the diagnosis, including laboratory tests if necessary.
+2. Provide supportive management for symptoms, such as fever control and hydration.
+3. Educate the parent about the importance of vaccination to prevent future illnesses.
+4. Advise isolation to prevent the spread of infection to others.
+5. Follow up with the patient to monitor symptom progression and recovery.

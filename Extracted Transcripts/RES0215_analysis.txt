@@ -1,0 +1,37 @@
+**List of symptoms:**
+- Wheezing
+- Shortness of breath
+- Cough
+
+**List of possible diseases or illnesses:**
+- Asthma
+- Bronchitis
+- Allergic reaction
+- Exercise-induced bronchoconstriction
+
+**SOAP Note:**
+
+**Subjective:**
+An 8-year-old female patient presented with wheeziness, shortness of breath, and a cough that started about four to five days ago. The symptoms fluctuate and are more pronounced during physical activities, particularly in colder weather. The patient's mother also noted that the symptoms resolve on their own when the patient rests. No fevers, runny nose, rashes, or recent sick contacts were reported. The patient has a history of occasional viral infections but is otherwise healthy.
+
+**Objective:**
+- No signs of distress during the conversation.
+- No fever or visible respiratory distress noted.
+- No abnormalities in skin, weight, or height observed.
+- No reported recent travel or exposure to sick contacts.
+- No signs of allergic reactions or facial swelling.
+- The patient is up to date on immunizations and has no significant past medical history.
+
+**Assessment:**
+Based on the patient's symptoms of wheezing, shortness of breath, and cough, along with the exacerbation during physical activity and in colder weather, the differential diagnosis may include:
+- Asthma
+- Bronchitis
+- Allergic reaction
+- Exercise-induced bronchoconstriction
+
+**Plan:**
+1. Conduct a thorough physical examination focusing on the respiratory system.
+2. Consider ordering pulmonary function tests or allergy testing if indicated.
+3. Discuss the case with the physician to determine the need for further investigations or referrals to a pulmonologist or allergist.
+4. Educate the patient and family on asthma management strategies, including trigger avoidance and inhaler use if asthma is diagnosed.
+5. Follow up with the patient to monitor symptoms and treatment effectiveness.

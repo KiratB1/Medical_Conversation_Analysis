@@ -1,0 +1,42 @@
+**List of symptoms:**
+- Fever
+- Bad headache
+- Soreness all over the body
+- Runny nose
+- Itchy nose
+- Sneezing
+
+**List of possible diseases or illnesses:**
+- Common cold
+- COVID-19
+- Allergic rhinitis
+
+**SOAP Note:**
+
+**Subjective:**
+The patient presents with symptoms of fever, bad headache, body soreness, runny nose, itchy nose, and sneezing. Symptoms started yesterday evening with a temperature of 38.5 degrees Celsius. The headache is described as a squeezing sensation around the head, rated at a pain level of 5 out of 10. The patient denied cough, sore throat, difficulty breathing, chest pain, diarrhea, constipation, nausea, vomiting, and belly pain. The patient mentioned a colleague at work who was sick last week, raising concerns about potential exposure to illness.
+
+**Objective:**
+- Temperature: 38.5 degrees Celsius
+- Runny nose with clear discharge
+- No signs of respiratory distress observed
+- No other remarkable physical findings
+
+**Assessment:**
+1. Differential Diagnosis:
+   - Common cold
+   - COVID-19
+   - Allergic rhinitis
+
+2. Risk Factors:
+   - Exposure to a sick colleague
+   - Underlying medical conditions of high cholesterol, high BMI, and pre-diabetes
+
+**Plan:**
+1. Conduct a COVID-19 test to rule out infection.
+2. Recommend isolation and maintaining social distance from family members until test results are available.
+3. Advise the patient to work from home or take time off work until recovery.
+4. Await test results in the next 24 to 48 hours and follow public health recommendations accordingly.
+5. Monitor symptoms and seek medical attention if condition worsens or new symptoms develop.
+
+Follow-up appointment scheduled for test result review and further management.

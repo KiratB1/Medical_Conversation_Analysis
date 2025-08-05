@@ -1,0 +1,36 @@
+**List of symptoms:**
+- Wheeziness
+- Persistent cough
+- Asthma exacerbation
+- Shortness of breath
+- Insomnia/fatigue
+
+**List of possible diseases or illnesses:**
+- Asthma exacerbation
+- Bronchitis
+- Allergic reaction
+- Respiratory infection
+
+**SOAP Note:**
+
+**Subjective:**
+The patient, a 16-year-old with a history of asthma since age 5, presents with wheeziness and a persistent dry cough for the past week. Symptoms have been worsening, necessitating the use of short-acting bronchodilators multiple times a day, with some relief but decreasing effectiveness. The patient reports missing two days of school due to symptoms, waking up twice during the night due to wheezing, and experiencing fatigue from poor sleep. No other respiratory symptoms, fevers, chills, or gastrointestinal complaints reported. Patient expresses concern about symptom management and seeks guidance on treatment.
+
+**Objective:**
+- Patient appears fatigued but alert.
+- No signs of respiratory distress at rest.
+- Lungs auscultate with wheezing on expiration.
+- No fever or abnormal vital signs noted.
+- No other physical abnormalities detected.
+
+**Assessment:**
+1. Asthma exacerbation: Likely cause of wheeziness and cough based on patient history and symptoms.
+2. Insomnia and fatigue: Contributing factors to symptom exacerbation.
+3. Possible bronchitis or respiratory infection: Differential diagnosis to consider due to worsening symptoms and decreased effectiveness of bronchodilators.
+
+**Plan:**
+1. Initiate treatment with short-acting bronchodilators for symptom relief.
+2. Perform a full physical examination to assess respiratory status and oxygen saturation.
+3. Consider adding corticosteroids to the treatment regimen for anti-inflammatory effects.
+4. Evaluate the need for adjustments in the current asthma management plan, potentially including changes in puffer medications.
+5. Monitor response to treatment and follow-up with the patient to assess symptom improvement and overall asthma control.

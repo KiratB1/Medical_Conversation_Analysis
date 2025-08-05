@@ -1,0 +1,46 @@
+**List of symptoms:**
+- Stiffness and pain in hips and knees
+- Pain worsens throughout the day
+- Stiffness in the morning
+- Pain described as achy and deep within the joints
+- Pain severity rated at 7 out of 10
+- Discomfort and limited range of motion in hips and knees
+- Grating sensation in knees
+- Pain with activity, especially gardening
+
+**List of possible diseases or illnesses:**
+- Osteoarthritis
+- Joint degeneration
+- Musculoskeletal issues
+
+**SOAP Note:**
+
+**S:**
+- Patient presents with complaints of stiffness and pain in hips and knees for the past 1-2 months.
+- Pain worsens throughout the day, more severe in the morning and with activity.
+- Describes pain as achy and deep within the joints, rated at 7 out of 10.
+- No numbness, tingling, muscle weakness, or other joint pain reported.
+- No recent weight loss, fevers, chills, rashes, changes in vision, hearing, smell, taste, headaches, or other joint pains.
+- History of hypertension, high cholesterol, type 2 diabetes, and overweight.
+- Prior smoking history of 40 years, quit at age 65.
+- Taking Telmisartan, metformin, and Atorvastatin for medical conditions.
+
+**O:**
+- Physical examination reveals no redness, swelling, atrophy, deformities, or skin changes in hips or knees.
+- Discomfort and limited range of motion noted in hip flexion and extension, as well as knee flexion and extension.
+- Grating sensation reported in knees.
+- No crepitus observed.
+- Plantar flexion and dorsiflexion normal.
+
+**A:**
+- Suspected diagnosis of osteoarthritis based on patient's symptoms and physical examination findings.
+- Possible joint degeneration due to wear and tear over the years.
+
+**P:**
+1. Prescribe NSAIDs like ibuprofen for pain management.
+2. Consider acetaminophen for pain relief.
+3. Refer patient to physiotherapy for muscle strengthening and flexibility exercises.
+4. Occupational therapy consultation for adapting daily tasks to reduce joint stress.
+5. Discuss potential treatment options like steroid injections or joint replacement if conservative measures are ineffective in the future.
+6. Order x-rays of hips and knees to confirm osteoarthritis diagnosis.
+7. Follow up with patient to monitor response to treatment and adjust management plan as needed.

@@ -1,0 +1,33 @@
+**List of symptoms:**
+- Pain in the right knee
+- Dull aching pain in the right knee and right calf
+- Pain worsens with movement
+- Swelling in the right calf
+- Pain on palpation in the right calf and right knee
+- Pain with dorsiflexion of the ankle
+- Temperature change in the calf (possibly warm)
+
+**List of possible diseases or illnesses:**
+- Muscle strain (gastrocnemius strain)
+- Ligament injury
+- Deep vein thrombosis (DVT)
+
+**SOAP Note:**
+
+**Subjective:**
+The patient presents with a history of pain in the right knee and right calf following a fall on the stairs three days ago. The pain is described as dull and aching, worsens with movement, and is associated with swelling in the right calf. The patient also reports pain on palpation in the affected areas and pain with dorsiflexion of the ankle. There is a subjective feeling of warmth in the calf. No history of fever, chest pain, cough, shortness of breath, dizziness, infectious symptoms, nausea, vomiting, abdominal pain, changes in bowel movements, urinary problems, weight changes, rashes, muscle weakness, numbness, tingling, or recent travel.
+
+**Objective:**
+- Swelling noted in the right calf
+- Pain on palpation in the right calf and right knee
+- Positive Homan's test with pain on dorsiflexion of the ankle
+- Temperature change in the calf (subjective report)
+
+**Assessment:**
+1. Muscle strain (gastrocnemius strain) or ligament injury from the fall
+2. Deep vein thrombosis (DVT) suspected due to progressive pain, swelling, positive Homan's test, and temperature change in the calf
+
+**Plan:**
+1. Order diagnostic studies: ultrasound of the right calf and X-ray of the right knee to evaluate for DVT and assess for any potential ligament injuries.
+2. Consider pain management strategies and advise rest and elevation of the affected leg.
+3. Follow up with the patient after diagnostic studies for further management based on results.

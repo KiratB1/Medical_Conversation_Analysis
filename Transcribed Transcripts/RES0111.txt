@@ -1,0 +1,99 @@
+D: How can I help you today? Hi.
+P: I'm here because I've had this awful.
+D: Sore throat for the past four days.
+P: Doesn't seem to be getting any better. And I think I'm developing a fever now.
+D: Check your temperature?
+P: No, I haven't checked my temperature. I'm just really hot.
+D: I got here done. And do you. Okay, so you've had the sore throat for four days and a fever. Have you had any difficulties swallowing?
+P: Yeah, not like I can drink. Okay. But it's really hard for me to eat solid foods right now.
+D: Why is that?
+P: Oh, it just hurts. Yeah.
+D: Okay. But it's not that you can't. You can't, like, you don't feel like it's getting stuck?
+P: No, no, nothing like that.
+D: And have you noticed any changes in your voice? Do you find that your voice is more hoarse?
+P: A little bit, but I think that's just because I try not to talk as much since my throat is so sore.
+D: Okay. Okay. And have you had a runny nose?
+P: No. No. Runny nose?
+D: A cough?
+P: No.
+D: Okay. Have you had any difficulties breathing?
+P: No.
+D: Any chest pain?
+P: No.
+D: Any sort of congestion? Do you feel like your nose is stuffy or it hurts your. In your cheeks or your head when you bend down?
+P: No. No.
+D: Okay, so all you. You have is a sore throat and this fever. Okay.
+P: And.
+D: Okay. Do you have a headache?
+P: No. Headaches?
+D: Do you feel like you've been confused or just feeling not yourself?
+P: No, nothing like that.
+D: Okay. Any changes in your hearing or your vision?
+P: No.
+D: Okay. Do you feel your heart's beating very fast?
+P: No.
+D: Do you feel short of breath? Nope. Any belly pain?
+P: No.
+D: Any nausea or vomiting?
+P: No.
+D: Okay. Any diarrhea or constipation?
+P: No.
+D: Any fatigue?
+P: No.
+D: Weight loss unintended?
+P: No.
+D: Weight loss?
+P: No.
+D: And do you have any medical conditions?
+P: No, I don't think so.
+D: Okay. Are you up to date with your immunizations?
+P: Yeah, the only one that I haven't gotten is that HPV vaccine.
+D: Okay. Okay. Okay.
+P: Any.
+D: Did you get a flu shot?
+P: Oh, I didn't get that this year.
+D: Okay, well, we recommend that you get your vaccines and also the HPV vaccine. It's best to get the HPV vaccine earlier on. It's a little bit less effective as you go past a certain age. You're still obviously nowhere close to that, but I don't believe it's covered after the age of 26 either, so it's best if you get it done earlier.
+P: And.
+D: Let'S go back to your symptoms then. Have you had any surgeries? I got My appendix removed when I was 13. Anything else?
+P: No.
+D: Okay. Are you taking any medications, including over the counter?
+P: No, I just take my multivitamins.
+D: And are you currently living alone or do you live with someone?
+P: I live with my parents and my two siblings.
+D: And do you feel safe at home?
+P: Yes.
+D: Okay. Are you currently sexually active?
+P: No.
+D: Okay. Do you plan on being sexually active in the near future?
+P: No, not before I finish high school.
+D: Okay. Right. And are you. Do you drink alcohol?
+P: No.
+D: Okay. Do you smoke?
+P: No.
+D: Have you tried marijuana or any recreational drugs?
+P: I haven't.
+D: Okay. Are things going well? Are you in school right now?
+P: Yep. I'm in grade 10. Okay.
+D: Are things going well? Yes, I would say so. Any bullying at school?
+P: No.
+D: Okay. Any. Any. Any concerns about depression or anxiety? Has your mood been okay? Okay. Okay. All right.
+P: And.
+D: Have you traveled anywhere recently?
+P: No, I've been just at school and home.
+D: See, it's not virtual. It's in person.
+P: So half the day is in person and the other half is virtual.
+D: Okay. And are you maintaining social distancing at school wearing a mask?
+P: Yeah, we do. Except sometimes, I guess, like, I don't know, if you have to drink water or something, we take it off.
+D: Yeah, sure. Okay.
+P: And.
+D: I suppose just. Okay, what was I gonna ask? Do you. So no travels. Okay. Do you feel like you've been in contact with someone who might be sick or might have Covid?
+P: I don't think so.
+D: No. Okay. All right. And have you looked at your throat? Does it look swollen or red?
+P: Yeah, it looks pretty swollen and red.
+D: Well, that's all the questions. One more question, actually. Do you have any medical conditions that run in the family?
+P: No, I don't think so. Maybe like high blood pressure.
+D: All right, well, that's all the questions I had. We'll do a physical exam, have a look inside your throat. Given the symptoms that you have, it sounds like you have an inflammation or swelling of your throat, which could be caused by bacteria or viruses. It could be something like mono or it could be strep throat. It could be other things as well. Seeing that your symptoms are somewhat overlapping with the symptoms for Covid, we would also like to do a COVID test. We'll do a rapid strep test here as well, just to rule it out. And then.
+P: We'Ll.
+D: Ask you to quarantine for the next 14 days until. Or at least until your Covid swabs are back or your symptoms improve. And we'll let you know about the management based on the strep test result. Do you have any questions?
+P: No, that sounds great. Thank you.
+D: Okay, good.

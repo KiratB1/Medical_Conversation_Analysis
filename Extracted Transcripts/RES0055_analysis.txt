@@ -1,0 +1,40 @@
+**List of symptoms:**
+- Breathing difficulties
+- Cough with increased sputum production
+- Shortness of breath
+- Wheezing
+- Chills
+- Stuffy nose
+
+**List of possible diseases or illnesses:**
+- Exacerbation of COPD
+- Respiratory infection (viral or bacterial)
+- COVID-19
+
+**SOAP Note:**
+
+**Subjective:**
+The patient presents with concerns about breathing difficulties, cough with increased sputum production, shortness of breath, and wheezing for the past few days. The cough has worsened over the past week, leading to the need to sit down and catch breath with movement. The patient reports chills, stuffy nose, and a history of COPD for over 10 years. There is a past history of lung infection requiring hospitalization and current use of multiple puffers including Ventolin and Spiriva. The patient also reports smoking a pack a day for the last 20 years and occasional alcohol consumption.
+
+**Objective:**
+- Clear white sputum production
+- No chest pain, fevers, weight loss, changes in vision, hearing, smell, taste, skin, nails, or hair
+- No swelling in legs or upper limbs, calf pain, dizziness, headaches, memory loss, confusion, changes in bowel movements, abdominal pain, changes in urination
+- Blood pressure last recorded at 135/80, no recent hospitalizations besides COPD exacerbation
+- Medications include metoprolol for high blood pressure and multivitamins
+- Family history of heart conditions and skin cancer
+- Living in a bungalow in London with no known triggers for COPD
+- No recent sick contacts or travel history
+
+**Assessment:**
+1. Exacerbation of COPD with respiratory symptoms suggestive of a viral or bacterial infection.
+2. Concern for COVID-19 given the overlap of symptoms; COVID swab ordered with isolation for 14 days.
+3. Need for reassessment of current COPD management and potential addition of inhaled corticosteroids and antibiotics.
+4. Consideration for chest X-ray and pulmonary function test to further evaluate respiratory status.
+
+**Plan:**
+1. COVID swab to be conducted with results expected in 24-48 hours.
+2. Isolation for 14 days as per COVID-19 protocol.
+3. Reevaluation of COPD management including puffer use and potential addition of inhaled corticosteroids and antibiotics.
+4. Chest X-ray and pulmonary function test recommended for further assessment.
+5. Follow-up appointment scheduled to review test results and adjust treatment plan as necessary.

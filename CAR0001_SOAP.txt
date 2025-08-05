@@ -1,0 +1,19 @@
+SOAP Note:
+
+Subjective:
+The patient is a 39-year-old male who presents with a chief complaint of chest pain that started last night and has been constant since then. He describes the pain as sharp and located on the left side of his chest. The pain seems to worsen when he lies down and when he takes deep breaths. The severity of the pain is rated at a 7 or 8 on a scale of 1 to 10. Along with the chest pain, the patient also reports feeling lightheaded and having trouble breathing. He has noticed some swelling on his neck but denies any pain. The patient denies any recent trauma, immobilization, or infectious symptoms. He has no known allergies and takes no regular medications. He is a smoker, consuming about a pack a day for the past 10-15 years, and occasionally uses cannabis. He also drinks alcohol, averaging about 10 drinks per week. The patient lives alone and works as an accountant. His father had a heart attack at the age of 45 and had cholesterol problems.
+
+Objective:
+The patient appears to be in distress due to pain and difficulty breathing. No obvious physical injuries or trauma are observed. The patient's neck appears to be slightly swollen. Further physical examination and diagnostic tests are needed for a complete assessment.
+
+Assessment:
+The patient's symptoms of left-sided chest pain, lightheadedness, and difficulty breathing could suggest a variety of conditions, but given the severity and location of the pain, the patient's smoking history, and the family history of heart disease, acute coronary syndrome (including myocardial infarction) is a primary concern.
+
+Plan:
+1. Further physical examination focusing on cardiovascular and respiratory systems.
+2. Immediate ECG to evaluate for signs of myocardial infarction.
+3. Blood tests including cardiac enzymes to rule out myocardial infarction.
+4. Chest X-ray to rule out other causes of chest pain.
+5. Refer to a cardiologist for further evaluation and management.
+6. Discuss smoking cessation and alcohol moderation as part of a long-term health plan.
+7. Follow up in 24 hours to assess the patient's response to treatment and progression of symptoms.

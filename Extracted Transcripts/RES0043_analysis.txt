@@ -1,0 +1,35 @@
+**List of symptoms:**
+- Dry cough
+- Fever (over 100 degrees)
+
+**List of possible diseases or illnesses:**
+- COVID-19
+- Viral respiratory infection
+
+**SOAP Note:**
+
+**Subjective:**
+The patient is a child who presented with a dry cough that started three days ago and has progressed, along with a fever over 100 degrees. The parent expressed concern about COVID-19 exposure due to the symptoms. The cough is described as dry without sputum or blood, and there is no wheezing or shortness of breath noted. The patient's appetite has decreased, and there is a report of a runny nose and possible loss of taste.
+
+**Objective:**
+- Patient appears fatigued
+- No signs of respiratory distress
+- No wheezing or chest pain noted
+- No abnormalities in skin, nails, or hair
+- No signs of nausea, vomiting, diarrhea, or constipation
+- No neurological symptoms reported
+
+**Assessment:**
+1. Possible COVID-19 infection based on symptoms of dry cough, fever, fatigue, and loss of taste.
+2. Differential diagnosis includes a viral respiratory infection due to the presence of cough and fever.
+
+**Plan:**
+1. Conduct a COVID-19 swab test to confirm or rule out infection.
+2. Advise the patient to isolate for 14 days, including from the younger sibling, due to symptom overlap with COVID-19.
+3. Monitor for worsening symptoms, such as high temperature, neurological symptoms, weakness, dizziness, or fainting spells.
+4. Educate the parent on the possibility of false negatives with the COVID-19 test and the need for vigilance if symptoms worsen.
+5. Recommend follow-up after 24-48 hours for test results and further guidance based on the outcome.
+6. If symptoms worsen significantly, advise seeking emergency care promptly. 
+
+**Follow-up:**
+Patient to return for review of test results and symptom progression.

@@ -1,0 +1,41 @@
+**List of symptoms:**
+- Severe back pain for the past two months, worsening over the past week or two
+- Inability to walk due to pain
+- Numbness in the groin area
+- Urinary incontinence
+- Sharp pain in the lower back
+- Pain shooting down legs
+- Muscle weakness in both legs, worse on the right side
+- Burning sensation
+- Difficulty getting up from a chair
+
+**List of possible diseases or illnesses:**
+- Cauda Equina Syndrome
+- Lumbar disc herniation
+- Nerve compression
+- Spinal cord injury
+
+**SOAP Note:**
+
+**Subjective:**
+The patient presents with severe back pain that started two months ago and has worsened over the past week. The pain is sharp, radiates down the legs, and is associated with numbness in the groin area and urinary incontinence. The patient reports muscle weakness in both legs, worse on the right side, and a burning sensation. The pain is described as 8-9/10 and worsens with movement.
+
+**Objective:**
+- Patient appears uncomfortable and has difficulty moving due to pain.
+- Numbness in the groin area noted.
+- Muscle weakness observed, particularly on the right side.
+- Pain on palpation of the lower back.
+- Limited range of motion due to pain.
+
+**Assessment:**
+1. Cauda Equina Syndrome: Suspected based on the constellation of symptoms including severe back pain, numbness in the groin, urinary incontinence, and muscle weakness.
+2. Lumbar disc herniation: Likely given the history of a slipped disc and worsening symptoms.
+3. Nerve compression: Possible cause of radiating pain and muscle weakness.
+4. Spinal cord injury: Cannot be ruled out given the history of a motor vehicle accident and progressive symptoms.
+
+**Plan:**
+1. Immediate referral for an MRI of the lower back to evaluate for any structural abnormalities.
+2. Consideration for urgent surgical intervention if significant compression or mass is identified.
+3. Pain management with appropriate medications and physical therapy.
+4. Close monitoring for any changes in symptoms and neurologic status.
+5. Collaboration with a neurosurgeon for further evaluation and management.

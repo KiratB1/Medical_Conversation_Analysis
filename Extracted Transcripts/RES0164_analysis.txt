@@ -1,0 +1,43 @@
+**List of symptoms:**
+- Cough
+- Stuffy nose
+- Red and watery eyes
+- Dry cough
+- Watery nasal drainage
+- Rash on face, neck, and chin (small brownish dots)
+- Itchy rash
+- Fever
+- Fatigue
+- Decreased appetite
+- Lethargy
+
+**List of possible diseases or illnesses:**
+- Viral infection (common cold or flu)
+- Allergic reaction
+- Contact dermatitis
+- Measles
+- Rubella
+- Scarlet fever
+
+**SOAP Note:**
+
+**Subjective:**
+The patient is a child who presented with a cough, stuffy nose, red and watery eyes, dry cough, watery nasal drainage, and a new rash on the face, neck, and chin consisting of small brownish dots. The rash is itchy and started recently. The patient has also experienced fever, fatigue, decreased appetite, and lethargy. The symptoms began three days ago, possibly after playing outside with neighbors. The patient's mother expressed concern about the rash and the lack of improvement despite no prior treatment attempts.
+
+**Objective:**
+- Physical examination revealed a rash on the face, neck, and chin with small brownish dots, flat in appearance.
+- No signs of yellow or green nasal discharge.
+- No coughing up of blood observed.
+- Patient appears tired and has decreased appetite.
+- No other abnormalities noted during the examination.
+
+**Assessment:**
+1. Viral infection or allergic reaction causing respiratory symptoms and rash.
+2. Differential diagnosis includes measles, rubella, or scarlet fever due to the characteristic rash and systemic symptoms.
+
+**Plan:**
+1. Conduct a COVID swab test to rule out COVID-19 due to overlapping symptoms.
+2. Monitor the patient closely for any worsening of symptoms.
+3. Provide supportive care for the viral infection, including rest, hydration, and symptom relief.
+4. Follow up with the patient in 24-48 hours for COVID test results and further instructions from public health.
+5. Consider further investigations or specialist referral if the symptoms persist or worsen.

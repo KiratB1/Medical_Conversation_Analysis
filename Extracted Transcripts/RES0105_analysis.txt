@@ -1,0 +1,40 @@
+**List of symptoms:**
+- Chronic cough
+- Shortness of breath
+- Increased cough severity
+- Production of greenish-yellow sputum
+- Chills
+- Chest pressure
+- Wheezing
+- Fatigue
+
+**List of possible diseases or illnesses:**
+- Chronic obstructive pulmonary disease (COPD) exacerbation
+- Pneumonia
+- Respiratory infection
+
+**SOAP Note:**
+
+**Subjective:**
+The patient presents with a chronic cough that has worsened over the past day, along with increased shortness of breath, production of greenish-yellow sputum, chills, chest pressure, wheezing, and fatigue. The symptoms have been constant and progressively worsening since last night. The patient has a history of COPD exacerbation and is currently using Spiriva and a rescue inhaler. The patient also reports a history of high blood pressure, type 2 diabetes, and kidney issues.
+
+**Objective:**
+- Physical examination to be conducted
+- Vitals and oxygenation levels to be monitored
+- Lab work ordered to rule out infection
+- Chest x-ray may be required to assess for pneumonia
+- Consideration for administering systemic corticosteroids if needed
+
+**Assessment:**
+1. Exacerbation of COPD with possible respiratory infection
+2. Chronic conditions including high blood pressure, type 2 diabetes, and kidney issues complicating the current presentation
+
+**Plan:**
+1. Conduct a full physical examination
+2. Monitor vitals and oxygenation levels
+3. Order lab work to assess for infection
+4. Consider chest x-ray if necessary
+5. Administer systemic corticosteroids if indicated
+6. Provide supportive care and symptom management
+7. Advise smoking cessation intervention and lifestyle modifications
+8. Follow up with the patient for further evaluation and management.

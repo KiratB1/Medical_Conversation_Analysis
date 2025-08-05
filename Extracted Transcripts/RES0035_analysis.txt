@@ -1,0 +1,53 @@
+**List of symptoms:**
+- Difficulty breathing
+- Wet cough
+- Production of clear, yellow, or green phlegm
+- Coughing worsened by walking
+- Wheezing (due to asthma)
+- Fatigue from coughing
+- No chest pain
+- No sore throat, runny nose, dizziness
+- No headaches, nausea, vomiting
+- No fever, chills, night sweats
+- No chest pain, racing heart
+- No issues with urination or bowel movements
+- No changes in sleep or appetite
+- No recent infections or antibiotic use
+- Exposure to fumes, dust, or pets (bird)
+- Type 2 diabetes
+- High blood pressure
+- Smoking half a pack of cigarettes per day since age 18
+- Alcohol consumption of 2 glasses of wine per week
+
+**List of possible diseases or illnesses:**
+- Chronic bronchitis
+- Asthma exacerbation
+- Chronic obstructive pulmonary disease (COPD)
+- Respiratory infection
+- Smoking-related lung disease
+- Environmental exposure-related lung disease
+
+**SOAP Note:**
+
+**Subjective:**
+The patient presents with a chief complaint of difficulty breathing and a wet cough that has been ongoing for the past 8 months. The cough has worsened over time and is associated with the production of clear, yellow, or green phlegm. The patient reports fatigue from coughing, exacerbated symptoms with walking, and a history of asthma and smoking. There are no other significant symptoms reported.
+
+**Objective:**
+- Patient appears well-nourished and in no acute distress.
+- Respiratory rate slightly elevated at rest.
+- Lung auscultation reveals wheezing.
+- No signs of respiratory distress observed.
+- Vital signs within normal limits.
+
+**Assessment:**
+1. Chronic bronchitis exacerbation likely due to smoking history and environmental exposure.
+2. Asthma exacerbation contributing to the patient's symptoms.
+3. Possible COPD given the chronic nature of symptoms and smoking history.
+
+**Plan:**
+1. Recommend immediate cessation of smoking to improve respiratory symptoms.
+2. Prescribe bronchodilators and inhaled corticosteroids for asthma management.
+3. Order pulmonary function tests to assess lung function and confirm diagnosis.
+4. Provide education on proper inhaler technique and self-management strategies.
+5. Follow up in 2 weeks to monitor response to treatment and adjust management as needed.
+6. Advise regular monitoring of blood pressure and blood glucose levels due to underlying conditions.

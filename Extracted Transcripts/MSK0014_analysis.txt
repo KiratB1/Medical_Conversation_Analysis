@@ -1,0 +1,36 @@
+**List of symptoms:**
+- Pain and swelling in the right knee
+- Increased pain and swelling over 5 days
+- Warmth in the joint
+- Redness in the knee
+- Pain described as stabbing, worsens with movement
+- Pain comes and goes in severity
+- Morning stiffness throughout the day
+- Limping with gait
+- Painful to move the knee
+
+**List of possible diseases or illnesses:**
+- Gout
+- Pseudogout
+- Septic arthritis
+
+**SOAP Note:**
+
+**Subjective:**
+The patient presents with a chief complaint of pain and swelling in the right knee that has been progressively worsening over the past 5 days. The pain is described as stabbing and is exacerbated with movement. The patient reports warmth, redness, and morning stiffness in the affected joint. The pain comes and goes in severity and is associated with limping during gait.
+
+**Objective:**
+- Warmth and redness noted in the right knee
+- Swelling observed in the affected joint
+- Patient exhibits limping while walking
+- No instability with varus or valgus stress
+- No muscle weakness, numbness, tingling, or burning sensations reported
+
+**Assessment:**
+Based on the patient's history and presentation, differential diagnoses include gout, pseudogout, and septic arthritis. Risk factors such as diuretic medication use, alcohol consumption, and obesity contribute to the likelihood of gout or pseudogout. Additionally, the recent knee injection raises concern for septic arthritis.
+
+**Plan:**
+1. Perform a knee aspiration to obtain synovial fluid for further investigations.
+2. Send the synovial fluid sample for analysis to confirm the etiology of the joint inflammation.
+3. Initiate appropriate treatment based on the results of the knee aspiration to address the underlying cause of the symptoms.
+4. Follow up with the patient to monitor response to treatment and adjust management as needed.

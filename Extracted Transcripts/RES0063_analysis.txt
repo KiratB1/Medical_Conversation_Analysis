@@ -1,0 +1,41 @@
+**List of symptoms:**
+- Feeling down
+- Sore throat
+- Chills
+- Muscle aches all over the body
+- Difficulty swallowing solids
+- Fatigue
+- Tiredness
+- Loss of appetite
+
+**List of possible diseases or illnesses:**
+- Viral illness (possibly COVID-19)
+- Pharyngitis (sore throat)
+- Influenza
+- Common cold
+
+**SOAP Note:**
+
+**Subjective:**
+The patient presents with a recent onset of feeling down, sore throat for the past 5 days, chills starting 3 days ago, muscle aches all over the body for the past 3 days, difficulty swallowing solids, fatigue, tiredness, and loss of appetite. The patient expresses concern about potential COVID-19 exposure due to overlapping symptoms.
+
+**Objective:**
+- Patient reports no cough, shortness of breath, wheezing, chest pain, dizziness, or fainting spells.
+- No changes in taste, smell, hearing, vision, bowel movements, skin, nails, or hair.
+- Patient has a history of high blood pressure, diabetes, and high cholesterol. Currently taking Ramipril, Metformin, Crestor, vitamin D, and multivitamins.
+- Up to date with immunizations including Shingrix and Pneumovax.
+- No known allergies.
+- Family history includes high blood pressure and heart conditions. Son diagnosed with colorectal cancer.
+- Former smoker, quit in late 40s. Drinks red wine occasionally. No marijuana or recreational drug use.
+
+**Assessment:**
+- The patient's symptoms are consistent with a viral illness, possibly COVID-19, given the current pandemic situation and overlap of symptoms. Differential diagnoses include pharyngitis, influenza, or a common cold.
+- Patient's medical history of high blood pressure, diabetes, and high cholesterol may contribute to the overall presentation of symptoms.
+
+**Plan:**
+1. Conduct a COVID-19 swab test due to symptom overlap and potential exposure.
+2. Advise the patient to self-isolate for 14 days and monitor symptoms.
+3. Recommend symptomatic management: stay hydrated, eat well, use Tylenol to lower fever if needed.
+4. Instruct the patient to seek emergency care if symptoms worsen or if neurological symptoms develop.
+5. Recommend getting the flu vaccine once the patient has recovered to prevent future infections and reduce symptom severity.
+6. Follow up with the patient in 24 to 48 hours for COVID-19 test results and further management.

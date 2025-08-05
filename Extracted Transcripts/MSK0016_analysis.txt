@@ -1,0 +1,33 @@
+**List of symptoms:**
+- Numbness and tingling in the left hand
+- Burning sensation in the left hand
+- Symptoms worsening over time
+- Pain in the thumb, index finger, and ring finger
+- Pain rated at about a 6 on a scale of 1 to 10
+- Occasional clumsiness with the left hand
+- Difficulty with fine motor tasks like opening jars or car doors
+
+**List of possible diseases or illnesses:**
+- Carpal tunnel syndrome
+
+**SOAP Note:**
+
+**Subjective:**
+The patient presents with a history of numbness, tingling, and burning sensation in the left hand that has been ongoing for the past four to five months. Symptoms have worsened over time, with occasional nighttime symptoms. The patient describes pain in the thumb, index finger, and ring finger, rated at a 6 out of 10. There is also noted clumsiness and difficulty with fine motor tasks using the left hand.
+
+**Objective:**
+- Physical examination reveals no redness, swelling, or heat in the left hand.
+- Decreased muscle bulk noted in the area near the thumb.
+- No tenderness on palpation of the shoulder, biceps, elbows, or wrists.
+- Positive Tinel's sign and Phalen's sign tests suggestive of carpal tunnel syndrome.
+
+**Assessment:**
+- The patient's symptoms and physical exam findings are consistent with carpal tunnel syndrome, likely caused by repetitive movements at work.
+- Risk factors such as obesity and repetitive wrist flexion may be contributing to the condition.
+
+**Plan:**
+1. Recommend work modifications to avoid repetitive movements and take frequent breaks.
+2. Advise the use of cold packs for symptom relief.
+3. Prescribe a wrist splint to be worn at night to alleviate nighttime symptoms.
+4. Discuss NSAIDs for pain management and corticosteroids if needed.
+5. Follow up to monitor symptom progression and consider surgical options if conservative measures are ineffective.

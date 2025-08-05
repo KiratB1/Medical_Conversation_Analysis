@@ -1,0 +1,34 @@
+**List of symptoms:**
+- On and off runny nose
+- Stuffy nose
+- Clear discharge from the nose
+- Difficulty falling asleep due to nasal symptoms
+
+**List of possible diseases or illnesses:**
+- Common cold
+- Seasonal allergies
+- Viral upper respiratory infection
+- COVID-19 (ruled out with testing)
+
+**SOAP Note:**
+
+**Subjective:**
+The patient presents with a one-week history of on and off runny nose and stuffy nose. Initially, the symptoms were stuffy, but now the patient reports a more runny nose. There is clear nasal discharge without any color change. The symptoms have not improved over the past week, causing difficulty falling asleep. The patient denies cough, shortness of breath, chest pain, sore throat, muscle aches, headaches, fever, chills, night sweats, fatigue, palpitations, gastrointestinal symptoms, weight loss, recent travel, nausea, vomiting, changes in urinary pattern, changes in sleep or appetite, recent significant weight loss, exposure to allergens, and recent new sexual partners. The patient has a history of seasonal allergies and a remote history of appendectomy without complications. No significant family history of lung conditions, heart conditions, or cancers.
+
+**Objective:**
+- Vital signs stable
+- No signs of respiratory distress
+- Clear nasal discharge noted during examination
+- No other abnormal physical findings
+
+**Assessment:**
+1. Likely diagnosis: Viral upper respiratory infection or common cold with seasonal allergies exacerbation.
+2. Rule out: COVID-19 (pending test results).
+
+**Plan:**
+1. Conduct COVID-19 swab test.
+2. Advise self-isolation and wearing a mask around others until test results are available.
+3. Monitor symptoms and follow up in 48 hours for test results.
+4. Recommend over-the-counter antihistamines for symptom relief.
+5. Encourage adequate rest and hydration.
+6. No further investigations or treatments needed at this time.

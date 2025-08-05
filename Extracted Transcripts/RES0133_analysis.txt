@@ -1,0 +1,37 @@
+**List of symptoms:**
+- Cough
+- Hoarse voice
+- Runny nose
+- Sore throat
+- Dry cough
+- Loss of voice
+- Weight gain
+
+**List of possible diseases or illnesses:**
+- Viral upper respiratory infection
+- Laryngitis
+- Common cold
+- Acute viral pharyngitis
+
+**SOAP Note:**
+
+**Subjective:**
+The patient presents with a cough that started three days ago, accompanied by a hoarse voice and a recent loss of voice. The cough is dry, and there is no production of phlegm or sputum. The patient experienced a runny nose two days ago, which has since resolved. There is a history of sore throat, but it does not seem to be the primary concern. The patient denies fevers, chills, night sweats, wheezing, chest pain, blood in sputum, or recent travel outside the city or province. The patient reports weight gain of 5-10 pounds over the past six months.
+
+**Objective:**
+- Vital signs stable
+- No signs of respiratory distress
+- Clear lungs on auscultation
+- Normal mucous membranes
+- No skin changes or rashes
+- No lymphadenopathy
+
+**Assessment:**
+1. Viral upper respiratory infection likely causing laryngitis and hoarseness.
+2. Differential diagnosis includes a common cold or acute viral pharyngitis.
+3. Rule out COVID-19 due to overlapping symptoms.
+
+**Plan:**
+1. Supportive management for viral infection: encourage hydration, rest, and consider lozenges for symptomatic relief.
+2. COVID-19 swab to be performed to rule out infection.
+3. Follow-up in a few days to monitor symptoms and consider further interventions if necessary.

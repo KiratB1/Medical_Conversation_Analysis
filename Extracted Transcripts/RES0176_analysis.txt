@@ -1,0 +1,47 @@
+**List of symptoms:**
+- Feeling short of breath
+- Passing out
+- Feeling dizzy
+- Racing heart
+- Fainting episode
+- Nocturnal dyspnea (shortness of breath at night)
+- Exertional dyspnea (shortness of breath during physical activity)
+
+**List of possible diseases or illnesses:**
+- Asthma exacerbation
+- Cardiac arrhythmia
+- Syncope (fainting)
+- Pulmonary embolism
+- Heart disease
+- Anemia
+- Dehydration
+
+**SOAP Note:**
+
+**Subjective:**
+The patient presents with symptoms of feeling short of breath, passing out, and experiencing a fainting episode. The shortness of breath started about five to six weeks ago, primarily during physical exertion such as running. The patient also reports feeling dizzy, having a racing heart, and no nocturnal dyspnea. The recent fainting episode occurred while climbing stairs, accompanied by a sensation of fast heartbeats and dizziness.
+
+**Objective:**
+- No swelling in feet or ankles
+- No chest pain, cough, wheezing, or urinary problems reported
+- No recent weight changes or appetite alterations
+- No history of medical conditions, except for asthma managed with inhalers
+- Living with husband and son in a house with carpets
+- No recent travel history or sick contacts
+- Non-smoker, minimal alcohol consumption, no recreational drug use
+- Occupation as a writer, no occupational exposure to toxins
+- Family history of prostate cancer in uncle
+
+**Assessment:**
+1. Differential diagnosis includes asthma exacerbation, cardiac arrhythmia, syncope, pulmonary embolism, heart disease, anemia, or dehydration.
+2. Asthma exacerbation is a possibility given the patient's history of asthma and recent symptoms.
+3. Cardiac arrhythmia needs to be ruled out due to the racing heart sensation and fainting episode.
+4. Pulmonary embolism and heart disease should be considered due to the shortness of breath and fainting.
+5. Anemia and dehydration should be evaluated as potential contributing factors to the symptoms.
+
+**Plan:**
+1. Perform pulmonary function testing and imaging of the lungs to assess for asthma exacerbation.
+2. Conduct an ECG and monitor heart rhythms for 48 hours to investigate cardiac arrhythmia.
+3. Monitor for signs of pulmonary embolism or heart disease.
+4. Consider blood tests to assess for anemia and dehydration.
+5. Follow up with the patient after diagnostic tests for further management and treatment.

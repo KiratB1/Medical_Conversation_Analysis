@@ -1,0 +1,35 @@
+**List of symptoms:**
+- Persistent cough for the past two weeks
+- Initially had whitish clear mucus, now dry cough
+- Sore throat for the first few days
+- Runny nose and flu-like symptoms at the beginning
+- Chest pain when coughing excessively
+- No difficulty breathing, fevers, nausea, vomiting, or belly pain
+
+**List of possible diseases or illnesses:**
+- Acute bronchitis
+- Viral upper respiratory infection
+- Allergic cough
+- Gastroesophageal reflux disease exacerbation leading to cough
+
+**SOAP Note:**
+
+**Subjective:**
+The patient has been experiencing a persistent cough for the past two weeks, initially accompanied by mucus production which has now transitioned into a dry cough. They also reported sore throat, runny nose, and flu-like symptoms at the onset. The cough is not improving and is causing chest pain with excessive coughing. The patient denies difficulty breathing, fevers, nausea, vomiting, or belly pain.
+
+**Objective:**
+- Patient denies difficulty breathing, fevers, nausea, vomiting, or belly pain.
+- Physical examination revealed no abnormal findings upon initial assessment.
+
+**Assessment:**
+1. Differential Diagnosis:
+   - Acute bronchitis: Given the persistent cough, initial mucus production, and chest pain with coughing.
+   - Viral upper respiratory infection: Consistent with the patient's symptoms of runny nose and flu-like symptoms at the beginning.
+   - Allergic cough: Considering the patient's history of hay fever and potential triggers.
+   - Gastroesophageal reflux disease exacerbation leading to cough: Patient's history of acid reflux and symptoms worsening with certain foods.
+
+**Plan:**
+1. Further evaluation: Recommend chest X-ray to rule out pneumonia or other underlying lung conditions.
+2. Symptomatic treatment: Prescribe cough suppressants or expectorants as needed for symptom relief.
+3. Lifestyle modifications: Advise the patient to avoid triggers, such as acidic foods, that may exacerbate their cough.
+4. Follow-up: Schedule a follow-up appointment to monitor the progress of symptoms and adjust treatment if necessary.

@@ -1,0 +1,41 @@
+**List of symptoms:**
+- Pain in the chest
+- Trouble breathing
+- Cough
+- Shortness of breath on exertion
+- Racing heart sensation
+- Left leg soreness
+- Swelling in the left leg
+
+**List of possible diseases or illnesses:**
+- Pulmonary embolism
+- Chest infection
+- Pneumonia
+- Acute coronary syndrome
+- Chronic obstructive pulmonary disease (COPD)
+- Heart failure
+
+**SOAP Note:**
+
+**Subjective:**
+The patient, Jen, is a 52-year-old female presenting with chest pain for over a week, associated with trouble breathing, exacerbated by deep breaths and exertion. She reports a cough and shortness of breath on exertion, rating it as high as 7-8 out of 10. She denies fevers, chills, night sweats, weight loss, changes in vision, hearing, smell, or skin. She mentions a history of hysterectomy a few weeks ago due to fibroids. The patient smokes about half a pack of cigarettes per day, has a family history of heart attack in her mother at age 56, and reports swelling in her left leg.
+
+**Objective:**
+- Patient appears uncomfortable during the conversation.
+- No signs of distress or acute respiratory distress.
+- No visible swelling in the left leg during the conversation.
+- No wheezing or coughing during the conversation.
+- No fever or tachycardia noted.
+
+**Assessment:**
+1. Differential diagnosis includes pulmonary embolism, chest infection, pneumonia, acute coronary syndrome, COPD, and heart failure given the patient's symptoms of chest pain, cough, shortness of breath, and racing heart sensation.
+2. Smoking history and family history of heart attack increase the risk for cardiovascular conditions.
+3. Recent hysterectomy may contribute to reduced mobility and increased risk of blood clots.
+
+**Plan:**
+1. Immediate referral for further diagnostic testing including chest imaging, pulmonary function tests, and D-dimer to rule out pulmonary embolism.
+2. Consideration for cardiac workup including ECG and cardiac enzymes to evaluate for acute coronary syndrome.
+3. Monitor for signs of infection and consider antibiotics if indicated.
+4. Advise the patient to elevate her left leg and consider compression stockings for swelling.
+5. Provide smoking cessation resources and counseling.
+6. Follow-up appointment to review test results and adjust treatment plan accordingly.

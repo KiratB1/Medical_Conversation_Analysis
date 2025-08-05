@@ -1,0 +1,35 @@
+**List of symptoms:**
+- New dry cough for the past 3-4 days
+- Headache on and off for the past 3-4 days
+- Feverish feeling and feeling hot
+- Muscle aches
+- Loss of smell and taste within the last 2 days
+- Decreased appetite for the past couple of days
+
+**List of possible diseases or illnesses:**
+- Covid-19
+- Upper respiratory tract infection
+- Viral infection
+
+**SOAP Note:**
+
+**Subjective:**
+The patient presents with a new dry cough, headache, feverish feeling, muscle aches, and a recent loss of smell and taste over the past few days. The patient also reports decreased appetite. The symptoms started approximately 4 days ago.
+
+**Objective:**
+- No signs of respiratory distress
+- No fever recorded during the visit
+- No other significant physical findings reported
+
+**Assessment:**
+1. Possible Covid-19 infection given the patient's occupation as a nurse, exposure to symptomatic individuals, and overlapping symptoms with Covid-19.
+2. Differential diagnosis includes upper respiratory tract infection or viral illness.
+
+**Plan:**
+1. Conduct a Covid-19 swab test to confirm the diagnosis.
+2. Instruct the patient to isolate at home, wear a mask around family members, and avoid leaving the house until test results are received.
+3. Advise the patient to have someone else handle groceries and maintain strict isolation measures.
+4. Await test results and provide further guidance based on the outcome.
+5. Monitor symptoms and follow up with public health for additional instructions if the test is positive.
+
+Follow-up appointment scheduled for test result review and further management.

@@ -1,0 +1,33 @@
+**List of symptoms:**
+- Dry cough for the past two weeks
+- Cough is constant throughout the day
+- No other symptoms like fever, chills, sore throat, chest pain, shortness of breath, wheezing, night sweats, fatigue, diarrhea, constipation, nausea, vomiting, headaches, changes in weight, issues with urination, loss of appetite, loss of sense of taste or smell
+
+**List of possible diseases or illnesses:**
+- Viral upper respiratory tract infection
+- Chronic obstructive pulmonary disease (COPD)
+- Potential COVID-19 infection
+
+**SOAP Note:**
+
+**Subjective:**
+The patient presents with a dry, constant cough for the past two weeks. Denies any other associated symptoms such as fever, chills, sore throat, chest pain, shortness of breath, wheezing, night sweats, fatigue, gastrointestinal issues, headaches, changes in weight, urinary issues, or changes in appetite. Patient reports no recent travel or contact with sick individuals, no exposure to fumes or dust, and no significant allergens in the home environment. Admits to occasional smoking and excessive alcohol consumption, with a history of high blood pressure currently managed with ramipril.
+
+**Objective:**
+- Patient appears well-nourished and in no acute distress
+- Vital signs stable
+- Lungs clear to auscultation without wheezing or crackles
+- No signs of respiratory distress
+- No lymphadenopathy noted
+
+**Assessment:**
+1. Dry cough persisting for two weeks, possibly indicative of a viral upper respiratory tract infection.
+2. Considering the patient's smoking history and excessive alcohol consumption, COPD should be considered as a differential diagnosis.
+3. Given the current pandemic situation, COVID-19 testing is recommended to rule out infection.
+
+**Plan:**
+1. Perform a COVID-19 swab test.
+2. Conduct a physical examination to further assess the respiratory system and overall health status.
+3. Consider pulmonary function tests to evaluate for COPD if indicated.
+4. Provide counseling on smoking cessation and alcohol moderation.
+5. Follow up with the patient for test results and further management.

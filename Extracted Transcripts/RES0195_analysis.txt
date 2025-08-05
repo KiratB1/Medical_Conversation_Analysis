@@ -1,0 +1,42 @@
+**List of symptoms:**
+- Shortness of breath
+- Eye irritation (itchy and red eyes)
+- Rash below knees
+- Dry cough
+- Weight loss
+- Blurry vision
+- Painful rash below knees
+- Tender rash below knees
+
+**List of possible diseases or illnesses:**
+- Sarcoidosis
+- Autoimmune disease affecting the lungs
+- Erythema nodosum
+- Viral infection (coronavirus)
+
+**SOAP Note:**
+
+**Subjective:**
+The patient presents with symptoms of shortness of breath, eye irritation, rash below knees, dry cough, weight loss, and blurry vision. The shortness of breath has been ongoing for the past two months, with the cough starting around the same time. The rash below the knees appeared a month ago and has worsened since. The patient reports no cough but experiences shortness of breath. There is a history of weight loss (15 pounds over six months) and family history of autoimmune conditions.
+
+**Objective:**
+- Physical examination reveals a diffuse, painful, and tender rash below the knees, more prominent on the right side.
+- Red and itchy eyes with blurry vision reported by the patient.
+- No signs of fever, chills, joint pains, nausea, vomiting, headaches, muscle pain, chest pain, night sweats, changes in bowel movements, urinary pattern, sore throat, runny nose, or cold-like symptoms.
+- No fluid discharge from the eyes observed.
+- No palpable lymph nodes or abnormal sounds on chest auscultation.
+
+**Assessment:**
+1. Differential diagnosis includes:
+   - Sarcoidosis: Considered due to the presence of shortness of breath, chronic cough, and family history of autoimmune conditions.
+   - Autoimmune disease affecting the lungs: Suspected based on symptoms and family history.
+   - Erythema nodosum: Rash below knees could be indicative of this condition.
+   - Viral infection: Rule out coronavirus due to the chronic nature of symptoms.
+
+**Plan:**
+1. Order chest X-ray to assess for lung fibrosis.
+2. Conduct inflammatory marker tests (CRP, ESR) and rheumatological tests to investigate autoimmune conditions.
+3. Referral to a rheumatologist for further evaluation and management.
+4. Consider steroid treatment based on test results and specialist recommendations.
+5. Test for viral infections, including coronavirus, to rule out acute respiratory conditions.
+6. Follow-up with the patient to discuss test results and determine the next steps in treatment and care.

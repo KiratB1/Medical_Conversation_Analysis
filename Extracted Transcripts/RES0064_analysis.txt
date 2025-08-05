@@ -1,0 +1,40 @@
+**List of symptoms:**
+- Sore throat
+- Chills
+- Decreased appetite
+- Pain in the throat, especially when swallowing solid foods
+- Redness in the throat
+- Swollen tonsils
+- Swollen neck with lumps
+- Headache (resolved)
+- Trouble swallowing solid foods
+- Weight loss over a few days
+- Fatigue
+- Complaints about the throat
+
+**List of possible diseases or illnesses:**
+- Strep throat
+- Viral pharyngitis
+- COVID-19 (ruled out with testing)
+- Tonsillitis
+
+**SOAP Note:**
+
+**Subjective:**
+The patient, a child, presents with a sore throat that started three to four days ago, accompanied by chills, decreased appetite, pain in the throat (especially when swallowing solid foods), and redness in the throat. The parent reports swollen tonsils, a swollen neck with lumps, and recent weight loss over a few days. The child experienced a resolved headache but continues to have trouble swallowing solid foods and complains about the throat. There is no recent history of cough, shortness of breath, chest pain, joint pain, or muscle aches. The parent suspects the child may have been exposed to an illness at school.
+
+**Objective:**
+- Physical examination reveals redness in the throat, swollen tonsils, and lumps in the neck area.
+- No signs of cough, shortness of breath, chest pain, joint pain, or muscle aches.
+- No fever recorded at home, but chills reported.
+- No respiratory symptoms or skin rashes noted.
+
+**Assessment:**
+Based on the patient's symptoms and physical examination findings, differential diagnoses include strep throat, viral pharyngitis, and tonsillitis. COVID-19 testing is recommended to rule out the possibility due to overlapping symptoms.
+
+**Plan:**
+1. Perform a rapid strep test in the clinic to rule out strep throat.
+2. Prescribe antibiotics (penicillin or amoxicillin) for 10 days if strep throat is confirmed or suspected.
+3. Conduct a swab test for COVID-19 to confirm or rule out the infection.
+4. Advise isolation for 14 days until COVID-19 results are received.
+5. Monitor symptoms closely and follow up with the doctor if symptoms persist or worsen.

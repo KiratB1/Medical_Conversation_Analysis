@@ -1,0 +1,39 @@
+**List of symptoms:**
+- Worsening shortness of breath
+- Inability to walk more than a couple of stairs without getting short of breath
+- Swelling in the legs preventing wearing shoes
+- Weight gain of five pounds in two months
+- Shortness of breath when lying flat, requiring two pillows to sleep
+- Nocturnal shortness of breath, relieved by sitting up
+- Urinary incontinence
+- Difficulty with showering due to shortness of breath
+
+**List of possible diseases or illnesses:**
+- Heart failure exacerbation
+- Fluid accumulation in the lungs (pulmonary edema)
+- Chronic heart disease
+- Hypertension
+- High cholesterol
+- Overweight
+
+**SOAP Note:**
+
+**Subjective:**
+The patient presents with worsening shortness of breath over the past couple of days, limiting their ability to walk, along with significant lower extremity swelling, weight gain, and nocturnal shortness of breath. The patient also reports a history of heart failure, two heart attacks, high cholesterol, high blood pressure, and being overweight. Additionally, the patient mentions urinary incontinence and difficulty with showering due to shortness of breath.
+
+**Objective:**
+- Vital signs: Not provided
+- Physical examination: Not provided
+- Medications: On various cardiovascular medications including aspirin, beta blocker, ACE inhibitor, and statin.
+- Past medical history: Heart failure, two previous heart attacks, stents placed, hypertension, high cholesterol, overweight.
+
+**Assessment:**
+Likely exacerbation of heart failure leading to pulmonary edema, given the patient's history of heart disease, shortness of breath, lower extremity swelling, nocturnal symptoms, and recent weight gain.
+
+**Plan:**
+1. Review old cardiac reports and tests.
+2. Order blood work and chest x-ray.
+3. Start Furosemide to alleviate fluid retention and aid in breathing.
+4. Monitor response to treatment and adjust medications as necessary.
+5. Educate patient on dietary and lifestyle modifications to manage heart failure symptoms.
+6. Follow-up appointment to assess treatment response and further management.

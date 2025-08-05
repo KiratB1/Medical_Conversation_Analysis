@@ -1,0 +1,29 @@
+**List of symptoms:**
+- Cough worsening over the last one and a half weeks
+- Shortness of breath starting in the last three days
+- Changes in bowel movements with diarrhea for the last three days
+
+**List of possible diseases or illnesses:**
+- Acute bronchitis
+- Pneumonia
+- COVID-19
+- Viral respiratory infection
+
+**SOAP Note:**
+
+**Subjective:**
+The patient presents with a worsening cough over the last one and a half weeks, shortness of breath starting in the last three days, and changes in bowel movements with diarrhea for the last three days. The cough is dry and harsh, with no sputum production or blood. The shortness of breath is rated at a five on a scale of one to ten and is exacerbated by coughing. The patient denies wheeziness, chest pain, palpitations, swelling in limbs, calf pain, dizziness, fevers, chills, weight loss, changes in hair/nails/skin, vision or hearing changes, loss of smell or taste, congestion, sore throat, swallowing difficulties, nausea, vomiting, constipation, blood in stool, changes in urine, confusion, memory loss, muscle aches, or joint pains. The patient has a history of diabetes and high blood pressure, for which they are taking metformin and ramipril as prescribed. The patient has a history of smoking but quit five years ago and consumes alcohol occasionally. The patient lives in London with their wife, who is asymptomatic.
+
+**Objective:**
+- Vital signs: Not provided
+- Physical examination: Not provided
+
+**Assessment:**
+1. Respiratory symptoms including worsening dry cough and shortness of breath suggest a respiratory infection such as acute bronchitis, pneumonia, or possibly COVID-19.
+2. Gastrointestinal symptoms of diarrhea for the last three days may be indicative of an infectious etiology.
+
+**Plan:**
+1. Conduct a COVID-19 test to rule out infection, with results expected in 24-48 hours.
+2. Recommend isolation for 14 days, including distancing from the patient's wife, to prevent potential spread of infection.
+3. Advise monitoring for worsening symptoms, especially neurological symptoms, high fever, or severe breathing difficulties. Instruct the patient to seek emergency care if these symptoms develop.
+4. Follow up with the patient after COVID-19 test results and provide further management based on the outcome.

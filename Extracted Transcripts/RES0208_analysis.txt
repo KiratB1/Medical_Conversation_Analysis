@@ -1,0 +1,46 @@
+**List of symptoms:**
+- Shortness of breath
+- Fatigue
+- Feeling weak
+- Loss of appetite
+- Fever
+- Loss of taste
+- Loss of smell
+- Dry cough
+- Sore throat
+- Headaches
+- Muscle aches
+- Exposure to sick grandchild
+
+**List of possible diseases or illnesses:**
+- Viral respiratory infection
+- COVID-19
+- Influenza
+- Upper respiratory tract infection
+
+**SOAP Note:**
+
+**Subjective:**
+The patient presents with symptoms of shortness of breath, fatigue, weakness, loss of appetite, fever, loss of taste and smell, dry cough, sore throat, headaches, and muscle aches. Patient reports exposure to a sick grandchild who attends daycare.
+
+**Objective:**
+- Patient appears fatigued and weak.
+- No signs of respiratory distress observed.
+- No chest pain reported.
+- No urinary symptoms mentioned.
+- No neurological deficits noted.
+- Patient's vital signs within normal limits.
+
+**Assessment:**
+1. Suspected viral respiratory infection, possibly COVID-19, given the constellation of symptoms and exposure history.
+2. Differential diagnosis includes influenza or upper respiratory tract infection.
+
+**Plan:**
+1. Perform a physical exam, focusing on respiratory and cardiovascular systems.
+2. Order a chest X-ray to evaluate for any chest infection.
+3. Conduct a COVID-19 swab test.
+4. Instruct the patient to self-isolate at home until test results are available.
+5. Advise the patient to avoid contact with others, including their wife, to prevent potential transmission.
+6. Results of tests to be reviewed in 24 to 48 hours, with further instructions provided by public health if positive.
+
+This SOAP note is based on the patient's reported symptoms, medical history, and exposure risk, guiding further evaluation and management for a suspected respiratory infection, potentially COVID-19.

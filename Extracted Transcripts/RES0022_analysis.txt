@@ -1,0 +1,42 @@
+**List of symptoms:**
+- Shortness of breath
+- Difficulty breathing
+- Increased fatigue
+- Dry cough
+- Loss of taste and smell
+- Fever
+- Diarrhea
+- Headaches
+- Muscle aches
+- Soreness
+
+**List of possible diseases or illnesses:**
+- Exacerbation of COPD
+- COVID-19
+- Adenovirus infection
+- Bacterial respiratory infection
+
+**SOAP Note:**
+
+**Subjective:**
+The patient presents with a chief complaint of worsening shortness of breath over the past week, along with increased difficulty breathing, dry cough, loss of taste and smell, fever, diarrhea, headaches, muscle aches, and fatigue. The patient also reports a history of COPD and recent discontinuation of inhaler use due to running out of medication.
+
+**Objective:**
+- Patient appears fatigued but oriented and cooperative.
+- No signs of respiratory distress observed.
+- Vital signs: Temperature to be checked.
+- Patient denies chest pain, coughing up blood, night sweats, chills, weight loss, palpitations, dizziness, abdominal pain, nausea, vomiting, urinary symptoms, sore throat, rash, or joint swelling.
+- Patient reports occasional alcohol consumption and smoking one pack of cigarettes daily.
+
+**Assessment:**
+1. Exacerbation of COPD: Likely contributing to the worsening shortness of breath and dry cough.
+2. COVID-19: Considering the loss of taste and smell, fever, and fatigue, COVID-19 cannot be ruled out.
+3. Possible viral or bacterial respiratory infection: Given the combination of symptoms, including diarrhea, headaches, and muscle aches.
+
+**Plan:**
+1. Conduct a PCR nasal swab test for COVID-19.
+2. Order laboratory investigations to assess inflammatory markers and respiratory function.
+3. Restart inhaler therapy for COPD management.
+4. Advise the patient to quarantine for 14 days pending test results and follow public health guidelines.
+5. Encourage the patient to consider smoking cessation and discuss options for support.
+6. Follow up with the patient to review test results and adjust treatment plan accordingly.

@@ -1,0 +1,43 @@
+**List of symptoms:**
+- Cough
+- Fever
+- Rapid breathing
+- Yellow sputum
+- Decreased urine output
+- Decreased appetite
+- Fussiness
+- Inconsolability
+
+**List of possible diseases or illnesses:**
+- Bronchiolitis
+- Upper respiratory viral infection
+- Pneumonia
+
+**SOAP Note:**
+
+**Subjective:**
+A 2 1/2-month-old infant presented with a cough, fever, rapid breathing, yellow sputum, decreased urine output, decreased appetite, fussiness, and inconsolability for the past two days. The patient's mother mentioned a history of similar symptoms last month, diagnosed as a viral infection or bronchiolitis, which resolved with puffers.
+
+**Objective:**
+- Vitals stable, on 2 liters of oxygen
+- Wheezy breathing noted
+- Noisy or whistling sounds during breathing
+- Decreased wet diapers
+- Decreased appetite
+- Fussy and inconsolable behavior
+
+**Assessment:**
+1. Differential diagnosis:
+   - Bronchiolitis
+   - Upper respiratory viral infection
+   - Pneumonia
+
+2. Past medical history of viral infection or bronchiolitis with hospitalization for breathing support suggests a predisposition to respiratory infections.
+
+**Plan:**
+1. Perform blood tests and cerebrospinal fluid analysis to investigate for infection.
+2. Initiate inhalers and maintain oxygen therapy for respiratory support.
+3. Monitor the patient's symptoms and response to treatment closely.
+4. Educate parents on monitoring for worsening symptoms and follow-up care instructions.
+
+Follow-up appointment recommended for further evaluation and management.

@@ -1,0 +1,134 @@
+D: Could you tell me what brought you in today?
+P: Sure. You know, I've been having this chest pain for the since last night and I'm also having a hard time breathing, so thought I should check it out.
+D: Okay. And so the chest pain came on last night. Were you doing anything before, before it coming on?
+P: No. I was just about to head to bed and suddenly I felt this crampy pain in my chest.
+D: Okay, and where is this pain located?
+P: I'd say like the center of my chest.
+D: Okay. Has the pain been going on constantly since last night?
+P: Yeah, I would say so.
+D: Okay. Has it changed in character at all? You said it was crampy, but has it felt like anything else?
+P: Nope, just. Just crampy. Yeah.
+D: I see. Do you feel the pain anywhere else or do you feel it just in the center of your chest?
+P: Yeah, center of my chest going up to around my throat area, maybe.
+D: Okay, I see. And anything that you've done that's made the pain worse?
+P: I guess. Taking in a deep breath.
+D: Okay, how about changing positions? Does the pain get worse if you lie flat or if you lean forward?
+P: No.
+D: Okay. And have you ever had a pain like this in your chest before?
+P: No.
+D: Okay. And has the pain been getting worse, getting better, staying the same?
+P: It's been the same.
+D: Okay, and have you taken anything for it to help with the pain?
+P: No.
+D: Okay. And the shortness of breath you mentioned, when did that start?
+P: Around the same time.
+D: Okay, and is this troubles breathing, like after walking a certain distance or exerting yourself?
+P: No, it's just always there.
+D: Okay, and have you noticed any changes to the sounds of your breathing, like a wheeze or whistling sound?
+P: Yeah, maybe a slight wheeze.
+D: Okay. Do you think that you're breathing more quickly?
+P: No.
+D: Okay. Have you had a cough?
+P: No. Cough? No.
+D: Alright, and so you haven't been bringing up any sputum or any blood?
+P: No.
+D: Okay. And have you had a sore throat?
+P: No sore throat.
+D: All right, so you've had the chest pain since last night and shortness of breath that started around a similar time last night. Have you had any other symptoms?
+P: Just some fatigue, some tiredness.
+D: All right, and did that start around the same time that started a few.
+P: Days before, like maybe two days before.
+D: Okay. Has there been any change to your sleep or any stressful events happen that might be tiring you out?
+P: No.
+D: Okay. And have you had any headaches?
+P: Nope, no headaches.
+D: How about any eye symptoms like discharge or eye pain?
+P: No, nothing like that.
+D: Any redness of your eye?
+P: Nope.
+D: All right, have you had a Runny nose?
+P: No.
+D: All right, and have you felt like your heart is racing at all?
+P: No.
+D: Okay. Have you had a loss of taste or smell?
+P: Nope.
+D: And have you had a decrease in your appetite?
+P: No.
+D: I see. Okay. And have you had any changes to your weight in the last several months?
+P: No.
+D: All right, and have you had any diarrhea or constipation?
+P: No.
+D: All right, and how about any nausea or vomiting?
+P: None.
+D: Any abdominal pains?
+P: No.
+D: All right, and how about any confusion or concerns around memory?
+P: No.
+D: All right, and any muscle aches or.
+P: Pains, maybe slight muscle aches?
+D: Have you had any weakness?
+P: No.
+D: Okay, and any rashes you've noticed anywhere?
+P: No, none.
+D: Okay. And have you had a fever?
+P: No.
+D: How about any. Any chills?
+P: No chills.
+D: All right, and then any night sweats?
+P: No.
+D: All right, and do you have any medical conditions you see a physician regularly for?
+P: Nope. Actually. Sorry. I have diabetes.
+D: Okay. Is that type two?
+P: Type two? Yeah.
+D: Okay. And are you taking any medications for that or is it kind of diet or lifestyle controlled?
+P: I'm on insulin for that.
+D: Okay. And do you use a sliding scale or do you have a regimen you use?
+P: I have. So I have like a long acting and a short acting. So I just take the long acting before I go to bed and then the short acting before meals.
+D: I see. Okay, so that sounds like a great. A great plan. Do you take any other medications?
+P: I take some vitamins, you know, like vitamin D and calcium, but that's it.
+D: Okay. Any allergies?
+P: I'm allergic to penicillin.
+D: Okay. Have you had antibiotics recently for any reason?
+P: No.
+D: Okay. And are your immunizations up to date?
+P: I think so. I think the only thing is I have to see if I'm up to date with my pneumovax.
+D: Okay, great. Yeah, I was wondering about that one. So we can look into that. Certainly. And do you know if you've had the. The zoster or the shingles vaccine?
+P: Yes, I had that one.
+D: Okay, great. And next, I was wondering if you could tell me a little bit about your living situation.
+P: Sure. I live with my husband. We live in a three bedroom townhouse. It's a fairly new home.
+D: Okay. Did you recently move there?
+P: Yes, we did.
+D: Okay, cool. And so there's no concerns with like old carpets or being exposed to kind of like dusts or molds or anything like that in the home?
+P: No, nothing like that.
+D: Okay. And has your husband been sick at all?
+P: No, he's been fine.
+D: Okay. And do you have any pets in the home?
+P: We have a cat.
+D: Okay. And do you have any allergies to pets?
+P: No.
+D: All right, and how do you support yourself financially?
+P: Right now we're both retired, but we have resp. Savings.
+D: Oh, excellent. Okay. And for your previous occupation, were you exposed to any chemicals or like asbestos or inhalants that you're aware of?
+P: No, no, nothing like that.
+D: Okay. And do you smoke cigarettes?
+P: I don't.
+D: Do you drink alcohol?
+P: I have maybe a glass or two glasses of wine over the weekends.
+D: Okay. And do you smoke marijuana or use any cannabis products?
+P: No, I don't.
+D: Okay. And how about the use of any other recreational drugs?
+P: No, no, nothing like that.
+D: Okay. And has anybody in your family had a heart condition before?
+P: My mother passed away when she was 80. She had some valvular issues.
+D: Okay. Okay. And has anybody in the family had a heart attack before?
+P: No, not that I know of.
+D: All right, and anybody have any lung conditions?
+P: No.
+D: All right. And then any cancer that runs in the family?
+P: Cancer? No. No.
+D: Okay. I think that's all I wanted to cover on the history today. Was there anything else you'd like to tell me that I was. That I maybe didn't ask about?
+P: No, I think you asked me all those other questions. I'm just wondering, what do you think I have?
+D: Yeah, certainly. So it could possibly be something related to the heart. And sometimes, especially people in your age group who have diabetes can have chest pain and symptoms that could be nonspecific. And so we will check that for sure. We'll get an ECG and some lab work with the troponin and also a chest X ray so that we can investigate for that. And also the chest X ray can help us look to see if you have something going on in your lung like a possible pneumonia or maybe a viral infection as well, which could include something like COVID 19. So we will be ordering a PCR nasal swab as well to test for that. And so in the meantime, because we'll be doing that test, it requires self quarantine for 14 days. So if possible, that would mean distancing from your husband in the home as well for that 14 day period, but that the results should come back from that test within the next several days. And sorry, also if it is positive, we will have to notify public health as well so that the appropriate contact tracing can be done.
+P: Okay, well, thank you very much.
+D: You're very welcome. We'll get the investigation started now.
+P: Sure, sounds good.

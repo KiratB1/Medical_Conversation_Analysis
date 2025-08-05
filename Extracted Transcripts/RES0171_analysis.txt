@@ -1,0 +1,38 @@
+**List of symptoms:**
+- Shortness of breath, even at rest
+- Difficulty breathing, especially when exerting
+- Chest pain, exacerbated by deep breaths
+- Dry cough
+- Fast heart rate
+- Sore right calf
+
+**List of possible diseases or illnesses:**
+- Pulmonary embolism
+- Deep vein thrombosis leading to pulmonary embolism
+- Anxiety
+- Type 2 diabetes
+
+**SOAP Note:**
+
+**Subjective:**
+The patient presents with complaints of shortness of breath, difficulty breathing at rest and with exertion, chest pain exacerbated by deep breaths, dry cough, and a fast heart rate. She also reports a sore right calf. The symptoms started yesterday and have been progressively worsening. The patient has a history of anxiety, type 2 diabetes, and a recent hysterectomy for abnormal bleeding. She has a high BMI and is a smoker.
+
+**Objective:**
+- Patient appears alert and oriented.
+- Vital signs: Elevated heart rate.
+- Soreness in the right calf noted upon examination.
+- No signs of redness, warmth, or swelling in the right calf.
+- No other physical abnormalities observed.
+
+**Assessment:**
+1. Pulmonary embolism: Suspected due to recent surgery, immobility, shortness of breath, and fast heart rate. Risk factors include smoking and high BMI.
+2. Deep vein thrombosis: Considered as a potential cause of the sore right calf, which could lead to pulmonary embolism.
+3. Anxiety: Patient's history of anxiety may contribute to the presentation of symptoms.
+4. Type 2 diabetes: Chronic condition requiring monitoring and management.
+
+**Plan:**
+1. Conduct an ultrasound of the leg to assess for deep vein thrombosis.
+2. Perform a scan of the chest to confirm the presence of a pulmonary embolism.
+3. Consider initiating blood thinning medications if a clot is confirmed.
+4. Encourage the patient to continue efforts to quit smoking and manage her weight to reduce the risk of future complications.
+5. Follow up with the patient to discuss test results and adjust treatment plan accordingly.

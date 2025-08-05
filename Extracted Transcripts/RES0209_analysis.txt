@@ -1,0 +1,36 @@
+**List of symptoms:**
+- Persistent dry cough
+- Shortness of breath
+- Increased use of bronchodilator
+- Wheezing
+- Difficulty breathing
+- Chest tightness
+- Nighttime symptoms
+
+**List of possible diseases or illnesses:**
+- Asthma exacerbation
+- Allergic asthma
+- Seasonal allergies
+
+**SOAP Note:**
+
+**Subjective:**
+The patient, a 10-year-old with a history of asthma diagnosed at the age of 8, presents with a persistent dry cough, shortness of breath, increased use of bronchodilator, wheezing, difficulty breathing, chest tightness, and nighttime symptoms over the past two weeks. The patient reports using the bronchodilator more frequently, up to five to six times a week, compared to once every two weeks previously. They also mention potential allergies, especially in the spring, but have not been formally diagnosed.
+
+**Objective:**
+- Patient appears well-nourished and in no acute distress
+- Lung auscultation reveals wheezing
+- No signs of respiratory distress at the moment
+- No fever or other signs of infection noted
+
+**Assessment:**
+1. Acute exacerbation of asthma with allergic component
+2. Possible seasonal allergies contributing to symptoms
+3. Rule out other respiratory infections or triggers
+
+**Plan:**
+1. Prescribe a short course of oral corticosteroids to manage the asthma exacerbation.
+2. Adjust bronchodilator regimen as needed for better control of symptoms.
+3. Recommend keeping a symptom diary to identify triggers and patterns.
+4. Consider allergy testing to confirm potential seasonal allergies.
+5. Follow-up appointment in one week to assess response to treatment and adjust management plan as necessary.

@@ -1,0 +1,131 @@
+D: Nice to meet you. What's your name?
+P: My name is Scott. It's nice to meet you, too.
+D: All right. So, Scott, how old are you?
+P: I'm 15.
+D: 15. Okay. What brings you in today?
+P: I've had a sore throat now for a couple of weeks, and it's just not going away.
+D: A couple of weeks. Okay, so about two weeks, three weeks?
+P: Yeah, about two to three weeks.
+D: Okay. What does it feel like? Is it. Is it kind of like a burning feeling? Is it more like an itchy feeling? What does it feel like?
+P: I would say it's kind of. Yeah, like burny or burning or scratchy.
+D: Okay. And does it hurt when you swallow?
+P: It does, yeah. My throat hurts when I'm eating or swallowing it. Like liquids as well, but cold stuff seems to make it feel a little bit better.
+D: Okay, good. And does your neck hurt, too?
+P: A little tender. I've noticed the. Some lumps at the front of my neck that have been a bit sore.
+D: Okay, and is it mostly sore, kind of like midline, or is it more sore to one side versus the other?
+P: I'd say maybe the right side is a little bit more sore, but I can feel it on both sides of my neck.
+D: Okay, and how bad would you say your discomfort is? 1 to 10, 10 being the worst?
+P: I would say maybe two or three. If I move my neck, I can feel it more, but otherwise I can just barely notice that it's there.
+D: Okay, so it's not preventing you from sleeping, going to school, playing, things like that?
+P: No, it's more so the sore throat when swallowing.
+D: Okay. Okay. Have you noticed a fever at all?
+P: I have, yeah. I felt hot and I checked my temperature this morning, and it was 38.7, I think it was. Is that a fever?
+D: Yeah, I'd say that's a fever. We can also do another temperature check today.
+P: Okay.
+D: Yeah, but that definitely sounds like a fever. Have you noticed rashes anywhere?
+P: Yeah, I've had this red, I guess, pink rash that I have noticed. It's come over my chest and belly area.
+D: Okay. How big is it? Is it more than a centimeter?
+P: Yeah, it's pretty. Well, I mean, it's kind of spread out over. Over an area. Like, it's not all continuous, I guess you can kind of see patches or blotches.
+D: Okay, and is it raised?
+P: No, it's not raised.
+D: Okay. Okay. Is it itchy?
+P: No, it's not itchy.
+D: Okay. Painful?
+P: No, not painful.
+D: Okay. And is it bleeding or oozing anything like pus?
+P: No, it's not. Nothing like that. It's just pink and red and it's just kind of showed up over the last little while. I've noticed it on my, like, hands a little bit, too.
+D: Okay. And you said this started when. Like, was this before the sore throat or after?
+P: I can't, like, remember the onset. I think that the sore throat started first and the rash came a little bit later.
+D: Okay. Okay. And have you noticed that your glands are swollen?
+P: I think so. Maybe that's what's swollen in my neck.
+D: Okay. Okay. How about coughing?
+P: No, I haven't had a cough.
+D: No. And how about a stuffy nose or a runny nose?
+P: Nothing like that.
+D: Okay. Body aches?
+P: Yeah, I felt some muscle aches, for sure.
+D: Okay. Upper limbs or lower limbs?
+P: I'd say kind of whole body. I just feel like my muscles and joints are sore.
+D: Okay. Yeah. And do you have any headaches?
+P: No, I haven't really had any headaches, no.
+D: Okay. And how's your appetite? Are you still eating? Well.
+P: It might be a little. It might have been a little bit down. I just kind of haven't been feeling so great, so I probably have eaten less the last few weeks.
+D: Yeah. Have you been around anyone who may have been sick recently?
+P: Yeah, actually, I think a few of my friends or there was somebody in my gym class that sounded like they had similar symptoms.
+D: Okay. Okay. And when was this?
+P: Now that I think about it, probably about three or four weeks ago.
+D: Okay. And were they ever treated for that? Did they see a doctor?
+P: I'm not sure.
+D: No. Okay. No worries.
+P: I just remember them being off for school because they were sick.
+D: Okay. Yeah. Any issues with your eyes? No, no. Nothing like crusting or pus coming out of your eyes? Red eye, anything like that?
+P: No. Well, they have looked maybe a little bit more red than usual, but haven't noticed anything in terms of itchiness or discharge.
+D: Okay. Any nausea or vomiting?
+P: No, no nausea or vomiting.
+D: Okay. How. How about your stools? Have they been normal? Have you had diarrhea, constipation, anything like that?
+P: Those. No changes to bowel habits.
+D: Okay. How about urine?
+P: That's been. Okay.
+D: Okay. Okay. Have you ever had these symptoms before?
+P: I mean, I've had sore throats in the past, but not while feeling like this, though.
+D: Yeah. Okay. When was the last time you had a sore throat?
+P: I don't know. Maybe when I was a kid.
+D: Okay.
+P: It's been a while.
+D: Yeah. Like a strep throat kind of thing? Or more viral?
+P: Yeah. I do remember getting antibiotics when I was younger.
+D: Okay. Okay. And are you otherwise healthy? Do you have any medical conditions?
+P: I was diagnosed with asthma.
+D: Okay. And are you on any medications for that?
+P: Yeah, so I just use Ventolin as needed, but otherwise. Oh, and then I take Flovent daily, so. Okay, I think that's the one. There's a couple inhalers that I take.
+D: Okay. Okay. And any other medications?
+P: Sometimes I'll take, like Reactin or some other type of allergy pill, but that's it.
+D: Okay. What are you allergic to?
+P: Well, I would say, like, mostly seasonal allergies bug me, like. Yeah, like seasonal allergies and dust, maybe.
+D: Okay. And are you up to date with all your immunizations?
+P: Yeah, my mom makes me get the flu shot every year.
+D: Okay, good. And. Okay. Have you seen another doctor for these symptoms at all? Have you been worked up for that? Any blood work testing done for it already?
+P: No, I thought I would have felt better by now, and so I haven't seen anybody, but it's kind of just been going on now, not seeming to get better, so. Wanted to come see somebody?
+D: Yeah, for sure. Have you tried anything for your symptoms? Any medications, anything over the counter?
+P: Yeah, I've tried some Tylenol and I think. What is it? Advil. And that definitely has helped with some of the kind of aches and pains and. But they've come right back.
+D: Okay. Any family history of lung issues, heart issues?
+P: No, nothing like that.
+D: No.
+P: Yeah.
+D: Okay. How about cancers?
+P: I think my grandfather had pancreatic cancer.
+D: Okay. Okay. All right. So do you live at home? Correct?
+P: Yeah, I live with my parents and my younger sister. She's 12.
+D: She's 12. Is she healthy?
+P: Yeah, she is.
+D: Okay, good. And have you guys traveled recently?
+P: No, we've been. We've been at home.
+D: Okay. Okay. And do you smoke?
+P: No, I don't smoke.
+D: No. How about marijuana?
+P: I've tried it once or twice, but that was just those couple times. Nothing that I do or use regularly.
+D: Okay. And how about alcohol?
+P: No. No alcohol.
+D: No alcohol. Okay. Are you sexually active?
+P: No, I'm not.
+D: No. Okay. Is there a possibility that. Or actually. Sorry, I should rephrase that. Have you kissed anyone recently?
+P: I. Well, I guess I kind of have a girlfriend now that I started hanging out with about two months ago.
+D: Okay. Okay.
+P: So I guess. Yes.
+D: Okay. All right. Well, that's good. Has she had any of these symptoms?
+P: Well, she. She was. Wasn't feeling well for a while back, but I don't think it was this bad for her.
+D: Okay. And she. And she's better now?
+P: Yeah, she's better now.
+D: Okay. All right. So you mentioned you're not sexually active. If you were to be. Make sure you use protection and. Okay. So everything at home is okay, then? No one's sick at home, you mentioned, right?
+P: Yeah, no one's. No one's sick at home.
+D: Okay. And school is going okay?
+P: Yeah, school's been going okay for the most part. It's been tough these last few weeks feeling like this, though.
+D: Yeah, for sure. And are you and your girlfriend in an exclusive relationship?
+P: I think so, yeah.
+D: Okay. I asked because there's something called. What you may be familiar with is called the kissing disease. In medical terminology. It's. It's called mono, as caused by a virus called ebv. So it could be that. So we're covering all our bases.
+P: Oh, I've heard of mono before, yeah. Okay.
+D: It's likely it could be up there in terms of what you have. So I think those were all the questions I had for you. Did you have any questions for me? Anything you wanted to add?
+P: No, I think that's. You covered everything.
+D: Okay. All right, so we'll go off a few. We'll try to cover our basis and get you tested for mono, which you'd have to do, like a mono spot test. And we can do a rapid strep test as well to see if he has something called strep throat. But, yeah, we'll see what those results come back as, and we'll go from there. Does that sound good?
+P: Yeah, no, that sounds good.
+D: Okay, thank you.

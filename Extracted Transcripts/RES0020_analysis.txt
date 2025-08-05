@@ -1,0 +1,36 @@
+**List of symptoms:**
+- Chest pain
+- Difficulty breathing
+- Fatigue
+- Slight wheeze
+
+**List of possible diseases or illnesses:**
+- Myocardial infarction (heart attack)
+- Pneumonia
+- Viral infection (possibly COVID-19)
+- Diabetes-related chest pain
+- Allergic reaction (considering slight wheeze)
+
+**SOAP Note:**
+
+**Subjective:**
+The patient presents with complaints of chest pain that started last night, described as crampy and located in the center of the chest with radiation to the throat area. The pain has been constant and exacerbated by deep breaths. They also report difficulty breathing, fatigue, and a slight wheeze. No recent history of cough, sputum production, fever, chills, night sweats, or gastrointestinal symptoms. Patient has type 2 diabetes managed with insulin, takes vitamins, and has a known allergy to penicillin.
+
+**Objective:**
+- No significant findings reported in the conversation.
+
+**Assessment:**
+1. Differential diagnosis:
+   - Myocardial infarction (heart attack)
+   - Pneumonia
+   - Viral infection (possibly COVID-19)
+   - Diabetes-related chest pain
+   - Allergic reaction (considering slight wheeze)
+
+**Plan:**
+1. Order an ECG and lab work including troponin levels to evaluate for myocardial infarction.
+2. Chest X-ray to assess for pneumonia or lung abnormalities.
+3. PCR nasal swab for COVID-19 testing due to respiratory symptoms.
+4. Advise self-quarantine for 14 days pending COVID-19 test results.
+5. Notify public health if COVID-19 test is positive for contact tracing.
+6. Follow up with results and further management based on findings.

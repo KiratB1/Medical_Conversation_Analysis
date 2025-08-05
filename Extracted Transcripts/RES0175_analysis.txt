@@ -1,0 +1,35 @@
+**List of symptoms:**
+- Feeling achy
+- Cough (dry)
+- Fever
+- Chills
+- Muscle aches
+- Wheezing
+- Loss of taste
+- Fatigue
+
+**List of possible diseases or illnesses:**
+- Common cold
+- Viral illness
+- COVID-19
+
+**SOAP Note:**
+
+**Subjective:**
+The patient presents with symptoms of feeling achy, dry cough, fever, chills, muscle aches, wheezing, loss of taste, and fatigue for the past two days. Denies chest pain, headaches, sore throat, nausea, vomiting, runny nose, abdominal pain, diarrhea, urinary problems, skin changes, or dizziness. Reports a history of BPH and takes tamsulosin. Lives with wife who is asymptomatic. No recent travel history. Quit smoking cigarettes 10 years ago, occasional alcohol use. Family history of Hypertrophic cardiomyopathy with early heart attacks.
+
+**Objective:**
+- Vital signs: Not mentioned
+- Physical examination: Not mentioned
+
+**Assessment:**
+- Differential diagnosis includes common cold, viral illness, and COVID-19 due to the patient's symptoms.
+- History of BPH and tamsulosin use.
+
+**Plan:**
+1. Conduct a swab test to test for COVID-19.
+2. Self-isolate for the next 14 days, including from the wife.
+3. Await results and follow up with the patient.
+4. Monitor symptoms and provide supportive care as needed.
+5. Advise the patient to continue taking tamsulosin for BPH.
+6. Discuss family history of Hypertrophic cardiomyopathy with the cardiologist for further evaluation and screening.

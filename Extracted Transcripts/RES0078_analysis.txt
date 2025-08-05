@@ -1,0 +1,39 @@
+**List of symptoms:**
+- Difficulty breathing
+- Cough with whitish or clear sputum
+- Feverish feeling
+- Itchy throat
+- Chest pain (right side of sternum, worsens with deep breathing and coughing)
+- Fatigue
+
+**List of possible diseases or illnesses:**
+- Acute bronchitis
+- Pneumonia
+- Pleurisy
+- Pulmonary embolism
+- Respiratory infection
+
+**SOAP Note:**
+
+**Subjective:**
+The patient presents with difficulty breathing, cough with whitish or clear sputum, feeling feverish, itchy throat, and chest pain on the right side of the sternum that worsens with deep breathing and coughing. The chest pain is rated at a severity of 6 out of 10, described as sharp, localized, and not radiating. The patient reports feeling fatigued. Symptoms have been present for the past three to four days.
+
+**Objective:**
+- No visible signs of distress
+- No fever noted during the visit
+- No observable signs of respiratory distress
+- No abnormal breath sounds on auscultation
+- No redness in eyes or congestion in the nose
+- No rash or abnormalities on the skin
+
+**Assessment:**
+1. Respiratory infection: Given the presence of cough, sputum production, difficulty breathing, and feverish feeling, a respiratory infection is a likely diagnosis.
+2. Chest pain: The chest pain localized to the right side of the sternum, worsening with deep breathing and coughing, may indicate pleurisy or musculoskeletal strain.
+
+**Plan:**
+1. Order chest X-ray to evaluate for possible pneumonia or other pulmonary conditions.
+2. Conduct a complete blood count (CBC) to assess for signs of infection.
+3. Prescribe symptomatic treatment for cough and fever.
+4. Advise the patient to monitor symptoms, especially chest pain, and follow up if there is any worsening or new symptoms.
+5. Recommend rest, hydration, and proper nutrition.
+6. Educate the patient on the importance of follow-up care and adherence to the treatment plan.

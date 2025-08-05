@@ -1,0 +1,47 @@
+**List of symptoms:**
+- Cough ongoing for the last three days
+- Difficult time breathing
+- Chest tightness
+- Shortness of breath, worsens with exertion
+- Headache
+- Feverish with night sweats
+- Loss of smell
+- Muscle aches
+- Fatigue
+- Decreased appetite
+- Soreness all over the body
+- Difficulty sleeping
+
+**List of possible diseases or illnesses:**
+- Acute bronchitis
+- Pneumonia
+- COVID-19
+- Viral upper respiratory infection
+- Influenza
+- Sinusitis
+
+**SOAP Note:**
+
+**Subjective:**
+The patient presents with a cough ongoing for three days, difficulty breathing, chest tightness, shortness of breath exacerbated by exertion, headache, feverish with night sweats, loss of smell, muscle aches, fatigue, decreased appetite, soreness all over the body, and difficulty sleeping. Symptoms have been progressively worsening over the past few days.
+
+**Objective:**
+- No reported yellow or green sputum, blood-tinged sputum, or calf pain
+- No recent surgeries or immobilization
+- No history of blood clots, cancer, or other medical conditions
+- No relief with positional changes or over-the-counter medications
+- Patient works at a car factory, recently called in sick, and is self-isolating
+- No reported symptoms in family members
+- Denies smoking or drug use, occasional alcohol consumption
+
+**Assessment:**
+1. Respiratory infection presenting with cough, shortness of breath, chest tightness, and loss of smell.
+2. Possible viral etiology, including COVID-19, given the current pandemic situation and loss of smell.
+3. Differential diagnosis includes acute bronchitis, pneumonia, influenza, or sinusitis.
+
+**Plan:**
+1. Conduct COVID-19 test to rule out infection.
+2. Advise self-isolation and wearing a mask at home until test results are available.
+3. Recommend continued monitoring of symptoms and follow-up with public health guidelines.
+4. Symptomatic management with rest, hydration, and over-the-counter pain relievers as needed.
+5. Follow-up appointment scheduled for test results and further management.

@@ -1,0 +1,49 @@
+**List of symptoms:**
+- Shortness of breath
+- Coughing with production of sputum
+- Fever
+- Exertional shortness of breath
+- Limited ability to walk without becoming short of breath
+- Change in sputum color to yellow
+- Wheezing
+- Chest discomfort
+- Chills
+- Fatigue
+
+**List of possible diseases or illnesses:**
+- COPD exacerbation
+- Pneumonia
+- Bronchitis
+- Respiratory infection
+
+**SOAP Note:**
+
+**Subjective:**
+The patient presents with a two-week history of worsening shortness of breath, cough productive of yellow sputum, fever, exertional dyspnea, wheezing, chest discomfort, chills, and fatigue. The symptoms have been progressively worsening over the past week. The patient has a history of COPD diagnosed 10 years ago but reports that the current symptoms are more severe than usual COPD exacerbations.
+
+**Objective:**
+- No leg swelling reported
+- No hemoptysis
+- No night sweats
+- No unexpected weight loss
+- No headaches, eye redness, or discharge
+- No runny nose or sore throat
+- No loss of taste or smell
+- No nausea, vomiting, abdominal pain, diarrhea, constipation, skin rashes, muscle aches, joint pains, fainting, dizziness, or heart palpitations
+- No prior surgeries or hospitalizations other than appendectomy and hip surgery
+- All immunizations up to date
+- Lives alone in an apartment, no recent sick contacts or travel history
+- Alcohol consumption a couple of times a week, smoking half a pack of cigarettes daily for approximately 45 years
+- No recreational drug use
+- Family history of heart disease with both grandfather and father having heart attacks in their 60s
+
+**Assessment:**
+Likely COPD exacerbation given the patient's history of COPD, worsening exertional dyspnea, cough with yellow sputum, wheezing, and chest discomfort. Differential diagnosis includes pneumonia, bronchitis, and respiratory infection.
+
+**Plan:**
+1. Conduct physical examination and vital signs assessment.
+2. Perform investigations to confirm diagnosis, including chest X-ray and possibly sputum culture.
+3. Start antibiotics for possible infection.
+4. Consider prescribing steroids based on symptom severity to reduce inflammation.
+5. Discuss smoking cessation with the patient for long-term management of COPD.
+6. Follow up with the patient to monitor response to treatment and adjust management as needed.

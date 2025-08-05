@@ -1,0 +1,34 @@
+**List of symptoms:**
+- Sore throat
+- Difficulty swallowing
+- Reduced appetite for solid food
+- High fever (39.4°C)
+- Redness in the back of the throat
+- Husky voice
+
+**List of possible diseases or illnesses:**
+- Strep throat
+- Viral pharyngitis
+
+**SOAP Note:**
+
+**Subjective:**
+A 3-year-old male patient, Joey, presents with a sore throat persisting for the last three days. Mother reports he has been experiencing difficulty swallowing, reduced appetite for solid food, and a high fever of 39.4°C. No complaints of neck pain, chills, night sweats, cough, body aches, headaches, nausea, vomiting, diarrhea, or constipation. Mother notes redness in the back of the throat and a husky voice. No history of similar symptoms to this severity in the past.
+
+**Objective:**
+- Vital signs: High fever of 39.4°C
+- No visible swelling in the neck or rashes
+- No chills, night sweats, cough, body aches, headaches, nausea, vomiting, diarrhea, or constipation
+- Redness observed in the back of the throat
+- Husky voice noted
+
+**Assessment:**
+- Likely diagnosis of strep throat given the symptoms of sore throat, difficulty swallowing, and high fever. Viral pharyngitis also considered in the differential diagnosis.
+- Rule out other causes of pharyngitis based on further testing.
+
+**Plan:**
+1. Perform a rapid strep test to confirm or rule out strep throat.
+2. Consider further investigations if rapid strep test is inconclusive.
+3. Provide symptomatic relief with pain management and encourage adequate fluid intake.
+4. Follow up with the patient in a few days to monitor symptom progression and treatment effectiveness.
+5. Educate the parent on the importance of completing the prescribed treatment course and the contagious nature of strep throat.

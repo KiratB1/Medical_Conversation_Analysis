@@ -1,0 +1,44 @@
+**List of symptoms:**
+- Shortness of breath
+- Chest pain on the left side
+- Difficulty breathing when walking or going up stairs
+- Sharp pain when breathing deeply
+- Pleuritic chest pain
+- No coughing or wheezing
+- No fever, chills, or abdominal pain
+- No swelling in legs
+- No changes in vision, hearing, or smell
+- No rashes
+- Weight loss
+- High blood pressure
+- Smoking history
+- Anxiety
+
+**List of possible diseases or illnesses:**
+- Pulmonary embolism
+- Chronic obstructive pulmonary disease (COPD)
+
+**SOAP Note:**
+
+**Subjective:**
+The patient, Rob, a 50-year-old male, presents with a sudden onset of shortness of breath and chest pain on the left side. He describes difficulty breathing when walking or going up stairs, along with sharp pain when taking deep breaths. Rob denies coughing, wheezing, fever, chills, abdominal pain, swelling in legs, changes in vision/hearing/smell, and rashes. He reports weight loss and a history of high blood pressure. Rob mentions smoking a pack a week since college and expresses anxiety about his symptoms, questioning the possibility of cancer.
+
+**Objective:**
+- Vital signs stable
+- No signs of distress
+- No visible abnormalities
+- Lung sounds clear on auscultation
+- No edema in lower extremities
+
+**Assessment:**
+1. Differential diagnosis:
+   - Pulmonary embolism: Considering sudden onset of symptoms, pleuritic chest pain, and shortness of breath.
+   - Chronic obstructive pulmonary disease (COPD): Due to smoking history and difficulty breathing.
+
+**Plan:**
+1. Order blood work to assess for any abnormalities.
+2. Schedule a chest X-ray to evaluate lung function and rule out any acute conditions.
+3. Consider a pulmonary function test to assess lung capacity and airflow.
+4. Monitor patient's vitals closely and provide oxygen support if necessary.
+5. Advise lifestyle modifications, including smoking cessation and continued weight management.
+6. Follow up with results and adjust treatment plan accordingly.

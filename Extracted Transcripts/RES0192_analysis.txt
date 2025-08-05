@@ -1,0 +1,31 @@
+**List of symptoms:**
+- Shortness of breath
+- Persistent cough
+- Dry cough
+- Weight loss
+
+**List of possible diseases or illnesses:**
+- Chronic Obstructive Pulmonary Disease (COPD)
+- Asbestos-related lung illness
+- Asbestos-related lung cancer
+
+**SOAP Note:**
+
+**Subjective:**
+The patient presents with complaints of shortness of breath mainly on exertion, a persistent dry cough that has worsened over the past month, and unintentional weight loss of 15 pounds over the last six months. The symptoms have been ongoing for approximately four months. The patient also mentioned a recent diagnosis of COPD.
+
+**Objective:**
+- Patient denies orthopnea, nocturnal dyspnea, leg swelling, wheezing, chest pain, coughing up blood, headaches, eye redness or discharge, ear pain or discharge, changes in vision or hearing, runny nose, sore throat, loss of smell or taste, loss of appetite, fevers, chills, night sweats, heart palpitations, fainting, lightheadedness, dizziness, abdominal pain, nausea, vomiting, diarrhea, constipation, skin rashes, muscle aches, joint pains, confusion, memory loss, and fatigue.
+- Patient reports exposure to asbestos and other inhalants during work in shipyards and construction for over 30 years. The patient quit smoking recently upon the diagnosis of COPD.
+
+**Assessment:**
+1. Chronic Obstructive Pulmonary Disease (COPD) - diagnosed condition.
+2. Suspected asbestos-related lung illness or asbestos-related lung cancer due to prolonged exposure to asbestos and other inhalants during work history.
+3. Unintentional weight loss may be related to underlying respiratory condition.
+
+**Plan:**
+1. Order lung imaging and further investigations to assess for asbestos-related lung illness or cancer.
+2. Refer the patient to a pulmonologist for specialized evaluation and management.
+3. Initiate appropriate treatment for COPD and provide smoking cessation support.
+4. Educate the patient on the importance of avoiding further exposure to harmful inhalants and maintaining a healthy lifestyle.
+5. Follow up with the patient for test results and treatment recommendations.

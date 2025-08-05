@@ -1,0 +1,41 @@
+**List of symptoms:**
+- Dry cough
+- Feeling hot
+- Sore throat
+- Loss of smell
+- Shortness of breath with exertion
+- Muscle aches and weakness
+
+**Possible diseases or illnesses:**
+- Viral respiratory infection
+- Influenza (flu)
+- COVID-19
+- Bacterial respiratory infection
+
+**SOAP Note:**
+
+**Subjective:**
+The patient, a 36-year-old male, presents with a dry cough for the past three days, feeling hot, sore throat, loss of smell, shortness of breath with exertion, and muscle aches and weakness. He reports no chest pain, wheezing, ear pain, changes in vision, night sweats, weight loss, changes in bowel movements, dizziness, confusion, fainting spells, or rashes. The patient has concerns about the possibility of COVID-19 due to his symptoms.
+
+**Objective:**
+- Vital signs: Temperature not taken during the visit.
+- Physical examination reveals no abnormal findings in the respiratory, cardiovascular, or neurological systems.
+- Patient appears fatigued and reports feeling worse since the onset of symptoms.
+
+**Assessment:**
+1. Differential diagnosis:
+   - Viral respiratory infection
+   - Influenza (flu)
+   - COVID-19
+   - Bacterial respiratory infection
+
+2. Rule out COVID-19 by conducting a swab test.
+3. Consider other viral respiratory infections if COVID-19 test is negative.
+4. Monitor for any signs of worsening symptoms or complications.
+
+**Plan:**
+1. Order a COVID-19 swab test and other relevant laboratory tests to confirm the diagnosis.
+2. Advise the patient to self-isolate for two weeks due to overlapping symptoms with COVID-19 and the possibility of false negative test results.
+3. Prescribe symptomatic relief medications such as antipyretics for fever and pain management.
+4. Follow up with the patient in a week to review test results and reassess symptoms for further management.
+5. Educate the patient on the importance of isolation, symptom monitoring, and seeking medical attention if symptoms worsen.

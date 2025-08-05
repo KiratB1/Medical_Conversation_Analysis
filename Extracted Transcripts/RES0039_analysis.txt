@@ -1,0 +1,42 @@
+**List of symptoms:**
+- Coughing up phlegm with blood
+- Cough lasting for four weeks
+- Productive cough with white/yellowish phlegm turning bright red
+- Severe coughing throughout the day
+- Nausea after coughing fits
+- Fevers throughout the day and night sweats
+- Increased fatigue and unintentional weight loss
+- Trouble sleeping due to coughing
+- No shortness of breath, chest pain, palpitations, limb swelling, changes in taste/smell, bowel movements, urination, or appetite
+
+**List of possible diseases or illnesses:**
+- Tuberculosis
+- Respiratory infection
+- Bronchitis
+- Pneumonia
+- Lung abscess
+- Lung cancer (less likely due to age and smoking history)
+- Oral contraceptive-related side effects
+- Allergic reaction to Septra
+
+**SOAP Note:**
+
+**Subjective:**
+The patient presents with a four-week history of coughing up phlegm with blood, productive cough with white/yellowish phlegm turning bright red, severe coughing throughout the day, nausea after coughing fits, fevers throughout the day and night sweats, increased fatigue, unintentional weight loss, trouble sleeping due to coughing, and occasional marijuana and cigarette smoking. Denies shortness of breath, chest pain, palpitations, limb swelling, changes in taste/smell, bowel movements, urination changes, or appetite changes.
+
+**Objective:**
+- Vital signs: Elevated temperature with fevers noted
+- Appearance: Patient appears fatigued
+- Lungs: Clear to auscultation bilaterally
+- Chest X-Ray and sputum culture pending
+
+**Assessment:**
+1. Possible tuberculosis infection given recent travel history to Haiti and exposure to individuals with tuberculosis.
+2. Differential diagnosis includes respiratory infection, bronchitis, pneumonia, lung abscess, and less likely lung cancer.
+3. Consideration of oral contraceptive-related side effects and allergic reaction to Septra.
+
+**Plan:**
+1. Order chest X-Ray and sputum culture to evaluate for tuberculosis.
+2. Initiate blood work to assess for any underlying infections or inflammatory markers.
+3. Provide smoking cessation counseling and resources for quitting.
+4. Follow up with the patient for test results and further management based on findings.

@@ -1,0 +1,41 @@
+**List of symptoms:**
+- Nausea
+- Vomiting every few hours
+- Diarrhea
+- Fatigue
+- Decreased appetite
+- Hot sensation
+- Scratchy throat
+
+**List of possible diseases or illnesses:**
+- Gastroenteritis
+- Food poisoning
+- Viral gastroenteritis
+- COVID-19 (considering recent travel and symptoms)
+- Acute gastroenteritis
+
+**SOAP Note:**
+
+**Subjective:**
+The patient reports experiencing nausea, vomiting every few hours, and diarrhea that started three to four days ago. Symptoms have worsened over time, with the onset of diarrhea occurring more recently. The patient also mentions feeling fatigued, having a decreased appetite, feeling hot, and a scratchy throat. There is no history of similar illness before. The patient recently traveled by train for work and stayed in a hotel. The patient lives with family who are currently well. No recent contact with sick individuals reported.
+
+**Objective:**
+- No mention of blood in vomit, but vomit described as yellowish.
+- Diarrhea started more recently, with multiple episodes in the last 24 hours.
+- No fever, chills, shakes, night sweats, or cough reported.
+- No changes in sense of smell or taste noted.
+- Patient takes Escitalopram and hydromorphone for anxiety and back pain, respectively.
+- History of back surgery and allergy to penicillin.
+- Social history includes occasional alcohol consumption and past tobacco and cannabis use.
+
+**Assessment:**
+- Differential diagnosis includes gastroenteritis, food poisoning, viral gastroenteritis, and possibly COVID-19 due to recent travel and gastrointestinal symptoms.
+- Symptoms suggest an acute gastrointestinal infection.
+
+**Plan:**
+1. Conduct a COVID-19 swab test to rule out infection.
+2. Recommend self-isolation for the patient and household members until test results are available.
+3. Encourage hydration with fluids like Gatorade and rest.
+4. Monitor symptoms for improvement and seek medical attention if symptoms worsen or dehydration occurs.
+5. Provide supportive care and advise on managing symptoms at home.
+6. Follow up with the patient after test results are received.

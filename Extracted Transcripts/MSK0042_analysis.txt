@@ -1,0 +1,28 @@
+**List of symptoms:**
+- Presence of a lump or mass below the right knee
+- Uncomfortable sensation when pressing on the lump
+
+**List of possible diseases or illnesses:**
+- Osteochondroma
+- Osteoma
+- Endochondroma
+
+**SOAP Note:**
+
+**Subjective:**
+The patient presents with a lump or mass below the right knee that was first noticed approximately two weeks ago. The lump is described as hard and uncomfortable but not painful. There is no history of trauma or injury to the area. The patient and parents are concerned about the possibility of cancer or a tumor.
+
+**Objective:**
+- No associated pain with the lump
+- No swelling, redness, or skin discoloration in the area
+- No muscle atrophy or joint deformities observed
+- No limitations in range of motion of joints
+- No antalgic gait noted
+
+**Assessment:**
+Based on the patient's history and physical examination, the most likely diagnosis is an osteochondroma, which is the most common primary benign bone tumor. Other differential diagnoses include osteoma and endochondroma.
+
+**Plan:**
+1. Order an x-ray of the knee and long bones (femur and leg) to further evaluate the mass.
+2. Await the results of the x-ray to confirm the diagnosis and determine the appropriate course of action.
+3. Provide reassurance to the patient and address any further concerns or questions they may have.

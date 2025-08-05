@@ -1,0 +1,45 @@
+**List of symptoms:**
+- Cough
+- Muscle aches
+- Headache
+- Fatigue
+- Sore throat
+
+**List of possible diseases or illnesses:**
+- Common cold
+- Influenza (flu)
+- Upper respiratory tract infection
+- COVID-19 (considering the concern raised by the patient)
+- Viral infection
+
+**SOAP Note:**
+
+**Subjective:**
+The patient presents with a cough that started three to four days ago, accompanied by muscle aches, headache, fatigue, and a sore throat. The cough has worsened over time and is dry but has increased in frequency. The headache is described as mild, primarily located in the front of the forehead and sides of the head, with a pain rating of 4 out of 10. The patient also reports feeling hot but has not checked for fever. There is a concern about COVID-19 due to news of a new variant.
+
+**Objective:**
+- Patient appears fatigued during the consultation.
+- No signs of respiratory distress observed.
+- No wheezing, chest pain, heart racing, dizziness, fainting spells, numbness, tingling, confusion, or memory loss reported.
+- No recent weight loss, rashes, changes in hearing or vision, runny or stuffy nose, changes in smell or taste, changes in bowel movements, nausea, vomiting, or changes in urine noted.
+- Patient has a history of asthma and allergies, managed with Ventolin inhaler.
+- No recent hospitalizations or surgeries, except for wisdom teeth and tonsil removal.
+- Currently on birth control and no other medications besides Ventolin.
+- Up to date with immunizations.
+- Allergic to cats and environmental triggers.
+- Family history of stroke in grandfather due to smoking and drinking.
+- Non-smoker, no recreational drug use, occasional alcohol consumption.
+- Sexually active with boyfriend, using condoms and birth control.
+- No recent sick contacts or travel, living with a healthy roommate.
+
+**Assessment:**
+1. Likely viral respiratory infection presenting with cough, muscle aches, headache, fatigue, and sore throat.
+2. Rule out COVID-19 with testing due to current concerns and symptoms.
+3. Differential diagnosis includes common cold, influenza, upper respiratory tract infection.
+
+**Plan:**
+1. Conduct a COVID-19 swab test and advise self-isolation for 14 days.
+2. Provide supportive care: stay hydrated, eat well, and rest.
+3. Monitor symptoms for worsening, especially high fever or neurological symptoms.
+4. Recommend seeking emergency care if symptoms deteriorate significantly.
+5. Follow up with test results in 24 to 48 hours.

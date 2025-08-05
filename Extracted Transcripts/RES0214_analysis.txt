@@ -1,0 +1,39 @@
+**List of symptoms:**
+- Terrible fever for the past three days
+- Stuffy nose
+- Sore throat
+- Muscle ache
+
+**List of possible diseases or illnesses:**
+- Common cold
+- Influenza (flu)
+- COVID-19
+
+**SOAP Note:**
+
+**Subjective:**
+The patient presents with a history of a terrible fever for the past three days, preceded by a stuffy nose and sore throat. The patient also reports muscle aches for the past two to three days. The symptoms have not improved, prompting the patient to seek medical attention. The patient's husband has been experiencing similar symptoms for the past week.
+
+**Objective:**
+- No reported nausea, vomiting, neck stiffness, headaches, cough, abdominal pain, joint pain, or skin changes.
+- No reported difficulty swallowing, coughing after swallowing, or swelling around the neck.
+- Patient is able to eat and drink normally.
+- Patient's last menstrual period was a year ago.
+- Patient denies smoking, uses alcohol occasionally, and has a history of trying marijuana edibles but not regularly.
+
+**Assessment:**
+1. Differential Diagnosis:
+   - Common cold
+   - Influenza (flu)
+   - COVID-19
+
+2. Rule Out:
+   - COVID-19: Given the patient's symptoms of fever, sore throat, and muscle aches, along with the recent contact with the husband who has similar symptoms, COVID-19 needs to be ruled out. A COVID-19 swab test will be ordered.
+   - Influenza: Considering the seasonal flu, the patient's lack of flu vaccination this year, and the presence of flu-like symptoms, influenza should also be considered.
+
+**Plan:**
+1. Order a COVID-19 swab test for the patient to rule out COVID-19 infection.
+2. Advise the patient and her husband to self-isolate until the test results are available.
+3. Consider prescribing symptomatic treatment for fever and muscle aches.
+4. Discuss the possibility of getting a flu shot to prevent influenza in the future.
+5. Follow up with the patient after the test results to determine further management.

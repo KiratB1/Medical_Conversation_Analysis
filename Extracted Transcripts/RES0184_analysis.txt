@@ -1,0 +1,35 @@
+**List of symptoms:**
+- Runny nose for the past five days
+- Nasal obstruction
+- Slight headache on the sides of the head
+- Diarrhea last week
+- Fatigue
+- Appetite's been OK
+- Occasional cannabis use
+- Occasional alcohol consumption
+
+**List of possible diseases or illnesses:**
+- Common cold or viral illness
+- Adenovirus infection
+- COVID-19 (considering nonspecific symptoms)
+
+**SOAP Note:**
+
+**Subjective:**
+The patient presents with a runny nose persisting for the past five days, nasal obstruction, slight headache on the sides of the head, and a history of diarrhea last week. The patient reports feeling fatigued with an unchanged appetite. The patient admits to occasional cannabis use and alcohol consumption.
+
+**Objective:**
+- Clear nasal discharge
+- No facial pain or change in sense of smell
+- No eye discharge, redness, or pain
+- No sore throat, cough, wheezing, chest pain, fainting, dizziness, heart palpitations, abdominal pain, blood in stool, urinary changes, nausea, vomiting, fevers, chills, night sweats, weight loss, rashes, muscle aches, or body pains
+- Occasional alcohol consumption and cannabis use reported
+
+**Assessment:**
+The patient's symptoms are consistent with a common cold or viral illness, possibly caused by adenovirus. COVID-19 cannot be ruled out due to overlapping symptoms. Further evaluation with a COVID swab has been recommended, and supportive care including hydration, rest, and symptom monitoring is advised. No alarming symptoms requiring immediate intervention were noted.
+
+**Plan:**
+1. Perform a COVID swab test.
+2. Encourage the patient to stay hydrated, rest, and monitor symptoms.
+3. Await COVID test results and advise the patient to seek emergency care if symptoms worsen.
+4. Follow up with the patient after receiving test results.

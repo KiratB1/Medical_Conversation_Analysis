@@ -1,0 +1,50 @@
+**List of symptoms:**
+- Cough for over a week
+- Sputum production (white and yellowish clear)
+- Sore throat
+- Headache (pressure sensation on both sides of the head)
+- Chills
+- Fatigue
+- Chest pain and soreness
+- Wheezing
+
+**List of possible diseases or illnesses:**
+- Acute bronchitis
+- Pneumonia (possibly walking pneumonia)
+- Upper respiratory tract infection
+- Viral infection
+- COVID-19 (ruled out with testing)
+- Allergic reaction
+- Asthma exacerbation
+
+**SOAP Note:**
+
+**Subjective:**
+The patient presents with a cough persisting for over a week, producing white and yellowish clear sputum. They also report a sore throat, headache with pressure sensation on both sides of the head, chills, fatigue, chest pain, and wheezing. The symptoms started gradually, with the sore throat beginning five days ago and the headache being off and on over the past week. The patient denies any recent travel, changes in taste or smell, nausea, vomiting, night sweats, urinary issues, changes in bowel movements, or weight loss. They report feeling fatigued and needing naps, with no improvement in restfulness. The patient also mentions being a nursing student who has been in contact with individuals with infectious symptoms.
+
+**Objective:**
+- Physical examination reveals wheezing upon auscultation
+- No visible redness or swelling in the throat
+- No abnormalities noted in the chest or neck area
+- Vital signs: Temperature to be taken during the visit
+- No recent weight loss or significant changes in appetite
+- No signs of distress or acute respiratory compromise
+
+**Assessment:**
+1. Acute bronchitis with possible bacterial superinfection
+2. Rule out pneumonia, including walking pneumonia, given the persistent cough and sputum production
+3. Differential diagnosis includes upper respiratory tract infection, viral illness, allergic reaction, or asthma exacerbation
+4. Consider COVID-19 testing due to the ongoing pandemic and respiratory symptoms
+
+**Plan:**
+1. Perform a swab test for COVID-19 to rule out infection
+2. Conduct additional tests to check for bacterial pathogens causing pneumonia
+3. Prescribe antibiotics if bacterial infection is confirmed
+4. Monitor symptoms closely and advise the patient to return if experiencing worsening shortness of breath or chest pain
+5. Provide symptomatic relief for sore throat and headache
+6. Educate the patient on self-care measures, including rest, hydration, and avoiding triggers for cough and wheezing
+7. Follow up with blood work or X-rays if necessary based on test results
+8. Advise the patient to inform their living arrangements and avoid contact if diagnosed with a contagious condition
+
+**Follow-up:**
+The patient will be scheduled for follow-up appointments to review test results, adjust treatment as needed, and ensure resolution of symptoms.

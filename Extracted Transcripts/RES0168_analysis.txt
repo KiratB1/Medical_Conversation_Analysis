@@ -1,0 +1,36 @@
+**List of symptoms:**
+- Sinus problems
+- Greenish mucus discharge
+- Headache
+- Congestion
+- Post nasal drip causing throat irritation
+- Facial pain and pressure
+- Nasal obstruction
+- Loss of smell due to congestion
+- High fever (99.7°F)
+- Sinus headache
+- No chest pain
+- Normal bowel movements
+- No changes in urine
+- No dizziness or fainting
+
+**List of possible diseases or illnesses:**
+- Acute bacterial rhinosinusitis
+- Sinusitis
+
+**SOAP Note:**
+
+**Subjective:**
+The patient presents with a history of recurring sinus problems, currently experiencing symptoms such as greenish mucus discharge, headache, congestion, post nasal drip causing throat irritation, facial pain and pressure, nasal obstruction, loss of smell due to congestion, high fever (99.7°F), and sinus headache. Symptoms have been ongoing for a few weeks and have not improved with saline rinses and decongestants.
+
+**Objective:**
+- Patient denies cough, wheeziness, sore throat (except for post nasal drip irritation), chest pain, changes in vision or hearing, dizziness, and fainting.
+- No significant findings on physical examination.
+
+**Assessment:**
+- Acute bacterial rhinosinusitis is suspected based on the patient's history of sinus problems, current symptoms, and lack of improvement with conservative measures.
+
+**Plan:**
+1. Prescribe amoxicillin for 5-7 days to treat the suspected bacterial infection.
+2. Prescribe inhaled corticosteroids to help alleviate symptoms.
+3. Follow up with the patient in a week to assess the response to treatment and adjust the management plan as needed.

@@ -1,0 +1,32 @@
+**List of symptoms:**
+- Shortness of breath
+- Fever
+- Dry cough
+- Fatigue
+- Muscle aches
+- Feeling achy
+- Feeling tired
+
+**List of possible diseases or illnesses:**
+- Hypersensitivity pneumonitis
+- Asthma
+
+**SOAP Note:**
+
+**Subjective:**
+The patient presents with symptoms of shortness of breath, fever, dry cough, fatigue, muscle aches, feeling achy, and feeling tired. Symptoms started yesterday after visiting her boyfriend's house, where she is exposed to a parrot and a cat. She reports this pattern of symptoms occurring every time she visits his place for the past six months.
+
+**Objective:**
+- Vital signs: Fever of 38°C last night, feeling feverish today
+- No wheezing, blood in cough, wheezing, runny nose, congestion, sore throat, chest pain, nausea, vomiting, abdominal pain, diarrhea, urinary problems, loss of smell or taste, headaches, skin changes or rashes, night sweats or chills
+- No history of asthma, allergies, smoking, recreational drug use
+- Family history of high blood pressure
+
+**Assessment:**
+- Likely hypersensitivity pneumonitis or asthma triggered by exposure to allergens from the parrot and cat at the boyfriend's house
+
+**Plan:**
+1. Order pulmonary function test to assess lung function
+2. Perform imaging and chest x-ray to evaluate lung health
+3. Advise the patient to avoid exposure to potential allergens at her boyfriend's house
+4. Follow up with the patient after test results for further management and treatment.

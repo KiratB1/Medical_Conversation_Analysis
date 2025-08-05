@@ -1,0 +1,34 @@
+**List of symptoms:**
+- Cough for about two weeks
+- Dry cough with occasional sputum production (mostly clear)
+- Runny nose
+- Sore throat
+- Headache
+- Aches and fatigue (lasted for about three days, now resolved)
+
+**List of possible diseases or illnesses:**
+- Acute bronchitis
+- Upper respiratory tract infection
+- Common cold
+
+**SOAP Note:**
+
+**Subjective:**
+The patient reports a persistent cough for the past two weeks, with a mix of dry and productive cough. They also experienced a runny nose, sore throat, headache, aches, and fatigue which lasted for about three days but have since resolved. No fevers, chills, blood in sputum, chest pain, palpitations, gastrointestinal symptoms, or urinary symptoms reported. Patient denies any history of lung-related diseases, allergies, or significant past medical history. Social history includes occasional alcohol consumption and marijuana use. No recent travel or contact with sick individuals. 
+
+**Objective:**
+- Vital signs stable
+- Lungs clear on auscultation
+- No signs of respiratory distress
+- No visible abnormalities on physical examination
+
+**Assessment:**
+- Likely diagnosis of acute bronchitis or upper respiratory tract infection based on the patient's symptoms of cough, runny nose, sore throat, and recent history of aches and fatigue.
+- Differential diagnosis includes a common cold.
+
+**Plan:**
+1. Monitor symptoms and encourage rest and hydration.
+2. Recommend over-the-counter cough suppressants or expectorants as needed.
+3. Follow up in one week to assess symptom progression.
+4. Educate patient on when to seek medical attention if symptoms worsen or new symptoms develop, such as fever or chest pain.
+5. Consider chest X-ray if symptoms persist or worsen.

@@ -1,0 +1,39 @@
+**List of symptoms:**
+- Hoarse voice for 2-3 days
+- Coughing (dry cough)
+- Sore throat for 2-3 days
+- Pain with talking and swallowing
+- Fatigue
+- Reduced appetite
+- Mild tiredness
+- No fevers, shortness of breath, wheezing, chest pain, blood in sputum, green/yellowish material with cough, nausea, vomiting, runny nose, congestion, headaches, changes in bowel movements, urinary problems, loss of taste or smell, muscle aches, exposure to fumes/dust/animals, recent travel, chest pain, weight changes, loss of taste/smell, allergies, surgeries, hospitalizations, developmental challenges, pregnancy complications
+
+**List of possible diseases or illnesses:**
+- Laryngitis (viral respiratory infection)
+- Pharyngitis (sore throat)
+- Viral infection
+- Bacterial infection (less likely)
+- Seasonal allergies
+
+**SOAP Note:**
+
+**Subjective:**
+The patient's daughter presents with a hoarse voice for the past 2-3 days, accompanied by a dry cough, sore throat, pain with talking and swallowing, fatigue, reduced appetite, and mild tiredness. The symptoms have been fairly constant and not improving. No fevers, respiratory distress, chest pain, or gastrointestinal symptoms reported. The patient's daughter is at home and does not have a history of significant medical conditions.
+
+**Objective:**
+- Inspection of the mouth revealed slight redness but no discharge.
+- No visible swelling around the neck or lymph nodes noted.
+- No other remarkable physical findings.
+
+**Assessment:**
+1. Laryngitis likely due to a viral respiratory infection, leading to hoarseness of voice and sore throat.
+2. Rule out bacterial infection, although less likely given the clinical presentation.
+3. Seasonal allergies may contribute to symptoms.
+
+**Plan:**
+1. Perform a thorough physical examination to assess for any signs of bacterial infection.
+2. Monitor symptoms closely for any worsening or new developments.
+3. Recommend voice rest and adequate hydration.
+4. Follow up in a week to reassess and consider further management if needed.
+5. Educate the patient on the expected course of laryngitis and the importance of rest and hydration.
+6. Consider antihistamines for seasonal allergy management if symptoms persist.

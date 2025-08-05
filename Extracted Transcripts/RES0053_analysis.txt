@@ -1,0 +1,45 @@
+**List of symptoms:**
+- Cough, particularly worse at night
+- Coughing fits lasting up to a minute
+- Slowed down activity
+- Barky cough, harsh and violent at times
+- Weakness and being winded after coughing fits
+- Sore throat
+- Runny nose initially
+- Reduced appetite
+- Irritability and fatigue after coughing fits
+
+**List of possible diseases or illnesses:**
+- Viral infection (likely)
+- Parainfluenza (croup)
+- COVID-19 (ruled out with testing)
+- Respiratory syncytial virus (RSV)
+- Bronchiolitis
+
+**SOAP Note:**
+
+**Subjective:**
+A 2 1/2-year-old male patient presents with a cough that has been progressively worsening over the last few days, especially at night. The cough is described as barky and violent, with occasional coughing fits lasting up to a minute. The patient has also experienced weakness, being winded after coughing fits, sore throat, and irritability. Initially, he had a runny nose but this has since improved. Appetite has decreased, and the patient appears fatigued after coughing episodes. There is no history of fever, blood in sputum, shortness of breath, wheezing, chest pain, or weight loss.
+
+**Objective:**
+- Vital signs stable
+- No signs of distress at rest
+- Clear breath sounds on auscultation
+- No wheezing or abnormal lung sounds
+- No fever on examination
+- No signs of respiratory distress
+
+**Assessment:**
+1. Viral infection, likely parainfluenza (croup), with overlapping symptoms with COVID-19. COVID-19 test recommended to rule out.
+2. Differential diagnosis includes respiratory syncytial virus (RSV) or bronchiolitis.
+3. No signs of severe respiratory distress or complications at present.
+
+**Plan:**
+1. Conduct a COVID-19 swab test to rule out infection. Results expected in 24-48 hours.
+2. Advise 14-day isolation at home to prevent potential spread.
+3. Monitor symptoms closely for the next 3-5 days. Encourage hydration and adequate nutrition.
+4. If symptoms worsen or persist, especially with seizures or urological issues, recommend immediate ER visit.
+5. Consider prescribing steroids or epinephrine if airway obstruction worsens.
+6. Follow-up with the patient's condition and provide reassurance and support to the caregiver.
+
+Follow-up appointment scheduled to reassess the patient's condition and adjust treatment as needed.

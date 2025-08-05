@@ -1,0 +1,43 @@
+**List of symptoms:**
+- Persistent cough for three months
+- Coughing up greenish sputum
+- Feeling hot at night
+- Nighttime cough disrupting sleep
+
+**List of possible diseases or illnesses:**
+- Acute bronchitis
+- Chronic bronchitis
+- Pneumonia
+- Tuberculosis
+- Asthma exacerbation
+
+**SOAP Note:**
+
+**Subjective:**
+The patient presents with a persistent cough for three months, with recent exacerbation characterized by coughing up greenish sputum. The cough has been disrupting the patient's sleep, leading to fatigue. The patient reports feeling hot at night but has not taken temperature. No reported chest pain, fevers, night sweats, unexplained weight loss, nausea, vomiting, or stiff neck. The patient denies any recent sick contacts or travel history. The cough initially started during a pole dancing class three months ago.
+
+**Objective:**
+- Patient appears fatigued but otherwise in no acute distress.
+- No signs of respiratory distress.
+- Vital signs within normal limits.
+- Lungs clear to auscultation bilaterally.
+- No lymphadenopathy noted.
+- No tenderness or pain reported on physical examination.
+
+**Assessment:**
+1. Differential Diagnosis:
+   - Acute bronchitis
+   - Chronic bronchitis
+   - Pneumonia
+   - Tuberculosis
+   - Asthma exacerbation
+
+2. Working Diagnosis:
+   - Possible acute exacerbation of chronic bronchitis given the chronic nature of the cough and recent change in sputum color.
+
+**Plan:**
+1. Order a chest X-ray to evaluate for any underlying lung pathology.
+2. Perform sputum culture to identify potential bacterial infection.
+3. Prescribe a short course of bronchodilators and/or corticosteroids to manage the cough and improve airflow.
+4. Advise the patient to stay hydrated, get adequate rest, and avoid irritants.
+5. Follow up in one week to assess response to treatment and adjust management as needed.

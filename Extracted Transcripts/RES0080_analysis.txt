@@ -1,0 +1,37 @@
+**List of symptoms:**
+- Shortness of breath
+- Difficulty climbing stairs
+- Increased sputum production (yellow/green in color)
+- Chronic cough
+- Wheezing
+
+**List of possible diseases or illnesses:**
+- Chronic Obstructive Pulmonary Disease (COPD) exacerbation
+- Respiratory infection
+- Bronchitis
+- Pneumonia
+
+**SOAP Note:**
+
+**Subjective:**
+The patient presents with worsening shortness of breath and increased sputum production over the past three to four days. The sputum is described as yellow/green in color, markedly different from the usual whiteish and foamy sputum. The patient reports a chronic cough for the past 20 years, with no recent worsening. There is a history of COPD, high blood pressure, and high cholesterol. The patient is a long-term smoker of 45 years, consuming a pack of cigarettes per day. No recent travel or exposure to sick individuals reported.
+
+**Objective:**
+- Vital signs: Pending, including temperature check
+- Chest X-ray, blood gases, and sputum culture ordered
+- Plan to start antibiotics based on severity
+- Plan to initiate inhalers and inhaled steroid for airway inflammation
+
+**Assessment:**
+1. COPD exacerbation with respiratory infection likely contributing to worsening symptoms
+2. Chronic smoking history exacerbating respiratory condition
+3. Possible bronchitis or pneumonia given the change in sputum color and increased shortness of breath
+
+**Plan:**
+1. Monitor vital signs, including temperature
+2. Obtain chest X-ray, blood gases, and sputum culture
+3. Consider starting antibiotics based on severity of symptoms
+4. Initiate inhalers and inhaled steroid for airway inflammation
+5. Encourage smoking cessation and provide resources for support
+
+Follow-up appointment scheduled to review diagnostic results and adjust treatment plan accordingly.

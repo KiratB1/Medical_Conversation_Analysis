@@ -1,0 +1,44 @@
+**List of symptoms:**
+- Cough
+- Shortness of breath
+- Yellowish green phlegm
+- Fatigue
+- Weakness
+- Muscle aches
+- A bit achy belly
+- Altered sense of smell
+
+**List of possible diseases or illnesses:**
+- Upper respiratory viral illness (including COVID-19)
+- Possible bacterial infection or bacterial pneumonia
+
+**SOAP Note:**
+
+**Subjective:**
+The patient presents with a cough that started about 3 days ago, accompanied by yellowish green phlegm, shortness of breath that developed within the last day, fatigue, weakness, muscle aches, a bit achy belly, and an altered sense of smell. The cough is described as wet and hacking. The patient rates the severity of shortness of breath as 7 out of 10, which has been disrupting sleep. There is no history of similar symptoms in the past.
+
+**Objective:**
+- No blood in sputum, coughs up phlegm the size of a thumb tip
+- Wheezing noted during severe shortness of breath
+- No chest pain, heart racing, or changes in bowel movements
+- No dizziness, fainting, confusion, or memory loss
+- Normal vision, hearing, eyes, ears, urine, and taste
+- No runny or blocked nose, discharge or pain in eyes or ears
+- No changes in vision, hearing, or urine
+- Atrial fibrillation managed with Metoprolol, statin, and baby aspirin
+- Sulfa allergy reported, up to date with immunizations
+- History of smoking cessation, occasional use of CBD edibles for sleep
+
+**Assessment:**
+1. Differential Diagnosis:
+   - Upper respiratory viral illness (including COVID-19)
+   - Possible bacterial infection or bacterial pneumonia
+
+**Plan:**
+1. Conduct a swab for COVID-19 and send for PCR testing.
+2. Encourage isolation for 14 days due to overlapping symptoms with COVID-19.
+3. Monitor symptoms closely and follow up with results.
+4. Consider antibiotics if symptoms worsen or suggest bacterial infection.
+5. Review current medications and discuss potential alternatives for sleep aid.
+6. Advise on lifestyle modifications and follow-up appointment for further evaluation.
+7. Educate on the importance of isolation and contact public health if COVID-19 positive.

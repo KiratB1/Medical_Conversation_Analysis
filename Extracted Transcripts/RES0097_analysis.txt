@@ -1,0 +1,52 @@
+**List of symptoms:**
+- Cough for the past three or four days
+- Stuffy nose
+- Watery nasal discharge
+- Worsening cough, especially at night
+- Nasal congestion leading to mouth breathing
+- Nasal voice
+- Loss of smell
+- Fever (39°C)
+- Chills
+- Sore throat, worse in the morning
+- Muscle aches
+- Fatigue
+- Weight gain
+- Nocturnal sweating
+- No other respiratory symptoms like wheezing, chest pain, shortness of breath
+- No gastrointestinal symptoms
+- No urinary symptoms
+- No skin changes or rashes
+- No eye symptoms
+- No headaches
+- No lightheadedness, dizziness, fainting
+
+**Possible diseases or illnesses:**
+- Upper respiratory tract infection
+- Sinusitis
+- Bacterial pneumonia
+- Post-nasal drip
+- Viral infection
+- Exacerbation of cystic fibrosis
+
+**SOAP Note:**
+
+**Subjective:**
+An 11-year-old male patient, Thomas, presented with a cough for the past three to four days, accompanied by a stuffy nose, watery nasal discharge, worsening cough at night, nasal congestion leading to mouth breathing, nasal voice, loss of smell, fever (39°C), chills, sore throat worse in the morning, muscle aches, fatigue, and weight gain. The patient has a history of cystic fibrosis with previous hospitalizations every two years. The mother expressed concern about the high fever and similarity of symptoms to previous exacerbations.
+
+**Objective:**
+- Vital signs: Fever of 39°C, chills reported
+- Physical examination findings: Pending
+
+**Assessment:**
+1. Possible exacerbation of cystic fibrosis given the patient's history and symptoms.
+2. Differential diagnosis includes upper respiratory tract infection, sinusitis, bacterial pneumonia, or viral infection.
+
+**Plan:**
+1. Conduct a thorough physical examination to assess respiratory status, including lung auscultation and oxygen saturation.
+2. Consider starting antibiotics empirically due to the high fever and symptoms suggestive of a bacterial infection.
+3. Monitor closely for any signs of respiratory distress or worsening symptoms.
+4. Follow up with the respirologist for further management and coordination of care for the patient's cystic fibrosis.
+5. Educate the patient and family on symptom management, including hydration and rest.
+6. Advise the patient to continue current medications and treatments for cystic fibrosis as prescribed.
+7. Schedule a follow-up appointment to reassess the patient's condition and adjust the treatment plan as needed.

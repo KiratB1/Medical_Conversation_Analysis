@@ -1,0 +1,30 @@
+**List of symptoms:**
+- Ear ache in the left ear
+- Discomfort
+- Crying due to pain
+- Fever (39 degrees Celsius)
+- Clear to yellowish fluid from the affected ear
+- Itching of the ears
+
+**List of possible diseases or illnesses:**
+- Acute otitis media (ear infection)
+
+**SOAP Note:**
+
+**Subjective:**
+The patient, a young child, presents with a complaint of left ear ache that started a week ago, with crying due to pain and a fever of 39 degrees Celsius. The parent reports clear to yellowish fluid from the affected ear and itching of the ears. The child has a history of ear infections at age 2, which were treated with antibiotics in the right ear.
+
+**Objective:**
+- Left ear examination reveals clear to yellowish fluid with no external redness observed.
+- No apparent changes in hearing ability noted.
+- No signs of chest pain, palpitations, dizziness, fainting, confusion, headaches, coughing, wheezing, shortness of breath, nausea, vomiting, or changes in vision, smell, taste, weight, bowel movements, or urine.
+
+**Assessment:**
+Likely diagnosis of acute otitis media (ear infection) based on symptoms and history of previous ear infections. Further evaluation of the ear is needed to determine the severity and appropriate treatment plan.
+
+**Plan:**
+1. Perform a thorough examination of the left ear to assess for perforated tympanic membrane, pus, or middle ear effusion.
+2. Conduct a Covid swab test due to overlapping symptoms.
+3. Prescribe amoxicillin for 10 days if signs of perforated tympanic membrane with pus or middle ear effusion with bulging tympanic membrane and significant illness are present.
+4. Reassess in 24 to 48 hours if only middle ear effusion is observed, and prescribe antibiotics if worsening.
+5. Follow up with the patient to monitor response to treatment.

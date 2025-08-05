@@ -1,0 +1,35 @@
+**List of symptoms:**
+- Fever
+- Cough (dry)
+- Fatigue
+- Runny nose
+- Changes in sense of smell
+
+**List of possible diseases or illnesses:**
+- Common cold
+- Viral respiratory infection
+- Influenza
+- COVID-19
+
+**SOAP Note:**
+
+**Subjective:**
+The patient presents with a fever that started last night, cough that began four days ago, fatigue, runny nose, and changes in sense of smell over the past few days. The patient's girlfriend recently returned from a work trip and has been fatigued since, raising concerns about potential exposure. The patient denies any medication use for symptom relief.
+
+**Objective:**
+- No reported muscle aches, sore throat, difficulty breathing, wheezing, chest pain, abdominal pain, diarrhea, constipation, nausea, vomiting, urinary symptoms, rash, or medication allergies.
+- Past medical history includes depression and anxiety, with current medications being a multi-vitamin and Citalopram (SSRI).
+- No history of smoking except briefly in high school, occasional marijuana use through edibles, no recreational drug use.
+- Lives with girlfriend and dog in an apartment, with recent contact with girlfriend who traveled.
+- Denies recent travel history, asthma, COPD, lung conditions, and family history of medical conditions.
+
+**Assessment:**
+1. Differential diagnosis includes common cold, viral respiratory infection, influenza, and COVID-19 given the patient's symptoms of fever, dry cough, fatigue, runny nose, and altered sense of smell.
+2. Possible exposure to illness through contact with fatigued girlfriend who recently traveled.
+3. Rule out COVID-19 due to the current pandemic situation and high fever reported by the patient.
+
+**Plan:**
+1. Conduct a COVID-19 swab test to rule out infection.
+2. Monitor the patient's temperature and further assess symptoms.
+3. Consider supportive care measures for symptom relief if necessary.
+4. Follow up with the patient after consulting with the attending physician for further management based on test results and clinical evaluation.

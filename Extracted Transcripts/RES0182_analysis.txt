@@ -1,0 +1,36 @@
+**List of symptoms:**
+- Unintentional weight loss (30 pounds in 8 months)
+- Coughing up blood (hemoptysis)
+- Fever
+- Sputum production with blood
+- Muscle aches
+- Low energy
+- Low appetite
+
+**List of possible diseases or illnesses:**
+- Tuberculosis
+- Lung cancer
+- Pneumonia
+- Bronchiectasis
+
+**SOAP Note:**
+
+**Subjective:**
+The patient presents with a history of unintentional weight loss of 30 pounds over 8 months, coughing up blood for the past 2 weeks, fever, muscle aches, low energy, and low appetite. The patient denies any recent travel, exposure to sick contacts, smoking, alcohol use, or recreational drug use. There is a family history of heart or lung problems or cancers.
+
+**Objective:**
+- Physical examination findings not provided in the transcript.
+
+**Assessment:**
+Based on the patient's symptoms of unintentional weight loss, coughing up blood (hemoptysis), fever, and sputum production with blood, along with the history of living in an area where tuberculosis is common (Sri Lanka), the differential diagnosis includes:
+- Tuberculosis
+- Lung cancer
+- Pneumonia
+- Bronchiectasis
+
+**Plan:**
+1. Conduct an acid-fast sputum test to evaluate for tuberculosis.
+2. Perform a chest X-ray to assess lung involvement.
+3. Involve the infectious disease team for guidance on antibiotic treatment if tuberculosis is confirmed.
+4. Monitor for any additional symptoms and provide supportive care as needed.
+5. Follow up with the patient regularly to assess treatment response and adjust the management plan accordingly.

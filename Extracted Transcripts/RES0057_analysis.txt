@@ -1,0 +1,39 @@
+**List of symptoms:**
+- Cough
+- Difficulty breathing
+- Fatigue
+- Headache
+- Muscle aches
+- Feeling feverish
+- Nasal congestion
+
+**List of possible diseases or illnesses:**
+- Acute bronchitis
+- Pneumonia
+- Upper respiratory tract infection
+- Influenza
+- COVID-19
+
+**SOAP note:**
+
+**Subjective:**
+The patient presents with a cough that started three days ago, accompanied by difficulty breathing, fatigue, headache, muscle aches, feeling feverish, and nasal congestion. The cough is dry with no sputum production. Symptoms have been worsening over the past few days.
+
+**Objective:**
+- Patient appears fatigued
+- No signs of respiratory distress
+- No visible rash
+- No redness in the eyes
+- Mild nasal congestion noted
+
+**Assessment:**
+1. Acute respiratory illness with cough and difficulty breathing.
+2. Possible viral infection given the constellation of symptoms.
+
+**Plan:**
+1. Perform a physical exam to assess respiratory status and vital signs.
+2. Consider ordering a chest X-ray to evaluate for pneumonia.
+3. Test for influenza and COVID-19 to rule out viral infections.
+4. Provide symptomatic relief for headache and muscle aches.
+5. Advise rest, hydration, and monitor symptoms closely.
+6. Follow up with the patient in a few days for reassessment.

@@ -1,0 +1,43 @@
+**List of symptoms:**
+- Temperature of 38.5°C
+- Not swallowing food, throwing it back out
+- Drooling
+- Muffled sounds
+- Shortness of breath
+- Runny nose and cough a week ago
+- Decreased diaper changes
+- Irritability and fussiness
+- Poor sleep
+- Reduced intake of food and drink
+- Lethargy and drowsiness
+- No medical conditions previously
+
+**List of possible diseases or illnesses:**
+- Upper respiratory tract infection
+- Viral infection leading to secondary bacterial infection
+- Respiratory distress
+- Dehydration
+- Inflammation or infection causing difficulty swallowing
+- Sepsis
+
+**SOAP Note:**
+
+**Subjective:**
+The patient, a young child, presents with a history of fever, difficulty swallowing, drooling, muffled sounds, shortness of breath, irritability, decreased intake of food and drink, lethargy, and poor sleep. The mother reports a recent viral infection with a runny nose and cough a week ago. No significant past medical history noted.
+
+**Objective:**
+Physical examination reveals signs of distress, including muffled sounds, drooling, and shortness of breath. Vital signs show an elevated temperature. Decreased diaper changes noted. The child appears lethargic and irritable.
+
+**Assessment:**
+1. Upper respiratory tract infection with possible secondary bacterial infection
+2. Dehydration
+3. Inflammation or infection causing difficulty swallowing
+4. Sepsis (considering fever, lethargy, decreased intake, and irritability)
+
+**Plan:**
+1. Initiate antibiotic therapy to address possible bacterial infection.
+2. Administer IV fluids to correct dehydration and ensure adequate hydration.
+3. Monitor closely for signs of respiratory distress and provide supportive care as needed.
+4. Perform further investigations as necessary to determine the underlying cause of symptoms.
+5. Educate the parent on signs of deterioration and when to seek further medical attention.
+6. Follow-up appointment to assess response to treatment and overall condition.

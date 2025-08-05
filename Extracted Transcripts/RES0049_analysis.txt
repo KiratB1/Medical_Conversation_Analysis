@@ -1,0 +1,35 @@
+**List of symptoms:**
+- Cough getting worse over the last week
+- Fever on and off for the past week
+- Loss of taste and smell starting just yesterday
+- Chills
+- Fatigue
+- Runny nose (earlier in the week)
+- Loss of appetite
+
+**List of possible diseases or illnesses:**
+- COVID-19
+- Viral respiratory infection
+- Influenza
+- Common cold
+
+**SOAP Note:**
+
+**Subjective:**
+The patient presents with a worsening cough over the last week, intermittent fever, loss of taste and smell starting yesterday, chills, fatigue, and a history of a runny nose earlier in the week. The patient reports no chest pain, shortness of breath, wheeziness, weight loss, or significant changes in bowel habits. The patient also mentions a history of asthma in childhood but has not required inhalers for over a decade. The patient is a smoker, approximately a pack a day for the past 10 years, and consumes alcohol occasionally. There is concern regarding possible COVID-19 exposure at work.
+
+**Objective:**
+- Vital signs: Temperature to be taken during the visit.
+- Physical examination: Not documented in the conversation.
+
+**Assessment:**
+1. Possible COVID-19 infection given the symptoms of cough, fever, loss of taste and smell, and concern for exposure at work.
+2. Differential diagnosis includes viral respiratory infection, influenza, or common cold.
+3. Smoking history may exacerbate respiratory symptoms and increase susceptibility to respiratory infections.
+
+**Plan:**
+1. Perform a COVID-19 swab test and advise isolation for 14 days until results are received.
+2. Monitor temperature and symptoms at home.
+3. Recommend smoking cessation resources and support.
+4. Consider symptomatic relief measures for cough and fatigue.
+5. Follow up with the patient in 24-48 hours with test results and further management plan.

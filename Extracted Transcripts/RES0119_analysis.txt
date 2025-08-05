@@ -1,0 +1,34 @@
+**List of symptoms:**
+- Persistent dry cough for two weeks
+- Wheezing
+- Fatigue
+- Difficulty breathing when lying down
+- Symptoms worsen with physical activity
+- Symptoms come and go
+- Symptoms worse in the winter
+
+**List of possible diseases or illnesses:**
+- Asthma
+
+**SOAP Note:**
+
+**Subjective:**
+A 7-year-old female patient presents with a persistent dry cough for two weeks, wheezing, fatigue, and difficulty breathing when lying down. The symptoms have been present for close to two weeks and have been impacting her daily activities, leading to her missing almost two weeks of school. The patient's mother reports that the symptoms worsen with physical activity and are more prominent in the winter season. The patient has a history of recurrent episodes similar to the current presentation but notes that this episode is lasting longer than usual.
+
+**Objective:**
+- No signs of respiratory distress observed during the visit
+- No fever or chills reported
+- No productive cough or blood in sputum
+- No other associated symptoms such as sore throat, runny nose, or changes in bowel movements mentioned
+- No recent travel history or exposure to sick individuals reported
+- Patient appears fatigued and has been resting at home, with decreased physical activity
+
+**Assessment:**
+Based on the patient's history of recurrent episodes of coughing and wheezing, along with the current presentation of symptoms, the most likely diagnosis is asthma. The patient's symptoms, including wheezing, cough, and fatigue, align with the clinical picture of asthma. The onset of symptoms after physical exertion and in the winter season further supports this diagnosis.
+
+**Plan:**
+1. Order a pulmonary function test to confirm the diagnosis of asthma.
+2. Prescribe a short-acting beta agonist inhaler for symptom relief.
+3. Discuss the use of an inhaled corticosteroid for long-term asthma management to prevent exacerbations.
+4. Advise the patient and family on asthma triggers, symptom monitoring, and proper inhaler technique.
+5. Follow up with the patient after the pulmonary function test results to adjust the treatment plan accordingly.

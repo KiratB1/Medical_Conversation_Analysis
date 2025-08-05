@@ -1,0 +1,39 @@
+**List of symptoms:**
+- Wet cough
+- Shortness of breath
+- Yellowish-green sputum with bad taste
+- Worsening shortness of breath
+- Smelly phlegm
+- Faster heart rate
+- Nausea
+
+**List of possible diseases or illnesses:**
+- Pneumonia
+- Bronchitis
+- Respiratory infection
+- Aspiration pneumonia
+- Pulmonary embolism
+
+**SOAP Note:**
+
+**Subjective:**
+The patient presents with a wet cough that started within the last day, shortness of breath, yellowish-green sputum with a bad taste, worsening shortness of breath over the past twelve hours, smelly phlegm, faster heart rate, and nausea. The symptoms are acute and have been exacerbated by activities like smoking and alcohol consumption.
+
+**Objective:**
+- Patient reports no chest pain, headache, runny nose, congestion, sore throat, or palpitations.
+- Medical history includes high blood pressure, acid reflux (GERD), high cholesterol, and anxiety.
+- Medications include an ACE inhibitor, statin, and Pantoprazole for GERD.
+- The patient consumes four to six beers daily and half a pack of cigarettes per day.
+- Family history of liver disease and heart problems.
+- Left knee replacement surgery in the past.
+
+**Assessment:**
+Based on the patient's symptoms, history of acid reflux, recent alcohol consumption leading to potential aspiration, and physical examination findings, the differential diagnosis includes pneumonia, bronchitis, respiratory infection, aspiration pneumonia, or pulmonary embolism.
+
+**Plan:**
+1. Order a chest x-ray to evaluate for signs of pneumonia or aspiration.
+2. Conduct laboratory tests to assess for infection markers.
+3. Initiate antibiotic therapy based on chest x-ray and lab results.
+4. Advise the patient to reduce alcohol consumption and smoking to improve respiratory health.
+5. Follow up with a physical exam to assess lung sounds and monitor response to treatment.
+6. Encourage regular follow-ups with the family doctor for comprehensive care and medication management.

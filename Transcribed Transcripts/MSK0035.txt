@@ -1,0 +1,130 @@
+D: How may I help you?
+P: So I was skiing yesterday and I fell on my arm. And now my hand's very painful and it looks swollen and bruised, so I thought I should come in and get it checked out.
+D: Yeah, certainly. All right. And so you fell while you were skiing. So did you use your hand to brace the fall? Like, was your hand kind of with your wrist extended backwards?
+P: Yes. Yeah, so I kind of. Yeah, had my arm stretched out and fell right on it.
+D: Okay, and did you feel pain right away?
+P: Yes.
+D: Okay, and during the fall, did you injure any other parts of your body, like your elbow or shoulder or even your head?
+P: No, I don't think so. I didn't have. I don't have any pain anywhere else.
+D: Okay, and, like, are you able to move your wrist currently?
+P: I can, but it's very painful.
+D: Okay, and so when did this happen? Was it yesterday?
+P: Yes, it was yesterday.
+D: Okay, and how would you describe the pain? Is it a sharp pain, a dull pain? Achy?
+P: It's pretty sharp.
+D: Sharp. Okay. And are you feeling the pain radiate anywhere else, like down into your hand or up into your arm?
+P: No, it's pretty local. The pain? Yeah, it's pretty. It's right below the thumb area and just kind of on my wrist on the right side.
+D: Okay. Is there anything you've done that's made it. Made it better? Like, have you tried any medications or any ice or topical creams?
+P: I've been taking ibuprofen for the pain and trying not to move it too much, and that's been helping a little bit.
+D: Okay. And is the pain constant or intermittent?
+P: It's constant.
+D: Okay, and have you done anything that's made the pain worse?
+P: I guess. Moving it.
+D: Okay, and what is the severity of the pain on a scale of 1 to 10, with 10 being the worst pain you've ever felt?
+P: I give it like a five or six.
+D: Okay. Have you had an injury like this to your wrist or your hand before?
+P: No.
+D: All right, and are you having any neurological symptoms such as numbness, tingling, or sensory loss over any areas?
+P: No.
+D: Okay, and how about muscle weakness?
+P: No.
+D: All right, and so have you been having any fevers or chills?
+P: No, nothing like that.
+D: Have you been having any headaches?
+P: No.
+D: How about any sensory changes, like changes to your vision or hearing or loss of smell or loss of taste?
+P: No, nothing like that.
+D: Okay. Have you had a runny nose or felt congested?
+P: No.
+D: Have you had a sore throat or a cough?
+P: No.
+D: Have you had any shortness of breath or wheezing?
+P: No.
+D: Have you had any chest pain?
+P: No.
+D: Have you had any heart palpitations or feeling like your heart's racing?
+P: Nope.
+D: Have you had any dizziness or fainting?
+P: No.
+D: Okay, and so did you lose consciousness at all during the fall?
+P: No.
+D: Okay. And have you had any nausea or vomiting?
+P: No.
+D: Any abdominal pain?
+P: No.
+D: Any changes to your bowel habits, like diarrhea, constipation, or blood in the stool?
+P: No.
+D: Okay, and how about any urinary problems, like pain or frequency?
+P: No, nothing like that.
+D: All right, and have you had any muscle aches or body pains or, like, any other musculoskeletal pains besides the wrist?
+P: No.
+D: Okay. And have you had any appetite loss or fatigue?
+P: No.
+D: All right, and have you had any night sweats?
+P: No.
+D: And have you had any unexpected weight loss over the last several months?
+P: Nope.
+D: Okay. And have you been diagnosed with any medical conditions in the past or do you see a physician regularly for any reason?
+P: No.
+D: Okay, so do you take any medications regularly prescribed or over the counter?
+P: Nope.
+D: All right, and have you had any hospitalizations or surgeries in the past?
+P: No.
+D: Okay. And do you have any allergies?
+P: Nope.
+D: All right, and are your immunizations up to date?
+P: I think so. I think I just need to get the Gardasil.
+D: Okay. Have you gotten, like, the first dose of that yet or are you still. Still waiting to get that?
+P: I'm still waiting to get that.
+D: Okay. And could you tell me just a little bit about your living situation currently, like who you're living with and whereabouts?
+P: I live by myself in an apartment downtown.
+D: Okay. And are you in school or are you working right now?
+P: I'm in school.
+D: Okay. And have you been around anybody who's been sick?
+P: No, no one's been sick around me. I haven't really been leaving my home.
+D: I see. Okay. And have you traveled anywhere recently?
+P: Nope.
+D: All right. And just staying active, which is good. Do you do any other activities besides the skiing?
+P: I do. I go snowboarding in the winter. I go camping. I like playing tennis and volleyball.
+D: Okay, cool. Yeah, it sounds fun. And, like, do you smoke cigarettes?
+P: No, I don't.
+D: Okay. And do you drink alcohol?
+P: I'll have a beer once in a while.
+D: Okay. How often is once in a while? Like, how many drinks per week?
+P: Oh, not that many. I'll maybe have, like two every other week.
+D: I see. Okay. And do you use cannabis or any cannabis products?
+P: I'll take an edible once in a while as well. Like maybe once a month.
+D: Okay. And how about the use of any other recreational drugs?
+P: No.
+D: All right. And in the family. Are there any history of neurological or musculoskeletal problems?
+P: No.
+D: How about any autoimmune conditions such as hypothyroidism?
+P: No.
+D: Okay, so next I'll ask you to just have a look at the risk for the physical examination portion. And are you seeing any swelling or redness?
+P: No, I don't see anything like that.
+D: Okay. And if you touch the joints around the wrist on both sides, is the right wrist. Does it feel hot?
+P: No. Actually, yes, it does.
+D: Okay. All right. But there's no swelling there.
+P: There's maybe a little bit of swelling compared to my left.
+D: Okay. And are you noticing any muscle atrophy or any deformity at the wrist?
+P: I guess there's, like, a slight bruise.
+D: Okay, and are there any, like, raised bumps if you put your finger over it, over the bony edges?
+P: No bumps, but just a general kind of swelling in the area that makes it look raised.
+D: All right. And if you palpate or press on some areas of the wrist, are there any areas that you're feeling pain, like at the distal radial head, the distal ulna, or any areas of the wrist?
+P: There's some pain at the distal radius, for sure.
+D: Okay. All right. And is this on the back of the hand or the palm side?
+P: It's on the palm side.
+D: Okay. Do you feel any pain if you push in the. What's called the anatomical snuff box. So it's at the base of the thumb on. Yeah, at the base of the thumb, on the back of your hand, base of the thumb?
+P: No, I don't feel any pain there.
+D: Okay. And. Okay, so no pain at the dorsal anatomical snuffbox. And in terms of range of motion, are you able to flex and extend your wrist?
+P: I am.
+D: Okay, and then how about move it, like, side to side, kind of deviating it?
+P: I can do all of these things. It just hurts a lot.
+D: Okay. Are you able to make a fist?
+P: Yes.
+D: All right. And do you have any problems at the elbow? Are you able to flex and extend the elbow? Okay.
+P: I can flex and extend. Okay.
+D: Okay. So I think that was everything that I wanted to check that. Did you have any questions or concerns?
+P: No, just do I need any sort of surgery for this, and do I need an X ray? How do I go about trying to treat this?
+D: Yeah. So I think an X ray would be the first step here, because from what you're describing, and particularly with the mechanism of the injury and where you're feeling pain can be a common cause of a distal radial fracture, which is one of the forearm bones. And so, yeah, we'll need an X ray to look to see if there is a distal radial fracture. And it's not sounding like this right now, but another thing that we'll look for on the X ray of the hand, too, is a scaphoid fracture to make sure that that's okay. But you didn't have any pain in the area of the scaphoid, which is reassuring. But we still want to image and make sure, although the most likely thing would be the distal radial fracture. And if that's the case, then they'll be like, we'll have to go into a cast for a period of time. And depending on how much joint involvement there is, there might be the possibility of surgery. But cannot comment too much on that just yet. We'll need to get the imaging first.
+P: Okay. Okay, that sounds good. Thank you.

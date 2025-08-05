@@ -1,0 +1,48 @@
+**List of symptoms:**
+- Terrible headache for the past four days
+- Fever
+- Coughing
+- Coughing up bits that look like blood
+- Difficulty sleeping due to cough
+- No phlegm with cough
+- Cough present at night
+- Feeling hot
+- No nausea or vomiting associated with headache
+- No wheezing
+- No changes in sense of smell or taste
+- No runny nose or sore throat
+- No chills or night sweats
+- No chest pain
+- No heart palpitations
+- No dizziness or lightheadedness
+- No abdominal pain, diarrhea, or constipation
+- No painful urination or frequent urination
+- No skin changes, rashes, muscle aches, or joint aches
+
+**List of possible diseases or illnesses:**
+1. COVID-19
+2. Viral respiratory infection
+3. Bronchitis
+4. Migraine headache
+5. Sinusitis
+
+**SOAP Note:**
+
+**Subjective:**
+The patient presents with a terrible headache for the past four days, associated with a fever and persistent cough. The cough is non-productive but occasionally leads to coughing up bits that resemble blood. The patient reports feeling hot and having difficulty sleeping due to the cough. There are no other associated symptoms like nausea, vomiting, wheezing, or changes in smell or taste.
+
+**Objective:**
+- No signs of respiratory distress observed
+- No wheezing on auscultation
+- No abnormal findings on physical examination related to the headache
+
+**Assessment:**
+1. Suspected viral respiratory infection or COVID-19 based on symptoms of fever, cough, and headache.
+2. Differential diagnosis includes bronchitis, migraine headache, and sinusitis.
+
+**Plan:**
+1. Conduct PCR nasal swab test for COVID-19.
+2. Perform further investigations to rule out other viral or bacterial respiratory infections.
+3. Consider imaging studies if symptoms persist or worsen.
+4. Provide symptomatic treatment for headache and cough.
+5. Follow up with lipid panel testing due to familial history of hypercholesterolemia.

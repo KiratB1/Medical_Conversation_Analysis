@@ -1,0 +1,37 @@
+**List of symptoms:**
+- Low back pain
+- Stabbing pain in lower back
+- Pain radiating into right leg
+- Aching pain in right leg
+- Pain worsens with movement, bending, and coughing
+
+**List of possible diseases or illnesses:**
+- Acute lower back pain
+- Sciatica
+- Lumbar disc herniation
+- Muscle strain
+- Degenerative disc disease
+
+**SOAP Note:**
+
+**Subjective:**
+The patient presents with complaints of low back pain that started suddenly while unloading groceries from their pickup truck yesterday. The pain is described as stabbing in nature, localized to the lower back, and radiating into the right leg. The pain worsens with movement, bending, and coughing. The patient rates the pain as 2 out of 10 when sitting still but reports it significantly worsens with activity. The pain has not changed since onset and is accompanied by aching pain in the right leg. The patient denies any recent trauma, fevers, chills, night sweats, weakness, fatigue, changes in skin, joint pain, cough, urinary problems, or neurological symptoms. The patient has a history of chronic back pain but states that this episode is more severe than previous occurrences.
+
+**Objective:**
+- Patient appears comfortable at rest.
+- Normal vital signs.
+- No visible signs of trauma or inflammation on the lower back.
+- No neurological deficits observed during examination.
+- Limited range of motion due to pain, especially with forward bending.
+
+**Assessment:**
+1. Acute lower back pain with radiculopathy into the right leg, likely sciatica.
+2. Differential diagnosis includes lumbar disc herniation, muscle strain, or degenerative disc disease given the sudden onset of pain and radiation into the leg.
+3. Chronic back pain due to a history of previous episodes.
+
+**Plan:**
+1. Order imaging studies such as an MRI to further evaluate the lumbar spine and confirm the diagnosis.
+2. Prescribe nonsteroidal anti-inflammatory drugs (NSAIDs) for pain management.
+3. Recommend physical therapy for strengthening exercises and pain relief.
+4. Advise the patient to avoid activities that exacerbate the pain and to practice proper body mechanics.
+5. Follow up in 1-2 weeks to assess response to treatment and adjust management as needed.

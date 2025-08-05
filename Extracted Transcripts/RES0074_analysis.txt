@@ -1,0 +1,38 @@
+**List of symptoms:**
+- Scratchy throat
+- Painful swallowing
+- Diarrhea
+- General body aches and muscle pain
+- Decreased appetite
+- Fatigue
+- Loose watery stools
+- Abdominal tenderness
+
+**List of possible diseases or illnesses:**
+- Viral infection (e.g., common cold, flu)
+- Gastrointestinal infection
+- Muscle strain or myalgia
+- COVID-19 (considering the current situation and symptoms)
+
+**SOAP Note:**
+
+**Subjective:**
+The patient presents with a 5-day history of scratchy throat progressing to painful swallowing, accompanied by diarrhea for the last 3 days. Additionally, the patient reports generalized body aches and muscle pain that started 3 days ago, along with decreased appetite and fatigue. There is no reported fever, chills, cough, shortness of breath, chest pain, dizziness, lightheadedness, or urinary problems. The patient denies any recent weight changes, headaches, runny nose, loss of smell or taste, coughing up sputum, chest pain, nausea, vomiting, or rashes. The patient has a history of high blood pressure and high cholesterol, for which they are taking Crestor and Ramipril, respectively.
+
+**Objective:**
+- No visible neck swelling or redness in the back of the throat noted
+- No significant changes in voice observed
+- No muscle weakness reported
+- No signs of respiratory distress
+- Abdominal tenderness on examination
+- No other remarkable findings on physical examination
+
+**Assessment:**
+1. Possible viral infection causing sore throat, diarrhea, and muscle aches.
+2. Differential diagnosis includes gastrointestinal infection, muscle strain, and COVID-19 given the ongoing pandemic and symptoms reported.
+
+**Plan:**
+1. Conduct COVID-19 testing and other relevant lab investigations to determine the underlying cause of symptoms.
+2. Advise the patient to continue self-isolation and maintain precautions until test results are available.
+3. Provide symptomatic relief for sore throat and muscle pain as needed.
+4. Follow up with the patient once test results are back to discuss further management based on the findings.

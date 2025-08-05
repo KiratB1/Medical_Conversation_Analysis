@@ -1,0 +1,52 @@
+**List of symptoms:**
+- Dry cough
+- Throat dryness
+- Fatigue
+- Sore throat
+- Fever
+- No sputum or blood with cough
+- No wheeziness
+- No shortness of breath
+- No runny or stuffy nose
+- No changes in hearing or vision
+- No changes in smell or taste
+- No chills or night sweats
+- No weight loss
+- No changes in hair, nails, or skin
+- No chest pain
+- No swelling in limbs
+- No racing heart
+- No dizziness or fainting spells
+- No headaches
+- No confusion or memory loss
+- No changes in bowel habits
+- No changes in urine
+- No nausea or vomiting
+- No abdominal aches
+
+**List of possible diseases or illnesses:**
+- Covid-19
+- Viral respiratory infection
+- Bacterial pneumonia
+
+**SOAP Note:**
+
+**Subjective:**
+The patient presents with a dry cough, throat dryness, fatigue, sore throat, and fever for the past few days. No sputum, wheeziness, or shortness of breath reported. The cough is worsening over time. The patient also reports no runny or stuffy nose, no changes in hearing or vision, and no taste or smell alterations. There is no weight loss, chest pain, swelling, dizziness, headaches, or gastrointestinal symptoms. The patient has a history of potential digestive issues like Crohn's or IBS. The patient mentions potential exposure to a sick individual at work.
+
+**Objective:**
+- Fever noted during examination
+- No other significant physical findings reported
+
+**Assessment:**
+1. Rule out Covid-19 given the patient's symptoms and potential exposure at the workplace.
+2. Differential diagnosis includes viral respiratory infection or bacterial pneumonia.
+3. History of potential digestive issues like Crohn's or IBS.
+
+**Plan:**
+1. Conduct a Covid-19 swab test to confirm or rule out the infection.
+2. Advise the patient to isolate for 14 days regardless of test results.
+3. Recommend supportive care including hydration, nutrition, and rest.
+4. Monitor symptoms closely and instruct the patient to seek immediate medical attention if symptoms worsen, especially if experiencing difficulty breathing or neurological symptoms.
+5. Consider testing for bacterial pneumonia if symptoms persist or worsen.
+6. Follow up with test results and adjust treatment plan accordingly.

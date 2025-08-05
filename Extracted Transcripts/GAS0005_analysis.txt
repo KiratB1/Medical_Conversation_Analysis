@@ -1,0 +1,38 @@
+**List of symptoms:**
+- Stomach ache
+- Vomiting (6 times in the last 2 days)
+- Fever (38.3 degrees Celsius)
+- Diarrhea (6-7 times in the last day)
+- Irritability
+- Quietness and increased sleepiness
+- Chills
+- Abdominal pain
+- Loss of appetite
+
+**List of possible diseases or illnesses:**
+- Gastroenteritis
+- Viral gastroenteritis
+- COVID-19
+- Food poisoning
+- Rotavirus infection
+
+**SOAP Note:**
+
+**Subjective:**
+A 6-year-old male presents with a 3-day history of stomach ache, vomiting (6 episodes in the last 2 days), diarrhea (6-7 times in the last day), fever (38.3 degrees Celsius), irritability, quietness, increased sleepiness, chills, and abdominal pain. The patient's mother reports no recent dietary changes or sick contacts but notes the child recently returned to school. Concerns for COVID-19 have been raised.
+
+**Objective:**
+- Vital signs: Fever of 38.3 degrees Celsius, chills noted by mother
+- Gastrointestinal: Vomiting of yellowish material, watery diarrhea, abdominal pain on palpation
+- General: Child appears lethargic, quiet, and irritable
+
+**Assessment:**
+1. Gastroenteritis: Differential diagnosis includes viral gastroenteritis or food poisoning given the acute onset of symptoms and recent return to school.
+2. COVID-19: Considering the ongoing pandemic and nonspecific symptoms, COVID-19 testing is warranted.
+3. Dehydration: Likely due to vomiting and diarrhea, requiring monitoring of electrolytes.
+
+**Plan:**
+1. Perform COVID-19 test and additional blood work to assess for viral infections.
+2. Increase hydration to manage fluid loss and monitor electrolyte balance.
+3. Advise symptomatic treatment for fever and abdominal discomfort.
+4. Follow-up appointment scheduled to review test results and reassess clinical status.

@@ -1,0 +1,44 @@
+**List of symptoms:**
+- Dry cough for the past week and a half
+- Cough worsens when smoking
+- Cough comes and goes, lasting for a couple of seconds
+- Sputum production in the first few days
+- No blood in sputum
+- Initial symptoms of sore throat, runny nose, shortness of breath, resolved except for the cough
+- Possible loss of smell initially
+- Fever of 37.4°C in the first few days
+- No night sweats, chest pain, dizziness, changes in bowel movements, or urination
+- No recent weight changes, fatigue, changes in sleep or appetite
+
+**Possible diseases or illnesses:**
+- Acute bronchitis
+- Viral upper respiratory infection
+- COVID-19 (ruled out with testing)
+- Smoking-related cough
+
+**SOAP Note:**
+
+**S:**
+- Patient presents with a dry cough persisting for a week and a half, worsened by smoking.
+- Initial symptoms of sore throat, runny nose, and shortness of breath resolved, leaving only the cough.
+- No recent weight changes, fatigue, or changes in sleep or appetite.
+- History of fever (37.4°C) in the initial days.
+- No significant past medical history besides appendectomy five years ago.
+- Allergic to penicillin, with a childhood rash reaction.
+- Family history of colon cancer in father and grandfather.
+- Lives in an apartment with wife and daughter, daughter had flu-like symptoms two weeks ago (improved).
+- Attempts to quit smoking, currently smoking 3-4 cigarettes per week after previously smoking half a pack daily for 30 years.
+
+**O:**
+- Physical examination not documented.
+
+**A:**
+1. Acute bronchitis or viral upper respiratory infection likely contributing to the persistent dry cough.
+2. Rule out COVID-19 with testing due to the ongoing pandemic and initial flu-like symptoms.
+3. Smoking-related cough exacerbating the symptoms.
+
+**P:**
+1. Conduct a COVID-19 swab test to rule out infection.
+2. Advise patient to continue efforts to quit smoking and provide resources or support if needed.
+3. Recommend over-the-counter cough syrup for symptom relief.
+4. Follow up in 1-2 weeks for reassessment of symptoms and review of COVID-19 test results.

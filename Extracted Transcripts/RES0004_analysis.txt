@@ -1,0 +1,43 @@
+**List of symptoms:**
+- Sore throat for 2-3 weeks
+- Painful swallowing, especially solid foods
+- Neck tenderness with sore lumps
+- Low-grade fever (38.7°C)
+- Pink rash on chest, belly, and hands
+- Muscle and joint aches
+- Decreased appetite
+- Swollen glands in the neck
+- No cough, runny nose, headaches, nausea, vomiting, or changes in bowel habits
+- Fatigue
+
+**List of possible diseases or illnesses:**
+- Streptococcal pharyngitis (Strep throat)
+- Infectious mononucleosis (Mono)
+- Viral pharyngitis
+
+**SOAP Note:**
+
+**S:**
+- 15-year-old male named Scott presenting with a sore throat for 2-3 weeks
+- Reports burning or scratchy sensation in the throat, pain when swallowing, and neck tenderness
+- Low-grade fever of 38.7°C and noticed swollen glands in the neck
+- Developed a pink rash on the chest, belly, and hands
+- Experienced muscle and joint aches, decreased appetite, and fatigue
+- No cough, runny nose, headaches, nausea, vomiting, or changes in bowel habits
+
+**O:**
+- Vital signs: Low-grade fever of 38.7°C
+- Physical examination: Tender lumps in the neck, pink rash on chest and belly, no signs of respiratory distress
+
+**A:**
+1. Differential Diagnosis:
+   - Streptococcal pharyngitis (Strep throat)
+   - Infectious mononucleosis (Mono)
+   - Viral pharyngitis
+
+**P:**
+1. Order a rapid strep test and monospot test to confirm the diagnosis.
+2. Advise symptomatic treatment with acetaminophen for pain and fever relief.
+3. Recommend rest, hydration, and a soft diet to ease discomfort while awaiting test results.
+4. Educate on the contagious nature of certain conditions and advise on proper hygiene practices to prevent spread.
+5. Follow up with the patient after test results to determine the appropriate management plan.

@@ -1,0 +1,34 @@
+**List of symptoms:**
+- Coughing fits for the last couple of months
+- Difficulty breathing during coughing fits
+- Chest pain during severe coughing fits
+- Wheezing
+- Irritation in the throat in dusty environments or basements
+
+**List of possible diseases or illnesses:**
+- Asthma
+- Allergic reactions
+- Respiratory infection (ruled out due to duration of symptoms)
+
+**SOAP Note:**
+
+**Subjective:**
+The patient presents with a history of persistent coughing fits for the past couple of months, worsened during exercise, exposure to cold air, and irritants like smoke and dust. The cough is usually dry, accompanied by difficulty breathing and chest pain during severe episodes. The patient also reports wheezing and throat irritation in dusty environments. There is no history of fever, headache, vision changes, nausea, vomiting, or other systemic symptoms.
+
+**Objective:**
+- No signs of distress
+- No fever or abnormal vital signs
+- Clear lung sounds on auscultation
+- No visible signs of respiratory distress
+
+**Assessment:**
+Based on the patient's history and symptoms, the most likely diagnosis is asthma, possibly triggered by environmental factors such as exercise, cold air, smoke, and dust. Allergic reactions may also be contributing to the symptoms. Other differential diagnoses include respiratory infections, which are less likely given the chronic nature of symptoms.
+
+**Plan:**
+1. Recommend testing for asthma to confirm the diagnosis.
+2. Consider allergy testing to identify potential triggers.
+3. Prescribe an inhaled corticosteroid puffer for daily use to manage asthma symptoms.
+4. Educate the patient on proper inhaler technique and provide a spacer for optimal medication delivery.
+5. Encourage the patient to avoid known triggers and monitor symptoms for improvement.
+6. Suggest a COVID test to rule out infection, although less likely due to the chronicity of symptoms.
+7. Follow up with the patient to assess response to treatment and adjust management as needed.

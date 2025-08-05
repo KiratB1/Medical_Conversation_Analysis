@@ -1,0 +1,38 @@
+**List of symptoms:**
+- Stuffy nose for the past three days
+- Yellow discharge from the nose
+- Loss of smell
+- Terrible headache for the past two days
+- Facial pressure
+- Fatigue
+- Difficulty sleeping due to pressure in the face
+- Mucous buildup dripping down the throat
+
+**List of possible diseases or illnesses:**
+- Sinus infection
+- Sinusitis
+- Rhinosinusitis
+- Viral upper respiratory infection
+
+**SOAP Note:**
+
+**Subjective:**
+The patient presents with a three-day history of a stuffy nose, yellow nasal discharge, loss of smell, a two-day history of a severe headache, facial pressure, fatigue, difficulty sleeping due to facial pressure, and mucous buildup dripping down the throat. The patient denies fevers, chills, chest pain, cough, sore throat, trouble breathing, loss of taste, nausea, vomiting, constipation, diarrhea, urinary issues, weight changes, exposure to fumes or dust, and recent travel. The patient reports trying nasal sprays and decongestants with minimal relief.
+
+**Objective:**
+- No fever or chills reported
+- Yellow nasal discharge observed
+- Patient appears fatigued
+- No signs of respiratory distress
+- No chest pain or abnormal breath sounds
+- No abdominal tenderness or abnormal bowel sounds
+
+**Assessment:**
+1. Sinus infection (sinusitis) likely due to the patient's symptoms of nasal congestion, yellow discharge, loss of smell, headache, facial pressure, and mucous buildup.
+2. Viral upper respiratory infection cannot be ruled out given the patient's recent history of cold-like symptoms.
+3. Allergy exacerbation may also be considered due to seasonal allergies reported by the patient.
+
+**Plan:**
+1. Prescribe Amoxicillin for suspected bacterial sinus infection.
+2. Advise the patient to continue using nasal rinses and consider trying oral decongestants and antihistamines for symptom relief.
+3. Schedule a follow-up appointment after completing the antibiotic course to assess the patient's response to treatment and consider further management options.

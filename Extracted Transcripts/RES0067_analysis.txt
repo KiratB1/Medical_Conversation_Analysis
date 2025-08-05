@@ -1,0 +1,41 @@
+**List of symptoms:**
+- Persistent fever
+- Difficulty swallowing
+- Drooling
+- Shortness of breath
+- Irritability
+- Paleness
+- Poor appetite
+- Poor sleep
+
+**List of possible diseases or illnesses:**
+- Haemophilus influenzae (H. flu) infection leading to epiglottitis
+- Respiratory infection
+- Possible COVID-19 infection
+
+**SOAP Note:**
+
+**Subjective:**
+The 2-year-old patient presented with a two-day history of persistent fever, difficulty swallowing, drooling, shortness of breath, irritability, paleness, poor appetite, and poor sleep. The parent reported that the symptoms started with a fever that did not resolve despite Tylenol administration. The patient also had recent exposure to someone sick at daycare, with a prior history of a cough two weeks ago.
+
+**Objective:**
+- Fever of 38.5 degrees Celsius
+- Drooling and difficulty swallowing noted
+- Redness and swelling in the neck and throat area
+- Paleness observed
+- No coughing reported
+- Irritability noted
+- No signs of respiratory distress observed during the conversation
+
+**Assessment:**
+Based on the symptoms described and the concerning signs of drooling, difficulty swallowing, and shortness of breath, the patient may be experiencing epiglottitis, potentially caused by a Haemophilus influenzae (H. flu) infection. COVID-19 infection cannot be ruled out given the ongoing pandemic and the presence of respiratory symptoms.
+
+**Plan:**
+- Urgent referral to the Emergency Department for further evaluation and management.
+- Request for testing for H. flu and COVID-19.
+- Consideration of X-ray of the neck to assess for epiglottitis.
+- Administration of appropriate antibiotics in the ER.
+- Monitoring of vital signs and respiratory status to ensure stability.
+- Potential hospitalization for IV antibiotics and close monitoring depending on the severity of the condition.
+
+It is crucial to ensure prompt medical attention to address the potential airway compromise associated with epiglottitis.

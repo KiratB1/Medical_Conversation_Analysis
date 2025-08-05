@@ -1,0 +1,40 @@
+**List of symptoms:**
+- Cough
+- Diarrhea
+- Headache
+- Aching sensation in the forehead
+- Change in sense of smell (decreased ability to smell)
+- Increased hunger
+
+**List of possible diseases or illnesses:**
+- Acute bronchitis
+- Gastroenteritis
+- Viral infection causing respiratory symptoms and diarrhea
+- Dehydration
+- COVID-19 (considering the need for a COVID swab)
+
+**SOAP Note:**
+
+**Subjective:**
+The patient presents with a cough that started 5 days ago, described as a dry cough, along with watery diarrhea that began 2 days ago. The patient also reports a headache with aching sensation in the forehead, decreased ability to smell, and increased hunger. No fever, chills, chest pain, difficulty breathing, nausea, vomiting, muscle aches, numbness, or tingling reported. Patient denies recent contact with sick individuals but works in a car shop and follows mask-wearing and social distancing protocols. Patient has a history of smoking in the past, currently consumes alcohol daily, and takes medications for blood pressure and high cholesterol.
+
+**Objective:**
+- Vital signs to be assessed, including temperature, heart rate, and blood pressure
+- COVID swab to be conducted
+- Labs to check electrolyte levels
+- Physical examination to be performed
+
+**Assessment:**
+1. Acute bronchitis with dry cough
+2. Gastroenteritis with watery diarrhea
+3. Possible viral infection causing respiratory symptoms and diarrhea
+4. Decreased sense of smell
+5. Increased hunger
+6. Consider COVID-19 testing due to symptoms and work environment
+
+**Plan:**
+1. Conduct COVID swab test
+2. Perform labs to assess electrolyte levels
+3. Monitor vital signs
+4. Provide recommendations for fluid intake and dietary management
+5. Follow up with attending physician for further management plan discussion.

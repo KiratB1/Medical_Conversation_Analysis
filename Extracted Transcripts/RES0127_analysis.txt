@@ -1,0 +1,40 @@
+**List of symptoms:**
+- Sneezing
+- Runny nose
+- Stuffy nose
+- Itchy eyes and nose
+- Red and teary eyes
+- Sore throat
+- Coughing to clear throat
+- Clearing throat in the morning
+- Sputum in the morning
+- Sensation of something dripping down throat
+- Fatigue
+
+**List of possible diseases or illnesses:**
+- Allergic rhinitis
+- Seasonal allergies
+- Possible upper respiratory tract infection
+
+**SOAP Note:**
+
+**Subjective:**
+The patient presents with a history of long-standing symptoms including sneezing, runny nose, itchy eyes, sore throat, cough, sputum production in the morning, fatigue, and weight loss. Symptoms worsen during the springtime and are triggered by dust exposure. The patient reports a family history of similar symptoms. No recent travel or sick contacts reported. The patient has tried Reactin in the past for symptom relief.
+
+**Objective:**
+- Physical examination findings not provided in the transcript.
+
+**Assessment:**
+1. Allergic Rhinitis:
+   - Long-standing symptoms exacerbated by dust exposure and seasonal changes.
+   - Family history suggestive of a genetic predisposition.
+2. Upper Respiratory Tract Infection (consideration):
+   - Presence of cough, sore throat, and sputum production.
+   - No reported fevers or systemic symptoms.
+
+**Plan:**
+1. Referral to an allergist for further evaluation and management of allergic rhinitis.
+2. COVID swab test to rule out infection due to overlapping symptoms with COVID-19.
+3. Recommend continuing antihistamine medication for symptom relief.
+4. Encourage isolation at home until COVID test results are available.
+5. Follow up with patient post-test results for further management.

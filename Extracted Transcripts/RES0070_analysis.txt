@@ -1,0 +1,38 @@
+**List of symptoms:**
+- Awful headache for the past two days
+- Feeling really tired
+- Sore throat
+- Cough
+- Shortness of breath
+- Muscle aches
+
+**List of possible diseases or illnesses:**
+- Migraine
+- Upper respiratory tract infection
+- Viral infection
+- Tension headache
+
+**SOAP Note:**
+
+**Subjective:**
+The patient presents with an awful headache for the past two days, which has worsened over time. They describe the headache as different from their usual migraines and mention feeling really tired. Additionally, the patient reports a sore throat, cough, shortness of breath, and muscle aches.
+
+**Objective:**
+- No fever or chills reported
+- No nausea, vomiting, visual changes, runny nose, or neck stiffness
+- Denies changes in sense of smell or taste
+- No chest pain, lightheadedness, dizziness, nausea, vomiting, diarrhea, urinary problems, or rashes
+- Reports a history of migraines and Polymyalgia rheumatica but currently not on any medications
+- Denies smoking, alcohol use, recreational drug use, recent travel, family history of heart conditions or cancers, and exposure to sick individuals
+
+**Assessment:**
+1. Differential diagnosis includes:
+   - Migraine
+   - Upper respiratory tract infection
+   - Viral infection
+   - Tension headache
+
+**Plan:**
+1. Physical examination to be performed by the attending physician.
+2. Investigations to be ordered to determine the underlying cause of the symptoms.
+3. Follow-up with the patient after the evaluation for further management and treatment.

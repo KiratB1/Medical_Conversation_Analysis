@@ -1,0 +1,43 @@
+**List of symptoms:**
+- Cough for the last few weeks
+- Coughing up blood mixed with sputum
+- Discomfort in the chest associated with coughing
+- Fatigue
+- Chills
+- Feeling feverish
+- Night sweats
+- Significant weight loss (10 pounds in a couple of months)
+
+**List of possible diseases or illnesses:**
+- **Pulmonary tuberculosis:** Given the history of coming from a place where tuberculosis is prevalent and the symptoms of coughing up blood, night sweats, weight loss, and fatigue.
+- **Lung cancer:** Considering the cough, coughing up blood, and weight loss.
+- **Pneumonia:** Symptoms of cough, chest discomfort, fatigue, chills, and feverish feeling.
+- **Bronchitis:** Chronic cough with blood-tinged sputum, chest discomfort, and fatigue.
+- **HIV/AIDS:** Night sweats, weight loss, fatigue, and cough could be indicative.
+
+**SOAP Note:**
+
+**Subjective:**
+The patient presents with a cough lasting for over three weeks, accompanied by the recent onset of coughing up blood mixed with sputum. He reports chest discomfort with coughing, fatigue, chills, feeling feverish, night sweats, and significant weight loss of 10 pounds in the last couple of months. No history of medical conditions, surgeries, medications, or allergies reported. The patient recently moved from The Philippines six months ago and lived in a communal setting with limited interaction with others.
+
+**Objective:**
+- Vital signs: Chills and feeling feverish reported, temperature to be checked.
+- Physical examination: Pending investigation.
+
+**Assessment:**
+1. Differential diagnosis including:
+   - Pulmonary tuberculosis
+   - Lung cancer
+   - Pneumonia
+   - Bronchitis
+   - HIV/AIDS
+
+**Plan:**
+1. Order diagnostic tests including:
+   - Chest X-ray
+   - Complete blood count (CBC)
+   - Sputum analysis for acid-fast bacilli
+   - HIV testing
+2. Consider referral to a pulmonologist for further evaluation.
+3. Advise the patient to monitor symptoms and return if they worsen.
+4. Follow-up appointment scheduled for test results and treatment planning.

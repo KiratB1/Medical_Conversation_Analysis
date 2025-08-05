@@ -1,0 +1,39 @@
+**List of symptoms:**
+- Worsening breathlessness
+- Cough (dry)
+- Exertional dyspnea
+- Shortness of breath with exertion
+- Weight loss
+- Night sweats
+- Fatigue
+
+**List of possible diseases or illnesses:**
+- Pulmonary fibrosis
+- Autoimmune process affecting the lungs
+- Lung cancer
+- Asthma
+- COPD (less likely due to no smoking history)
+
+**SOAP Note:**
+
+**Subjective:**
+The patient reports experiencing worsening breathlessness and a dry cough for the past two years. The breathlessness is mainly exertional and can reach up to an intensity of 8 out of 10. There is associated weight loss of approximately 3 kilograms over the last few months. Night sweats have been occurring a few times per week for the past couple of months. The patient also reports feeling fatigued.
+
+**Objective:**
+- Patient denies coughing up blood, wheezing, chest pain, swelling in extremities, heart palpitations, changes in bowel movements, urinary changes, nausea, vomiting, headaches, dizziness, fainting spells, confusion, or memory loss.
+- No significant findings on physical examination mentioned.
+
+**Assessment:**
+1. Differential Diagnosis:
+   - Pulmonary fibrosis
+   - Autoimmune lung disease
+   - Lung cancer
+   - Asthma
+   - COPD (less likely due to no smoking history)
+
+**Plan:**
+1. Order chest X-ray and pulmonary function tests to evaluate lung function and assess for any structural abnormalities.
+2. Consider further imaging studies such as CT scan of the chest if indicated.
+3. Conduct blood tests to assess for autoimmune markers and inflammatory markers.
+4. Referral to a pulmonologist for further evaluation and management.
+5. Monitor symptoms closely and follow up for review of diagnostic results and treatment options.

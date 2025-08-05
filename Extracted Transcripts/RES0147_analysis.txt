@@ -1,0 +1,33 @@
+**List of symptoms:**
+- Cough
+- Shortness of breath
+- Greenish and yellow sputum
+- Chest tightness
+
+**List of possible diseases or illnesses:**
+- COPD exacerbation
+- Respiratory infection (viral or bacterial)
+
+**SOAP Note:**
+
+**Subjective:**
+The patient presents with a worsening cough, shortness of breath over the past 12 hours, bringing up greenish and yellow sputum, and chest tightness. The symptoms have been progressively worsening throughout the day. The patient has a history of COPD, high blood pressure, aortic stenosis, and high cholesterol. He reports using Ventolin and Spiriva inhalers at home.
+
+**Objective:**
+- Patient appears fatigued and short of breath.
+- Auscultation reveals decreased breath sounds and wheezing.
+- Greenish and yellow sputum observed.
+- Chest tightness reported by the patient.
+
+**Assessment:**
+Likely COPD exacerbation with possible respiratory infection leading to worsening symptoms of cough, shortness of breath, and chest tightness.
+
+**Plan:**
+1. Admit the patient to the ER for further evaluation and management.
+2. Conduct a physical exam, chest x-ray, and COVID swab.
+3. Initiate oxygen therapy.
+4. Start antibiotics for potential infection.
+5. Administer bronchodilators and steroids as needed.
+6. Monitor vital signs closely.
+7. Educate the patient on the importance of medication compliance and inhaler use.
+8. Follow up with the patient's primary care provider for ongoing management of COPD.

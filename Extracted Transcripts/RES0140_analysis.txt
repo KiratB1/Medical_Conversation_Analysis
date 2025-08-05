@@ -1,0 +1,32 @@
+**List of symptoms:**
+- Sudden shortness of breath
+- Chest pain, exacerbated by deep breaths
+- Pain and swelling in the right calf
+
+**List of possible diseases or illnesses:**
+- Pulmonary embolism
+- Deep vein thrombosis
+- Hypertension
+- Varicose veins
+
+**SOAP Note:**
+
+**Subjective:**
+The patient presented with sudden onset shortness of breath and chest pain that worsens with deep breaths. He also reported pain and swelling in the right calf, which has been persistent for the last few days. The patient mentioned a recent hospital discharge following hip surgery and a history of high blood pressure and varicose veins. He is currently managing his pain with Tylenol and avoiding opioid medications due to concerns about addiction.
+
+**Objective:**
+- Patient appears in distress, experiencing difficulty breathing.
+- Swelling and pain noted in the right calf.
+- No other acute symptoms reported during the examination.
+
+**Assessment:**
+Based on the patient's symptoms, history of recent hospitalization, and risk factors such as immobility post-surgery, hypertension, and varicose veins, the likely diagnosis is pulmonary embolism or deep vein thrombosis. Further diagnostic tests, including lung scan and leg ultrasound, are recommended to confirm the diagnosis.
+
+**Plan:**
+1. Conduct a lung scan and leg ultrasound to evaluate for pulmonary embolism or deep vein thrombosis.
+2. Initiate treatment with blood thinners to manage the suspected clotting disorder.
+3. Hospitalize the patient for monitoring, oxygen support if needed, and continuous vital sign assessment.
+4. Provide physiotherapy to aid in mobilization and recovery.
+5. Perform a COVID swab as a precautionary measure.
+6. Educate the patient on the importance of compliance with treatment and follow-up care.
+7. Discharge planning will include monitoring for stability and ensuring adequate support at home post-discharge.

@@ -1,0 +1,34 @@
+**List of symptoms:**
+- Dry cough
+- Fever (over 100 degrees)
+- Fatigue
+- Runny nose
+- Loss of appetite
+- Possible loss of taste
+- No chest pain, wheezing, shortness of breath, sore throat, chills, night sweats, changes in hair/nails/skin, bowel movement issues, nausea/vomiting, dizziness, confusion, memory loss
+
+**List of possible diseases or illnesses:**
+- Viral respiratory infection
+- COVID-19
+- Common cold
+
+**SOAP Note:**
+
+**Subjective:**
+A 5-year-old male patient presented with a dry cough that started three days ago, accompanied by fatigue and a fever over 100 degrees. The patient's parent mentioned a runny nose, loss of appetite, and possible loss of taste. No other significant symptoms reported.
+
+**Objective:**
+- Vital signs: Fever recorded over 100 degrees.
+- Physical examination: No wheezing, shortness of breath, chest pain, or other concerning symptoms noted.
+
+**Assessment:**
+- Likely viral respiratory infection such as a common cold or COVID-19 given the symptoms of dry cough, fever, and fatigue.
+- COVID-19 testing recommended due to the presence of symptoms and potential exposure at school.
+- Differential diagnosis includes other viral illnesses.
+
+**Plan:**
+1. Conduct a COVID-19 swab test to confirm the presence of the virus.
+2. Advise the patient to isolate for 14 days, including from family members, pending test results.
+3. Monitor symptoms closely for any worsening, especially high fever, neurological symptoms, weakness, or dizziness.
+4. Educate the parent on the possibility of false negatives and the need for further evaluation if symptoms deteriorate.
+5. Await test results and provide appropriate management based on the outcome.

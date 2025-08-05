@@ -1,0 +1,50 @@
+**List of symptoms:**
+- Chronic cough for the past five years
+- Worsening cough over the last month
+- Constantly coughing, especially in the morning
+- Bringing up white material, recently with a yellowish tinge
+- Harsh cough
+- Wheezing with physical activities
+- Swelling in ankles
+- Fatigue
+- Tightness in chest during coughing fits
+
+**List of possible diseases or illnesses:**
+- Chronic Obstructive Pulmonary Disease (COPD) exacerbation
+- Possible respiratory infection (e.g., COVID-19)
+- Allergic bronchitis
+- Heart failure (congestive heart failure)
+- Chronic bronchitis
+- Emphysema
+
+**SOAP Note:**
+
+**Subjective:**
+The patient presents with a chronic cough for the past five years, which has worsened over the last month. The cough is productive, with white material that recently showed a yellowish tinge. The patient reports wheezing with physical activities, swelling in the ankles, fatigue, and chest tightness during coughing fits. There is a history of COPD and high blood pressure. The patient mentions using a Ventolin inhaler for relief, which has become less effective recently.
+
+**Objective:**
+- No blood in phlegm
+- No recent weight loss, fevers, chest pain, or palpitations
+- Mild swelling in ankles for the past year
+- No recent dizziness, fainting, memory issues, or numbness
+- No recent headaches, changes in bowel movements, nausea, or vomiting
+- No recent changes in smell, taste, vision, or hearing
+- No recent changes in skin or hair
+- Family history of heart conditions and bladder cancer
+- Former smoker for 30 years, quit a few years ago
+- Consumes a beer daily
+- Living in a well-maintained condominium with no known environmental triggers
+
+**Assessment:**
+1. COPD exacerbation with possible respiratory infection due to the worsening cough and yellowish sputum.
+2. Possible heart failure (congestive heart failure) based on the swelling in ankles and history of high blood pressure.
+3. Allergic bronchitis or chronic bronchitis may also be considered given the chronic cough and wheezing.
+
+**Plan:**
+1. Conduct a COVID-19 swab test due to overlapping symptoms and advise self-isolation until results are available.
+2. Continue current inhaler therapy and consider adding a long-acting beta-agonist and inhaled corticosteroids.
+3. Monitor oxygen saturation and provide oxygen if necessary to maintain levels above 88%.
+4. Consider prescribing azithromycin as an alternative to amoxicillin for possible infection.
+5. Order a chest X-ray and pulmonary function test for further evaluation.
+6. Educate the patient on COPD management, smoking cessation, and lifestyle modifications.
+7. Follow up in 24-48 hours for test results and adjust treatment plan accordingly.

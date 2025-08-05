@@ -1,0 +1,31 @@
+**List of symptoms:**
+- Nasal obstruction
+- Nasal discharge (mostly clear)
+- Difficulty breathing at night, needing to shift to unblock airways
+
+**List of possible diseases or illnesses:**
+- Viral rhinosinusitis
+- COVID-19 (overlap of symptoms with viral rhinosinusitis)
+
+**SOAP Note:**
+
+**Subjective:**
+The patient presents with complaints of nasal obstruction and discharge persisting for the past week. The discharge is described as mostly clear without any color. The patient experiences difficulty breathing at night, requiring positional changes to alleviate the obstruction.
+
+**Objective:**
+- No fever reported
+- No changes in smell or taste
+- No facial pain, headaches, sore throat, cough, wheezing, chest pain, lightheadedness, or dizziness
+- No systemic symptoms like weight loss, appetite changes, nausea, vomiting, abdominal pain, diarrhea, constipation, painful urination, skin rashes, muscle aches, joint pains, memory loss, or confusion
+- No history of surgeries, hospitalizations, allergies, or regular medication use
+- Social history includes living alone in a downtown apartment, working from home, no recent travel, in a long-term monogamous relationship with birth control use, no concerns for sexually transmitted infections, no smoking or drug use, moderate alcohol consumption, and a family history of colon cancer in the grandfather at age 55.
+
+**Assessment:**
+The patient's symptoms of nasal obstruction and discharge, without systemic symptoms, are most consistent with viral rhinosinusitis. However, due to symptom overlap with COVID-19, a swab test is recommended to rule out infection.
+
+**Plan:**
+1. Perform a swab test for COVID-19.
+2. Provide symptomatic relief measures for rhinosinusitis, such as nasal saline irrigation and decongestants.
+3. Follow up with the patient in a few days to monitor symptom progression and test results.
+4. Encourage adequate rest, hydration, and self-isolation if COVID-19 test results are positive.
+5. Educate the patient on the importance of hand hygiene and respiratory etiquette to prevent the spread of respiratory infections.

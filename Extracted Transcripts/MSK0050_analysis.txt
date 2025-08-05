@@ -1,0 +1,31 @@
+**List of symptoms:**
+- Numbness in the right hand
+- Worsening numbness over the past month or two
+- Concentrated on the thumb and index finger, with mild involvement in the middle and ring finger
+- Tingling sensation, especially when using the hand for activities like holding the steering wheel or using a phone
+- Difficulty holding objects, leading to dropping items
+
+**List of possible diseases or illnesses:**
+- Carpal tunnel syndrome
+
+**SOAP Note:**
+
+**Subjective:**
+The patient presents with complaints of gradual onset numbness in the right hand over the past month or two, with worsening symptoms. The numbness is most prominent in the thumb and index finger, with milder involvement in the middle and ring finger. The patient describes the sensation as tingling, exacerbated during activities such as driving, using a phone, and holding objects. The patient reports difficulty in gripping objects, leading to dropping items.
+
+**Objective:**
+- Reduced muscle bulk in the fleshy part of the thumb above the wrist on the right hand, suggestive of atrophy
+- Positive Tinel's test with reproduction of tingling sensation upon tapping near the wrist crease
+- Positive Phalen's test with tingling upon wrist flexion and finger extension
+- No temperature changes, warmth, or pain upon palpation of the hand and wrist
+- Full range of motion in the elbow and shoulder
+- No pain or limitations in neck movement
+
+**Assessment:**
+Likely diagnosis of carpal tunnel syndrome based on the patient's symptoms and positive physical examination findings, including atrophy in the right hand, positive Tinel's and Phalen's tests, and the characteristic distribution of numbness in the hand.
+
+**Plan:**
+1. Consider further diagnostic tests such as nerve studies to confirm the diagnosis of carpal tunnel syndrome.
+2. Recommend the use of splints, especially nighttime splints, to alleviate symptoms and prevent further aggravation.
+3. Advise on activity modification to reduce strain on the affected hand and wrist.
+4. Follow up with the patient to monitor symptoms and response to conservative management.

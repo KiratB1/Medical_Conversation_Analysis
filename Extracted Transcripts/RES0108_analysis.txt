@@ -1,0 +1,40 @@
+**List of symptoms:**
+- Cough for the past week
+- Itchy and scratchy sensation in the throat
+- Dry cough
+- Constipation
+- Diabetes (underlying condition)
+
+**List of possible diseases or illnesses:**
+- Common cold
+- Allergic cough
+- Side effect of ramipril (ACE inhibitor)
+- Diabetes-related complications
+
+**SOAP Note:**
+
+**Subjective:**
+The patient presents with a persistent dry cough for the past week, accompanied by an itchy and scratchy sensation in the throat. He denies shortness of breath, phlegm production, wheezing, chest pain, fever, blood in cough, or other respiratory symptoms. The patient reports a history of constipation for years and underlying diabetes for the past seven years. He recently started taking ramipril for blood pressure management.
+
+**Objective:**
+- Patient appears well-nourished and in no acute distress.
+- Vital signs: Blood pressure, heart rate, and temperature within normal limits.
+- Lungs clear to auscultation, no wheezing or crackles heard.
+- No signs of respiratory distress.
+
+**Assessment:**
+1. Acute cough:
+   - Differential diagnosis includes common cold, allergic cough, and ramipril-induced cough.
+   - Considering the temporal association with ramipril initiation, drug-induced cough is a significant possibility.
+   - Diabetes as an underlying condition may contribute to immune compromise and increased susceptibility to respiratory infections.
+
+2. Constipation:
+   - Chronic issue likely related to dietary habits and lack of fiber intake.
+
+**Plan:**
+1. COVID-19 testing: Perform a COVID-19 swab test due to cough symptoms; isolate until results are available.
+2. Medication review: Consider discontinuing ramipril and switching to an alternative blood pressure medication to address the cough.
+3. Follow-up: Schedule a follow-up appointment to monitor cough resolution and adjust treatment as needed.
+4. Lifestyle modifications: Encourage increased fiber intake to alleviate constipation symptoms.
+5. Patient education: Provide information on COVID-19 precautions, medication management, and diabetic care.
+6. Collaboration: Coordinate with the patient's family physician for medication adjustments and ongoing management.

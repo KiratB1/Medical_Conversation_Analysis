@@ -1,0 +1,32 @@
+**List of symptoms:**
+- Shortness of breath
+- Shallow, fast breathing
+- Sharp chest pain with deep breaths
+
+**List of possible diseases or illnesses:**
+- Pulmonary embolism
+- Deep vein thrombosis
+- Pneumonia
+- Anxiety or panic attack
+
+**SOAP Note:**
+
+**Subjective:**
+The patient presents with a chief complaint of sudden shortness of breath that started this morning while doing activities. He describes the breathing difficulty as shallow and fast, resembling having run a marathon despite minimal exertion. The patient reports no previous episodes of shortness of breath, no associated symptoms like sore throat or chest pain, but does experience sharp chest pain with deep breaths. He denies fever, chills, dizziness, fainting spells, palpitations, or recent travel history. The patient recently underwent hospitalization for a hip fracture, where he received physiotherapy and pain medications.
+
+**Objective:**
+- No signs of swelling in the legs noted.
+- No visible distress or respiratory distress observed.
+- No signs of cyanosis or clubbing.
+- No fever, tachycardia, or abnormal heart sounds detected on examination.
+
+**Assessment:**
+1. Acute onset of shortness of breath with recent hospitalization for a hip fracture raises concern for pulmonary embolism or deep vein thrombosis.
+2. Sharp chest pain with deep breaths may indicate pleuritic chest pain.
+3. Anxiety or panic attack cannot be ruled out given the sudden onset of symptoms and recent hospitalization.
+
+**Plan:**
+1. Perform further investigations including blood work and imaging studies to rule out pulmonary embolism or deep vein thrombosis.
+2. Consider thrombolysis if indicated.
+3. Monitor the patient closely for any worsening symptoms and consider hospital admission based on test results.
+4. Follow up with the patient regarding physiotherapy and ensure continuity of care post-hospital discharge.

@@ -1,0 +1,38 @@
+**List of symptoms:**
+- Runny nose
+- Cough (dry, comes and goes)
+- Stuffy nose
+- Decreased sense of smell
+- Fatigue
+- Body aches
+
+**List of possible diseases or illnesses:**
+- Common cold
+- Viral upper respiratory infection
+- Allergic rhinitis
+- COVID-19 (ruled out with COVID swab)
+
+**SOAP Note:**
+
+**Subjective:**
+The patient presents with a one-week history of a dry, intermittent cough that started before the onset of a runny nose. The cough improves with over-the-counter antitussive medication. The patient reports a stuffy nose, clear nasal discharge, decreased sense of smell, fatigue, and body aches. There is concern regarding COVID-19 due to recent exposure to someone who passed away from the virus.
+
+**Objective:**
+- Vital signs within normal limits
+- No signs of respiratory distress
+- Clear nasal discharge observed
+- No signs of wheezing or chest pain on auscultation
+
+**Assessment:**
+1. Viral upper respiratory infection, likely common cold, given the patient's symptoms and history of recurrent colds.
+2. Allergic rhinitis could also be considered due to the presence of a stuffy nose and clear nasal discharge.
+3. COVID-19 is less likely based on symptoms and negative exposure history.
+
+**Plan:**
+1. Perform a COVID swab to rule out COVID-19.
+2. Advise self-isolation for 14 days as a precautionary measure.
+3. Supportive treatment recommended:
+   - Stay hydrated
+   - Take antipyretics like Tylenol for fever
+   - Use analgesics like Advil or Tylenol for headache or sinus pressure
+4. Monitor symptoms and seek immediate medical attention if symptoms worsen or neurological symptoms develop.

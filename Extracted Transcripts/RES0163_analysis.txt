@@ -1,0 +1,35 @@
+**List of symptoms:**
+- Stuffy nose, primarily on the left side
+- Nosebleeds, occurring once a month or once in two months
+- Snoring at night, sometimes sleeping with mouth open
+
+**List of possible diseases or illnesses:**
+- Chronic sinusitis
+- Allergic rhinitis
+- Obstructive sleep apnea
+
+**SOAP Note:**
+
+**S:**
+The patient presents with a chief complaint of chronic stuffy nose primarily on the left side, which has been ongoing for years. The patient also reports experiencing nosebleeds once a month or once in two months. Additionally, the patient mentions snoring at night, sometimes sleeping with their mouth open.
+
+**O:**
+- No fever, chills, cough, sore throat, loss of sense of taste or smell, shortness of breath
+- No pressure sensation in the face, no congestion worsening when lying flat
+- No constant throat clearing, no sensation of stuffiness draining back into the throat
+- No changes in bowel movements, no urinary problems, no headaches
+- No recent travel or contact with sick individuals
+- Allergies to cats, but no recent exposure
+- Negative for smoking, alcohol, recreational drugs
+- Family history of heart disease (father had a heart attack at 50 years old), mother has high blood pressure
+- Living with parents, student, feels safe in home environment and outside
+
+**A:**
+1. Chronic sinusitis
+2. Allergic rhinitis
+3. Obstructive sleep apnea
+
+**P:**
+- Perform a full physical examination
+- Consider imaging if necessary
+- Referral to an ENT specialist if obstructive sleep apnea is suspected

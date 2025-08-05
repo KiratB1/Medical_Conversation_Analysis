@@ -1,0 +1,30 @@
+**List of symptoms:**
+- Nasty cough for the last week
+- Coughing up blood
+- Weight loss (15 pounds in a few months)
+- Chills over the last week
+
+**List of possible diseases or illnesses:**
+- Tuberculosis (TB)
+
+**SOAP Note:**
+
+**Subjective:**
+The patient presents with a history of a persistent cough for the last week, accompanied by coughing up blood. The cough started approximately six to seven days after returning from a mission trip to the Philippines. The patient reports a significant weight loss of 15 pounds over the last few months and experienced chills over the past week. There is no history of chest pain, wheeziness, shortness of breath, runny nose, stuffy nose, changes in vision, hearing, smell, or taste, night sweats, fevers, chills, rashes, swelling in limbs, fainting spells, dizziness, confusion, memory loss, headaches, joint pain, fatigue, changes in bowel movements, changes in urine, nausea, vomiting, abdominal pain, or any other symptoms.
+
+**Objective:**
+- Patient appears well-nourished and in no acute distress.
+- Vital signs: Within normal limits.
+- No abnormalities noted on physical examination.
+
+**Assessment:**
+- Differential diagnosis includes:
+  - Tuberculosis (TB) due to the presence of coughing up blood, weight loss, and recent travel history to the Philippines.
+  - Other infectious causes of cough with hemoptysis should also be considered.
+  
+**Plan:**
+1. Conduct a Covid swab to rule out COVID-19 infection.
+2. Perform a chest X-ray and AFB smear to evaluate for active TB or latent TB.
+3. Await results and consider isolation if TB is confirmed.
+4. Initiate treatment with RIPE medications (rifampin, isoniazid, pyrazinamide, ethambutol) if TB diagnosis is confirmed.
+5. Follow up closely with the patient and involve infectious disease specialists as needed.

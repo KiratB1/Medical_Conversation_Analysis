@@ -1,0 +1,43 @@
+**List of symptoms:**
+- Barky cough
+- Difficulty taking deep breaths
+- Harsh cough
+- Cough mostly at night
+- Stridor on inhalation
+- Fever (38.7°C)
+
+**List of possible diseases or illnesses:**
+- Croup (laryngotracheobronchitis)
+- Upper respiratory tract infection
+- Viral bronchitis
+
+**SOAP Note:**
+
+**Subjective:**
+The patient brought in their child who has been experiencing a barky cough that started two days ago. The cough is mostly dry, harsh, and occurs more frequently at night. The child is having difficulty taking deep breaths and has stridor on inhalation. The patient mentioned the child had a fever of 38.7°C yesterday. The child's appetite has decreased, and there is a slight change in behavior with increased fussiness.
+
+**Objective:**
+- No sputum or hemoptysis reported
+- No shortness of breath or difficulty breathing, but harsh sound on deep inhalation
+- No changes in voice or breathing sounds except for harsh breathing on deep inhalation
+- No other respiratory symptoms like eye redness, runny nose, sore throat, or changes in sense of smell/taste
+- No chest pain, headaches, ear pain, abdominal pain, diarrhea, constipation, skin rashes, muscle aches, joint pains, nausea, vomiting, or weight loss reported
+- No night sweats, blood in stool, or skin rashes observed
+- No history of medical conditions or hospitalizations/surgeries
+- Allergies include penicillin with a rash reaction
+- Immunizations up to date
+- Family history negative for heart/lung disease, asthma, allergic rhinitis
+
+**Assessment:**
+Based on the symptoms described, the most likely diagnosis is Croup or laryngotracheobronchitis, a viral infection of the upper respiratory tract causing barky cough, stridor, and fever. The child may be experiencing upper respiratory tract infection or viral bronchitis.
+
+**Plan:**
+1. Supportive care for Croup, including:
+   - Monitoring for signs of respiratory distress
+   - Hydration and rest
+   - Humidified air or steam to relieve cough
+2. Observation for any worsening symptoms, especially shortness of breath
+3. If the child decompensates, consider treatment with steroids and oxygen therapy
+4. Follow-up with the doctor if there are any concerns or if symptoms worsen.
+
+End of SOAP Note

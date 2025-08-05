@@ -1,0 +1,50 @@
+**List of symptoms:**
+- Cough
+- Runny nose
+- Tugging at ear
+- Irritability
+- Fever
+- Decreased appetite
+- Fussiness
+- Rubbing ear
+- Normal bowel movements and urine
+- No nausea, vomiting, headaches, dizziness, fainting, confusion, memory loss
+
+**List of possible diseases or illnesses:**
+- Common cold
+- Ear infection (Otitis media)
+- Possible upper respiratory infection
+- Possible viral infection
+
+**SOAP Note:**
+
+**Subjective:**
+The patient brought in their son due to a cough that has been ongoing for a few days, accompanied by a runny nose. The patient noticed the child tugging at his ear more in the past two days. The child has been irritable, with decreased appetite and a fever over 38 degrees Celsius. No other significant symptoms reported.
+
+**Objective:**
+- Clear and watery nasal discharge
+- Dry cough
+- No harsh cough sounds noted
+- No changes in vision or hearing
+- No rashes, shortness of breath, wheezing, or ear discharge
+- Normal bowel movements and urine
+- No signs of swelling in the ear
+- Normal growth and development milestones
+- No medications or allergies reported
+- Up to date with immunizations
+- Family history negative for lung or heart conditions
+- Exposure to secondhand smoke
+- No environmental triggers identified
+
+**Assessment:**
+1. Acute upper respiratory infection with viral etiology
+2. Likely acute otitis media (ear infection) based on tugging at the ear, irritability, and fever
+3. Rule out COVID-19 due to overlapping symptoms
+4. Consideration for antibiotic treatment based on physical exam findings
+
+**Plan:**
+1. Perform a physical examination, including an otoscopic evaluation of the ear.
+2. Swab for COVID-19 testing to rule out infection.
+3. Prescribe amoxicillin for a 10-day course if signs of middle ear effusion, bulging tympanic membrane, or perforation are present.
+4. Advise reassessment in 24-48 hours if the child does not show significant improvement.
+5. Follow up with the patient for test results and treatment effectiveness.

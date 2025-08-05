@@ -1,0 +1,89 @@
+D: And what brings you to the emergency department today?
+P: Low back pain.
+D: Okay. And where exactly is is the back pain?
+P: So the pain is rated in the. In the lower back.
+D: Just in the lower back. Okay. And when did this pain start?
+P: It started yesterday. I was unloading groceries for my pickup truck when it suddenly started.
+D: Okay, so. And did you kind of make any kind of movements or did you pick up something really heavy?
+P: I'm not sure. I just noticed the pain after. After that.
+D: Okay, and what kind of pain are you experiencing? Is it like a dull cramping pain or is it more like a sharp or stabbing pain?
+P: It feels like it's stabbing just right in my lower back.
+D: Okay, and on a scale of 1 to 10, one being like the least pain that you felt in your life, 10 being the worst, how much would you rate this pain?
+P: If I'm sitting completely still like I am right now, it's a two out of ten.
+D: Okay. And when does it get worse?
+P: Anytime I move or bend my back or even cough, it worsens the pain significantly.
+D: Okay, and has this pain changed at all since yesterday?
+P: No, it's been the same awful pain this whole time.
+D: Okay. And have you ever had this kind of pain before?
+P: I've had back pain over the years, but nothing like this before.
+D: Okay, and does the pain go anywhere or does it just stay in the lower back?
+P: I also feel the pain into my right leg.
+D: Okay, and is it the same kind of aching or like stabbing pain that goes into your right leg or is it just like an aching pain?
+P: It's an aching pain.
+D: And do you have any other symptoms besides the pain? Like, are you experiencing any kind of weakness or any kind of. Any other changes in your health?
+P: No, it's just the low back pain.
+D: Okay. And have you ever experienced any kind of trauma to your back, like something has hit you or you fall down, anything like that?
+P: No, I can't remember any injuries like that in the past.
+D: Okay. Any fevers or chills or night sweats?
+P: No fever, no chills, no night sweats.
+D: Okay. Any symptoms of feeling very tired, fatigued, anything like that?
+P: No. Been okay recently.
+D: Okay. Any changes to your skin at all? Any rations? Yep. Okay. Any pain in your joints at all?
+P: Just the back pain.
+D: Okay. Any new coughs or any symptoms of runny nose or anything like that?
+P: No.
+D: Any changes in your bowel movements at all, like diarrhea, constipation or anything?
+P: Nothing like that. Been regular.
+D: How about any urinary problems?
+P: No, nothing to report there.
+D: Okay. And how has your appetite been?
+P: Appetite's been normal.
+D: Any significant weight loss or weight gain recently?
+P: No, the weight's been about the same.
+D: Okay. Any recent infections that you know of?
+P: No, I've been feeling well, otherwise.
+D: Okay. Any tingling sensation or numbness in your back or lower limbs? In your legs?
+P: No numbness or tingling.
+D: Okay. Any muscle weakness at all?
+P: No muscle weakness.
+D: Okay. Have you been having any kind of erect? Paul? Dysfunction?
+P: No concerns with erectile dysfunction.
+D: Okay. And any issues with incontinence, like having accidents at all at night or during the day?
+P: No, I haven't had any problems with bowel or bladder incontinence.
+D: Okay. All right. And in terms of your past medical history, have you been diagnosed with any conditions like high blood pressure, diabetes, type 2 diabetes. Okay. And do you take any medications for it?
+P: Insulin for diabetes.
+D: Okay. And any other medications at all?
+P: Just been taking Tylenol for the back pain.
+D: And has that worked for you at all or has it a difference?
+P: Maybe it's taken the edge off a little bit, but it hasn't done too much to help the pain.
+D: Okay. Any allergies?
+P: Nope.
+D: Any previous surgeries?
+P: I had hemorrhoids removed three years ago.
+D: Okay. Any hospitalizations before?
+P: Nope, that was just day surgery.
+D: Okay. Any family history of any conditions or like any cancers?
+P: My father had prostate cancer.
+D: And currently, right now, do you work?
+P: I'm a retired school teacher.
+D: Okay, and where do you live?
+P: I live alone in a house not too far from here, actually.
+D: Okay. And do you drink at all?
+P: Occasionally. Maybe I'll have a glass of red wine on the weekend or something like that, but not too often.
+D: Okay. And do you smoke?
+P: I've smoked. Yeah. I smoke a pack of cigarettes per day.
+D: Okay, and for how long have you smoked cigarettes?
+P: For about 40 years.
+D: 40 years. Okay. And do you use any kind of recreational drugs? Never. Okay. And how's your diet? Like on a regular basis?
+P: I feel like it's pretty normal. Mostly home cooked meals with some variety of vegetables, other meats and fish. I would say it's pretty balanced.
+D: Okay. All right. I just have a few more questions for you. Are you currently sexually active?
+P: Yes, I am.
+D: Okay. And who are you sexually active with? Any new partners at all?
+P: No new partners. Just my girlfriend.
+D: And how many? Sorry, go ahead.
+P: Just my girlfriend recently.
+D: Okay. And have you been sexually active with more than one partner in the past. Past year?
+P: Yes, I have two women over the past year.
+D: Okay, and do you use any kind of protection?
+P: Yes, always use the condoms.
+D: Okay. All right, so now I'm just going to get the patient's vitals.

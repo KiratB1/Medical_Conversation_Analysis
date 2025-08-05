@@ -1,0 +1,36 @@
+**List of symptoms:**
+- Wheezing
+- Difficulty falling asleep
+- Irritability
+- Decreased appetite
+- Shortness of breath
+- Cough
+
+**List of possible diseases or illnesses:**
+- Asthma exacerbation
+- Respiratory infection
+- Allergic reaction
+- Bronchitis
+
+**SOAP Note:**
+
+**Subjective:**
+The patient, a 5-year-old boy named Dave, presents with worsening asthma symptoms over the past few days. His mother reports persistent wheezing, difficulty falling asleep, irritability, decreased appetite, shortness of breath, and a cough that started approximately two days ago. She notes that his symptoms have not improved with the use of his usual inhalers.
+
+**Objective:**
+- No reported sputum production, blood in cough, sore throat, painful ears, chest pain, abdominal pain, nausea, vomiting, urinary problems, diarrhea, constipation, skin changes, rashes, muscle aches, or joint pains.
+- No eye redness, discharge from eyes or nose.
+- No recent exposure to sick individuals or travel history.
+- Family history includes the mother having high blood pressure, but no other significant medical conditions.
+
+**Assessment:**
+1. Asthma exacerbation: Given the history of asthma, the presence of wheezing, shortness of breath, and cough, along with a known trigger of cold air, an asthma exacerbation is likely.
+2. Respiratory infection: Differential diagnosis includes a possible respiratory infection contributing to the symptoms.
+
+**Plan:**
+1. Initiate treatment with inhaler medications, including Ventolin, and potentially add steroids if necessary.
+2. Consider the need for antibiotics if signs of a bacterial infection are present.
+3. Educate the mother on proper inhaler use and consider obtaining a spacer.
+4. Monitor Dave's symptoms closely for any worsening, especially increased wheezing or respiratory distress.
+5. Follow up with a physical exam to assess his vital signs and response to treatment.
+6. Advise the mother to seek medical attention promptly if Dave's breathing worsens or if there is no improvement in his symptoms.

@@ -1,0 +1,27 @@
+**List of symptoms:**
+- Cough that comes on at night or after exertion
+- Difficulty catching breath
+- Wheezing
+- Shortness of breath
+- Dry cough
+- Symptoms worsen after exertion
+- Occasional cough at night
+- No sputum or blood brought up
+- Symptoms come and go
+- No fevers, chills, sore throat, chest pain
+- No loss of taste or smell
+- No headaches, nausea, vomiting
+- No fevers, chills, night sweats
+- No changes in bowel movements
+- No changes in sleep or appetite
+- Allergic symptoms (runny nose, itchy eyes) at different times throughout the year
+
+**Possible diseases or illnesses:**
+- Asthma
+- Allergies
+
+**SOAP Note:**
+- **Subjective:** Patient presents with a persistent dry cough that worsens at night or after exertion, accompanied by difficulty catching breath, wheezing, and shortness of breath. Symptoms have been ongoing for several months and seem to be exacerbated by environmental factors. Patient also experiences occasional cough at night and allergic symptoms throughout the year.
+- **Objective:** No signs of fever, chills, sore throat, chest pain, sputum, blood, loss of taste or smell, headaches, nausea, vomiting, night sweats, changes in bowel movements, sleep, or appetite. Patient has a history of jaundice at birth but no other significant medical conditions or surgeries.
+- **Assessment:** Differential diagnosis includes asthma and allergies given the pattern of symptoms and environmental triggers. Further evaluation with a pulmonary function test is recommended to confirm asthma diagnosis. Allergy testing may also be considered to address allergic symptoms.
+- **Plan:** Order a pulmonary function test to assess for asthma. Consider allergy testing to evaluate and manage allergic symptoms. Perform a COVID-19 test as a precaution. Conduct a full physical examination and follow-up with appropriate treatment based on test results.

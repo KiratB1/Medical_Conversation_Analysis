@@ -1,0 +1,37 @@
+**List of symptoms:**
+- Coughing up blood
+- Weight loss
+- Chills
+- Night sweats
+- Fatigue
+
+**List of possible diseases or illnesses:**
+- Tuberculosis (TB)
+- Lung infection
+- Lung cancer
+
+**SOAP Note:**
+
+**Subjective:**
+The patient presents with a chief complaint of coughing up blood that started a week and a half ago. The cough initially started as a normal cough and has not improved, accompanied by weight loss, chills, night sweats, and fatigue. The patient reports recent immigration from India, living in close quarters with a large family, and potential exposure to individuals with tuberculosis.
+
+**Objective:**
+- Patient weighs 110 pounds, indicating significant weight loss.
+- Denies chest pain, racing heart, headaches, nausea, vomiting, changes in bowel movements, sleep or appetite issues, exposure to fumes, dust, animals, or pets.
+- No significant medical history, allergies, loss of taste or smell, current medications, hospitalizations, surgeries, or family history of heart or lung conditions.
+- Non-smoker, non-drinker, no recreational drug use.
+
+**Assessment:**
+Based on the patient's symptoms of coughing up blood, weight loss, chills, night sweats, and recent immigration from a region where tuberculosis is endemic, the differential diagnosis includes:
+- Tuberculosis (TB)
+- Lung infection
+- Lung cancer
+
+**Plan:**
+1. Isolate the patient in a hospital room for further evaluation and testing.
+2. Conduct sputum smears and cultures to test for TB.
+3. Perform a chest X-ray to assess for active TB.
+4. Initiate antibiotic therapy if TB is confirmed.
+5. Contact public health authorities and notify contacts if TB diagnosis is positive.
+6. Monitor the patient closely and provide supportive care.
+7. Follow up with test results and treatment recommendations.

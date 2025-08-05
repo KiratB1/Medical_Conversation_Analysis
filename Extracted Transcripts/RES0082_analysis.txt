@@ -1,0 +1,32 @@
+**List of symptoms:**
+- Nasal congestion
+- Sneezing
+- Sore throat
+- Mild headache with squeezing sensation
+- Watery nasal discharge
+- Pressure on the front of the face when bending over
+
+**List of possible diseases or illnesses:**
+- Common cold (viral)
+- Allergic rhinitis
+- Sinusitis
+- Tension headache
+
+**SOAP note:**
+
+**Subjective:**
+The patient presents with symptoms of nasal congestion, sneezing, sore throat, mild headache with squeezing sensation, watery nasal discharge, and pressure on the front of the face. Symptoms have been worsening over the past two days. Patient denies fever, cough, difficulty swallowing, cough, ear pain, chest pain, urinary symptoms, and recent travel history. Patient reports allergies to cats and seasonal environmental allergies.
+
+**Objective:**
+- Patient appears well-nourished and in no acute distress.
+- Vital signs: Within normal limits.
+- Physical examination reveals mild erythema of the throat with no exudates, clear nasal discharge, no lymphadenopathy, and no signs of respiratory distress.
+
+**Assessment:**
+1. Viral upper respiratory infection (common cold) with possible allergic rhinitis contributing to symptoms.
+2. Tension headache secondary to congestion and sinus pressure.
+
+**Plan:**
+1. Recommend symptomatic relief measures such as rest, hydration, and over-the-counter antihistamines for possible allergic component.
+2. Advise the patient to continue monitoring symptoms and consider a COVID-19 swab test if symptoms persist or worsen.
+3. Follow up with the patient in a few days to assess symptom progression and consider further evaluation if needed.

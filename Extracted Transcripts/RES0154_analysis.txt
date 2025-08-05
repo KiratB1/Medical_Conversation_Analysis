@@ -1,0 +1,34 @@
+**List of symptoms:**
+- Shortness of breath
+- Cough producing greenish yellowish material
+- Fever
+- Chills
+- Night sweats
+- Straining and discomfort when taking deep breaths
+- Fatigue
+
+**List of possible diseases or illnesses:**
+- Pneumonia (bacterial or viral)
+- Covid-19
+
+**SOAP Note:**
+
+**Subjective:**
+The patient presents with a chief complaint of feeling shortness of breath over the last few days, accompanied by a cough producing greenish yellowish material. The cough started four days ago, and shortness of breath began just yesterday. The patient reports a fever of 38.5°C, chills, night sweats, and fatigue. There is also discomfort and straining experienced when taking deep breaths.
+
+**Objective:**
+- No wheezing or chest pain reported
+- No blood in sputum
+- No history of recent travel or exposure to sick individuals
+- Patient lives alone in an apartment but recently interacted with grandchildren
+- Medical history includes high blood pressure, high cholesterol, previous C-section, and gallbladder removal
+- Family history of heart conditions, diabetes, and osteoarthritis
+
+**Assessment:**
+Based on the patient's symptoms and history, the differential diagnosis includes pneumonia (bacterial or viral) and Covid-19. Further investigations such as a chest X-ray and Covid-19 swab are recommended to confirm the diagnosis.
+
+**Plan:**
+1. Conduct investigations: chest X-ray and Covid-19 swab
+2. Initiate appropriate treatment based on the diagnosis (antibiotics for pneumonia if indicated)
+3. Monitor symptoms closely and provide supportive care for fever and discomfort
+4. Follow up with the patient for results and further management.

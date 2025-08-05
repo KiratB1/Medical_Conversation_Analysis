@@ -1,0 +1,32 @@
+**List of symptoms:**
+- Muscle pains all throughout the body
+- Feeling chilly
+- Cough
+- General weakness
+- Loss of taste
+
+**List of possible diseases or illnesses:**
+- Viral infection (including Covid-19)
+- Influenza
+- Common cold
+- Muscle strain or myalgia
+
+**SOAP Note:**
+
+**Subjective:**
+The patient presents with a chief complaint of muscle pains throughout the body, accompanied by feeling chilly, dry cough, and general weakness. The symptoms started almost four days ago, with the cough beginning three days ago. The patient also reports a loss of taste today. No significant changes in bowel movements, appetite, weight, or other systemic symptoms noted.
+
+**Objective:**
+- No joint pains, numbness, tingling, chest pain, shortness of breath, wheeziness, fevers, or sputum production reported.
+- No significant findings on physical examination related to the symptoms mentioned.
+
+**Assessment:**
+1. Viral infection, including possible Covid-19, given the constellation of symptoms such as muscle pains, dry cough, feeling chilly, and loss of taste.
+2. Differential diagnosis includes influenza, common cold, or muscle strain.
+
+**Plan:**
+1. Conduct a Covid swab to rule out Covid-19 infection.
+2. Advise the patient to isolate for two weeks and monitor symptoms.
+3. Recommend symptomatic management with hydration, adequate rest, and nutritious diet.
+4. Educate the patient on red flags to watch for, such as severe symptoms or neurological manifestations, prompting immediate ER evaluation.
+5. Follow up in 24 to 48 hours for Covid test results and further management guidance.

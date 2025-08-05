@@ -1,0 +1,40 @@
+**List of symptoms:**
+- Cough for the past four days, worsening
+- Diarrhea for the past two days
+- Harsh dry cough
+- Cough occurring at least every hour
+- Shortness of breath after coughing
+- Dizziness
+- Loss of taste and smell
+- Abdominal pain
+- Nausea
+- Muscle aches
+- Fatigue
+
+**List of possible diseases or illnesses:**
+- Acute respiratory infection
+- Gastroenteritis
+- Viral infection
+- COVID-19 (considering loss of taste and smell, cough, and diarrhea)
+
+**SOAP Note:**
+
+**Subjective:**
+The patient presents with a cough that started four days ago, worsening over time, along with diarrhea that began two days ago. The cough is described as harsh and dry, occurring at least every hour. The patient reports shortness of breath after coughing, dizziness, loss of taste and smell, abdominal pain, nausea, muscle aches, and fatigue. No significant weight loss, fevers, chills, or blood in stool noted. The patient also mentioned recent fatigue and cough symptoms in their wife.
+
+**Objective:**
+- Vital signs: Not mentioned.
+- Physical examination findings: Not provided.
+
+**Assessment:**
+1. Acute respiratory infection with worsening cough and shortness of breath.
+2. Gastroenteritis with diarrhea and abdominal pain.
+3. Loss of taste and smell, suggestive of a possible viral infection like COVID-19.
+4. Dizziness and fatigue may be related to the underlying illness.
+
+**Plan:**
+1. Conduct a COVID-19 swab test to rule out infection, isolate for 14 days.
+2. Provide symptomatic relief for cough and diarrhea.
+3. Monitor for any worsening symptoms and follow up in 24-48 hours with test results.
+4. Advise on hydration and rest.
+5. Consider further investigations or referrals based on test results and clinical progression.

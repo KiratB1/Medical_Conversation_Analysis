@@ -1,0 +1,34 @@
+**List of symptoms:**
+- Nonstop coughing for the past three days
+- Feeling very short of breath
+- Yellow sputum
+- Wheezing
+
+**List of possible diseases or illnesses:**
+- Chronic Obstructive Pulmonary Disease (COPD) exacerbation
+- Respiratory tract infection
+- COVID-19 (considering overlap of symptoms)
+
+**SOAP Note:**
+
+**Subjective:**
+The patient presents with a three-day history of nonstop coughing, shortness of breath, and yellow sputum production. The cough has been worsening over the past few days, with associated wheezing. The patient reports a history of COPD diagnosed five years ago and a similar episode of respiratory symptoms in the past.
+
+**Objective:**
+- Patient is alert and oriented.
+- No signs of distress observed.
+- Vital signs stable.
+- Patient reports no recent weight changes, fevers, chills, night sweats, chest pain, lightheadedness, or other systemic symptoms.
+
+**Assessment:**
+1. Likely COPD exacerbation given the patient's history of COPD, worsening cough, yellow sputum, and wheezing.
+2. Differential diagnosis includes respiratory tract infection and possible COVID-19 due to overlapping symptoms.
+
+**Plan:**
+1. Obtain chest x-ray to evaluate lung status.
+2. Perform lab work to aid in diagnosis.
+3. Initiate inhalers to help open airways and improve breathing.
+4. Prescribe antibiotics and steroids if COPD exacerbation is confirmed.
+5. Conduct a COVID-19 nasal swab test to rule out infection.
+6. Monitor oxygen levels and consider supplemental oxygen if necessary.
+7. Advise the patient to follow up for further evaluation and management.

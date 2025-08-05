@@ -1,0 +1,36 @@
+**List of symptoms:**
+- Severe cough
+- Wheezing
+- Shortness of breath
+- Dry cough
+- Improvement in shortness of breath after stopping physical activity
+
+**List of possible diseases or illnesses:**
+- Asthma
+- Allergic reaction
+- Respiratory infection
+- COVID-19 (ruled out with testing)
+
+**SOAP Note:**
+
+**Subjective:**
+A 6-year-old male patient presented with a severe dry cough that developed during soccer practice, accompanied by wheezing and shortness of breath, which improved after physical activity cessation. The patient has a history of seasonal allergies and possible eczema. No fever, blood in cough, chest pain, or other concerning symptoms reported by the parent. The patient's sister has a history of asthma.
+
+**Objective:**
+- No fever noted
+- Wheezing present on auscultation
+- No signs of respiratory distress
+- No abnormal findings on physical examination
+
+**Assessment:**
+1. Suspected asthma exacerbation based on symptoms and family history.
+2. Rule out COVID-19 with testing due to overlapping symptoms.
+3. Possible allergic reaction contributing to respiratory symptoms.
+
+**Plan:**
+1. Perform a pulmonary function test to assess lung function.
+2. Measure oxygen saturation levels.
+3. Conduct basic blood work.
+4. Prescribe bronchodilators (short-acting beta agonist and inhaled corticosteroid) for asthma management.
+5. COVID-19 testing with a swab sample.
+6. Follow up in 24 to 48 hours for COVID-19 results and adjust treatment plan accordingly.

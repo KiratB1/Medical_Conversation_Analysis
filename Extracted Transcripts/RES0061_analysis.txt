@@ -1,0 +1,40 @@
+**List of symptoms:**
+- Inability to keep food down
+- Nausea
+- Vomiting
+- Fever
+- Fatigue
+- Headache
+- Loss of appetite
+- Changes in taste and smell
+- Red eyes
+- Muscle aches
+
+**List of possible diseases or illnesses:**
+- Gastrointestinal viral infection
+- COVID-19
+- Bacterial infection
+
+**SOAP Note:**
+
+**S:**
+The patient has been experiencing symptoms of nausea, vomiting, fever, fatigue, headache, loss of appetite, changes in taste and smell, red eyes, and muscle aches for the past five days. The patient reports vomiting yellowish, clear fluid and feeling hot. No abdominal pain, changes in bowel movements, cough with blood, shortness of breath, wheezing, confusion, rash, night sweats, weight loss, or coughing up blood. The patient has a history of high blood pressure, high cholesterol, takes statin and Amlodipine, vitamin D, and a multivitamin. No recent weight loss or night sweats reported. The patient had a colonoscopy a few years ago, with no recent hospitalizations or surgeries. Family history includes asthma in the son and colon cancer in the father.
+
+**O:**
+- Vomiting mostly fluid, no blood
+- Fever reported
+- Fatigue and headache present
+- Loss of appetite and changes in taste and smell
+- Red eyes with no pain
+- Muscle aches in upper arms and legs
+
+**A:**
+1. Gastrointestinal viral infection
+2. COVID-19
+3. Bacterial infection (consider if viral tests are negative)
+
+**P:**
+1. Perform a swab test for COVID-19 and await results.
+2. Advise the patient to isolate for two weeks to prevent potential spread of illness.
+3. If viral tests are negative, consider bacterial infection and prescribe antibiotics if needed.
+4. Follow up with the patient after test results to determine the appropriate treatment plan.

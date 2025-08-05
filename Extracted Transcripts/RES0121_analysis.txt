@@ -1,0 +1,30 @@
+**List of symptoms:**
+- Dry cough for the past four days
+- Runny nose and stuffy nose a week back
+- Coughing a lot more than usual
+- No other symptoms reported
+
+**List of possible diseases or illnesses:**
+- Acute bronchitis
+- Upper respiratory viral or bacterial infection
+- Pneumonia (less likely due to absence of other symptoms)
+- COVID-19 (considered due to current pandemic situation)
+
+**SOAP note:**
+
+**Subjective:**
+The patient presents with a dry cough persisting for the past four days. He reports a history of a runny nose and stuffy nose a week back. The cough has been bothersome and not relieved by over-the-counter cough suppressants. No other symptoms such as fever, sore throat, headache, muscle aches, shortness of breath, chest pain, gastrointestinal issues, changes in weight, or fatigue reported. The patient denies recent travel, exposure to sick individuals, or significant medical history.
+
+**Objective:**
+Physical examination findings not available.
+
+**Assessment:**
+1. Acute bronchitis likely given the persistent dry cough and absence of other significant symptoms.
+2. Differential diagnosis includes upper respiratory viral or bacterial infection.
+3. COVID-19 considered due to the current pandemic situation, prompting the need for testing.
+
+**Plan:**
+1. COVID swab test to be conducted to rule out COVID-19 infection.
+2. Advise the patient to isolate for 14 days since the onset of cough and follow public health instructions.
+3. Monitor for any worsening of symptoms, especially for signs of pneumonia.
+4. Follow-up appointment scheduled for test results and further evaluation if needed.

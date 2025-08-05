@@ -1,0 +1,32 @@
+**List of symptoms:**
+- Loss of sense of smell
+- Loss of sense of taste
+- Mild dry cough
+
+**List of possible diseases or illnesses:**
+- COVID-19
+- Upper respiratory tract infection
+- Common cold
+
+**SOAP Note:**
+
+**Subjective:**
+The patient presents with a two-day history of loss of sense of smell and taste, along with a mild dry cough. Patient expresses concerns about the possibility of having COVID-19.
+
+**Objective:**
+- Patient reports that smell is not completely gone, can still smell strong odors, and can taste salty foods but not normal flavors like banana.
+- Dry cough has been consistent over the last couple of days.
+- Denies fevers, difficulty breathing, headaches, sore throat, chills, night sweats, muscle aches, general weakness, chest pain, chronic conditions, allergies, and family history of respiratory problems, cancers, or heart problems.
+- Patient is a high school student in their last year, living with parents and younger sibling, with no recent travel history except for hiking locally.
+
+**Assessment:**
+1. Differential diagnosis includes:
+   - COVID-19: Loss of taste and smell, dry cough are common symptoms.
+   - Upper respiratory tract infection: Presents with similar symptoms.
+   - Common cold: Could explain the mild dry cough.
+
+**Plan:**
+1. Conduct a COVID-19 test with a swab to confirm or rule out infection.
+2. Advise self-isolation until test results are back and potentially longer if symptoms persist.
+3. Consider additional tests based on the results and further evaluation by the doctor.
+4. Follow up with patient for test results and further management.

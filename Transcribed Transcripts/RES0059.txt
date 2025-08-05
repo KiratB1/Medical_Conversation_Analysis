@@ -1,0 +1,111 @@
+D: How are you doing?
+P: Not too great. I've had this cough the last few days.
+D: Okay. How old are you?
+P: I'm 36.
+D: Okay, so for the past couple of days, you said. So is that two days? Three days, I think.
+P: Three.
+D: Three days. Okay. And is it a dry cough or are you bringing up anything?
+P: It's dry.
+D: Dry. Okay, so no sputum, no blood?
+P: No blood.
+D: Okay. And do you feel wheezy at all?
+P: No. No wheezing?
+D: No. Any shortness of breath?
+P: I ran to catch the bus yesterday and I was a bit more short of breath than I would usually be.
+D: Okay. And have you had a fever?
+P: I felt hot, yes.
+D: Okay. Did you actually take your temperature or do you just feel hot?
+P: I just feel hot.
+D: Okay, so we can take your temperature today. Any. Okay. Any chest pain?
+P: No chest pain?
+D: No. Okay. And any throat pain?
+P: Yeah, my throat's been a little sore, but I thought it was maybe just because I was coughing so much.
+D: Okay. Okay. And any issues swallowing food?
+P: No, no problems, just swallowing food.
+D: Okay. Any changes in your smell?
+P: Now that you mention it, yeah. I thought I was maybe just plugged up, but I haven't really been able to smell these last few days.
+D: Okay, and how about hearing? Any changes in your hearing?
+P: No changes there.
+D: Okay. Any ear pain?
+P: No ear pain?
+D: No. Okay. Any changes in your vision?
+P: I got glasses last year, but nothing recently.
+D: Okay. Any eye pain or discharge from the eyes?
+P: No.
+D: No. Okay. Okay. And have you had any night sweats or chills?
+P: Nothing like that.
+D: Any weight loss?
+P: No weight loss?
+D: No. Okay. And then how about changes in your bowel movements?
+P: No, everything's been regular there.
+D: Okay. No diarrhea, no constipation, no blood in your stool.
+P: No diarrhea, no constipation, and I haven't noticed any blood.
+D: Okay. Any changes in your urine?
+P: No.
+D: No. Okay. How about muscle aches or pains?
+P: I felt pretty well. Yeah, I guess achy and weak as well.
+D: Okay. And did that start around the same time that you experience your cough and possible fever?
+P: Yeah, I would say it started around the same time.
+D: Okay. Any dizziness?
+P: No, no.
+D: Any confusion or memory loss?
+P: No.
+D: Okay. Any fainting spells?
+P: No, no.
+D: Okay. Any rashes?
+P: I haven't noticed any rashes.
+D: Okay, so your cough and just general, in general, how you feel? Does it get better or worse with anything? Have you tried, you know, Tylenol and any antipyretics?
+P: Yeah, I tried some, like day and nighttime Tylenol. It helped me sleep. But still when I woke up in the morning, still not feeling very good. And the Cough is still here too.
+D: Okay. Yeah. Have you ever experienced anything like this before?
+P: Maybe as a kid? I mean, I remember getting the flu. Right. I had a cough and that sort of thing, but I haven't been sick for several years now.
+D: Okay. And then since you started having this cough to now, has anything changed? Are you feeling worse or do you feel kind of the same as when it started?
+P: I would say I feel a bit worse.
+D: A bit worse. Okay. And has anyone around you been sick recently?
+P: Not that I know of. Yeah, everybody in the house has been. Okay.
+D: Okay. Have you traveled anywhere recently?
+P: Yeah, I was visiting some cousins up north several weeks ago, but that was just traveling within the province.
+D: Okay. And they're okay? No one's sick?
+P: I haven't heard of anybody being sick.
+D: Okay. Okay. And are you otherwise healthy? Do you have any medical conditions?
+P: I've been told I had high cholesterol before, but I don't take any medications for it. I've been just trying to lose some weight and exercise more.
+D: Sure. Okay. No surgeries or hospitalizations in the past?
+P: No.
+D: Okay. And no other medications?
+P: No, I just take a multivitamin.
+D: Okay. And no other over the counter medications or herbal stuff?
+P: No, I'll use Tylenol or ibuprofen or Advil, I guess, if I get the occasional headache, but. And I guess some like reactant or Claritin for the seasonal allergies, but that's about it.
+D: Okay, and so you said seasonal allergies. Any other allergies?
+P: No, just usually like in the springtime.
+D: Okay. And are you up to date with all your immunizations?
+P: I am, yeah. I get the flu shot every year.
+D: Okay, good. And in terms of family history, do any of your family members have lung conditions or heart conditions?
+P: My mom has high blood pressure, but nobody's had a heart attack or no lung conditions either.
+D: Okay. Any cancers that run in the family?
+P: No, I can't think of any.
+D: Okay. And then do you smoke?
+P: I smoke cannabis every once in a while.
+D: Okay. How much do you smoke?
+P: I would say maybe a joint on the weekends.
+D: Did you say a joint on the weekends? Okay, so.
+P: Yeah.
+D: Is that like 1 milligram?
+P: Yeah, I would say something about. About that, yeah. It's not much, but.
+D: Okay.
+P: But no cigarettes though.
+D: Okay. Any other recreational drugs?
+P: Nope.
+D: Okay. And do you drink alcohol?
+P: I do, yeah. I'll have like two or three beers on the weekend.
+D: Sure. And where do you live?
+P: Just like 20 minutes down the road in a house. Here?
+D: Sure. Is it an apartment complex or is it like a full House?
+P: Yeah, it's a single family home. I live there with my wife and three kids.
+D: Okay, any. Any concerns with your living arrangements? You know, like old carpets or anything like that?
+P: Actually, last year we had most of the carpets taken out, so not anymore.
+D: Okay, good, good. Did you have any other questions or concerns, anything that you wanted to bring up that I didn't touch on today?
+P: Yeah, I was just really worried that this could be Covid. I mean, I have a cough and just have been feeling really hot, and so I was just concerned about that.
+D: Yeah, for sure. And I think that's a valid concern. So right now I'm just going through a list of differential diagnoses that you could possibly have. And Covid's definitely top on my list. So we will likely get a swab and run those tests and try to get that back to you as soon as we can. It could also be other respiratory infections, especially viral infections this time of the year. So if it comes back negative for Covid, it's probably, you know, something else like adenovirus or even the flu. So we'll go from there. And if it turns out it's not a viral infection, we will likely see if it's some sort of bacterial infection in which we can prescribe antibiotics for those. But it definitely sounds like there's an infectious picture going on here because of the acuteness of the presentation and just your symptoms. So we'll do a follow up in a week or so. Until then, we'll run all these labs. Does that sound good?
+P: Yeah, that sounds good. So I guess I will kind of self isolate until the COVID results come back.
+D: Oh, yes, please, please do so. That's a great point. Yeah. So at least we do suggest isolating for two weeks if you have any surgery of symptoms. Because even though the, you know, the PCR stuff that we do to test for Covid is supposed to be reliable and it's supposed to be specific and sensitive, there are sometimes false negative tests and, you know, so just to be on the safe side, if you're experiencing any of the symptoms that overlap with COVID symptoms, isolate for two weeks. But by the end of the week, we should know what the test results are, and then you will know for sure what you have.
+P: Okay, awesome. Thank you.
+D: Yeah, thank you.

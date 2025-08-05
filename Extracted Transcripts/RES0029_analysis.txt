@@ -1,0 +1,39 @@
+**List of symptoms:**
+- Pain in the left side of the chest
+- Pain described as stabbing
+- Difficulty breathing deeply
+- Feeling of not being able to catch breath
+- Heart racing more than usual in the last hour
+
+**List of possible diseases or illnesses:**
+- Chest injury/trauma
+- Rib fracture
+- Pneumothorax
+- Pulmonary contusion
+- Cardiac-related issues (such as myocardial infarction or angina)
+
+**SOAP Note:**
+
+**Subjective:**
+The patient presents with chest pain on the left side that started approximately 2 hours ago after falling off a bicycle. The pain is described as stabbing and worsens with deep breathing. The patient also reports difficulty catching breath and feeling like the heart is racing more than usual.
+
+**Objective:**
+- No loss of consciousness or head injuries reported
+- No fever, chills, nausea, vomiting, cough, recent infections, dizziness, weakness, numbness, or tingling noted
+- Skin changes limited to minor scrapes on the hands
+- No recent alcohol or drug intake, except for occasional alcohol consumption
+- Patient smokes 2.5 to 3 packs of cigarettes per day, has a history of hay fever and allergies to nasal sprays and antihistamines
+- Family history of type 2 diabetes in the father
+- Occupation as a mechanic, living alone in an apartment
+
+**Assessment:**
+1. The patient likely experienced chest trauma due to the fall from the bicycle, leading to chest pain and potential rib fracture.
+2. Considering the stabbing pain and worsening with deep breathing, pulmonary issues like pneumothorax or pulmonary contusion cannot be ruled out.
+3. Cardiac-related conditions such as myocardial infarction or angina should also be considered due to the location and nature of the pain.
+
+**Plan:**
+1. Immediate evaluation for chest trauma, including imaging studies like chest X-ray to assess for rib fractures or lung injuries.
+2. Monitor vital signs, oxygen saturation, and cardiac rhythm closely.
+3. Consider cardiac enzymes and ECG to rule out myocardial infarction.
+4. Pain management and breathing assistance as needed.
+5. Smoking cessation counseling and referral for further evaluation of respiratory symptoms and cardiac risk factors.

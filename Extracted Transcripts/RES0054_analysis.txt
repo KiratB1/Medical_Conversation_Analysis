@@ -1,0 +1,42 @@
+**List of symptoms:**
+- Shortness of breath on exertion
+- Nasty cough with yellow/brown phlegm
+- Wheeziness
+- Chest pain (not at rest, across chest)
+- Sore throat
+- Headaches (associated with stress)
+- Decreased sense of smell and taste
+- Knee pain
+- High blood pressure
+- High cholesterol
+- Smoking history (half pack/day for 2 years, previous pack/day or more)
+- Alcohol consumption (20 beers on weekends)
+- Sedentary lifestyle due to COVID-19 restrictions
+
+**List of possible diseases or illnesses:**
+- Chronic obstructive pulmonary disease (COPD) due to smoking history
+- Cardiovascular issues (heart disease, heart attack) based on family history
+- Respiratory infection or bronchitis
+- Stress-related headaches
+
+**SOAP Note:**
+**Subjective:**
+The patient presents with concerns of increasing shortness of breath on exertion over the last couple of months, accompanied by a cough producing yellow/brown phlegm, wheeziness, and chest pain across the chest. He reports a history of decreased sense of smell and taste for the past 10 years, headaches associated with stress, knee pain, high blood pressure, and high cholesterol. The patient has a significant smoking history of a pack/day previously, currently half pack/day for 2 years, and alcohol consumption of 20 beers on weekends. He notes a sedentary lifestyle due to COVID-19 restrictions.
+
+**Objective:**
+- Vital signs: Blood pressure within normal range, heart rate within normal limits
+- Physical examination: Chest auscultation reveals wheezing, no signs of respiratory distress, no edema in extremities, no cyanosis
+- Chest X-ray ordered for further evaluation
+
+**Assessment:**
+1. Chronic obstructive pulmonary disease (COPD) likely due to smoking history
+2. Rule out cardiovascular issues based on family history and presenting symptoms
+3. Respiratory infection or bronchitis as a differential diagnosis
+
+**Plan:**
+1. Order pulmonary function test and chest X-ray to assess lung function and rule out other lung conditions.
+2. Initiate treatment with short or long-acting beta-agonist inhaler for possible COPD.
+3. Monitor blood pressure and cholesterol levels, consider adjustments to medications if needed.
+4. Advise smoking cessation and reduction of alcohol consumption for overall health improvement.
+5. Encourage regular physical activity within COVID-19 safety guidelines to improve lung function.
+6. Follow-up appointment scheduled for further evaluation and management.

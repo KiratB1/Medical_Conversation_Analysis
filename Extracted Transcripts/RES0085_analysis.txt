@@ -1,0 +1,47 @@
+**List of symptoms:**
+- Grunting noises
+- High fever (38.7°C)
+- Irritability
+- Coughing
+- Spit ups (clear and whitish)
+- Decreased feeding
+- Normal wet diapers (3-4 per day)
+- No changes in bowel movements or urine
+- No vomiting
+- No rashes
+- Premature birth at 36 weeks
+
+**List of possible diseases or illnesses:**
+- Bronchiolitis
+- Pneumonia
+- COVID-19
+
+**SOAP Note:**
+
+**Subjective:**
+A 1-year-old male infant presents with a one-day history of grunting noises, high fever (38.7°C), irritability, coughing, spit ups, decreased feeding, and normal wet diapers. No vomiting, rashes, or changes in bowel movements noted. The patient was born premature at 36 weeks.
+
+**Objective:**
+- Temperature: 38.7°C
+- No wheezing or swelling noted
+- No runny or stuffy nose
+- Breastfed infant with decreased feeding
+- Normal wet diapers (3-4 per day)
+- No vomiting or rashes
+- No history of seizures or fainting spells
+- Premature birth at 36 weeks with no complications post-birth
+
+**Assessment:**
+1. Differential diagnosis:
+   - Bronchiolitis
+   - Pneumonia
+   - COVID-19
+
+2. Plan:
+   - Obtain temperature, O2 saturation, and imaging to differentiate between bronchiolitis and pneumonia.
+   - Supportive treatment for bronchiolitis, including hospitalization for hydration and oxygen therapy if needed.
+   - Antibiotics if diagnosed with pneumonia.
+   - COVID-19 swab to rule out infection.
+   - Hospitalization recommended for distress, oxygen requirement, and IV hydration.
+
+Follow-up: Await diagnostic results and adjust treatment plan accordingly.

@@ -1,0 +1,42 @@
+**List of symptoms:**
+- Coughing fits, especially during exercise
+- Dry cough with occasional light material
+- Chest tightness
+- Shortness of breath during coughing
+- Increased heart rate during episodes
+- Episodes last 15-20 minutes, leading to stopping activities
+- No other respiratory symptoms like sore throat, runny/stuffy nose, itchy eyes
+- No blood in cough
+- No pain in belly, nausea, vomiting
+- No changes in bowel movements or urinary symptoms
+- No headaches, fevers, chills
+- No unintentional weight loss, night sweats, muscle aches, joint pain
+
+**Possible diseases or illnesses:**
+- Exercise-induced bronchoconstriction (EIB)
+- Asthma
+- Allergic reaction
+- Respiratory infection
+- Environmental irritant exposure
+
+**SOAP Note:**
+
+**Subjective:**
+The patient presents with a history of coughing fits, particularly exacerbated during exercise for the past three months. The cough is primarily dry with occasional light material expectoration. Chest tightness, shortness of breath, and increased heart rate are noted during episodes, lasting 15-20 minutes. No other respiratory symptoms reported. No significant medical history or recent travel or sick contacts. Patient expresses a desire to address symptoms hindering physical activity.
+
+**Objective:**
+- Vital signs stable
+- No signs of distress
+- Lungs clear on auscultation
+- No visible signs of respiratory distress
+
+**Assessment:**
+1. Exercise-induced bronchoconstriction (EIB)
+2. Rule out asthma
+3. Allergic reaction or environmental irritant exposure
+
+**Plan:**
+1. Recommend pulmonary function tests to evaluate for EIB and asthma.
+2. Consider allergy testing to assess for environmental triggers.
+3. Trial of bronchodilator inhaler for symptom relief during exercise.
+4. Follow-up appointment for review of test results and treatment adjustments.

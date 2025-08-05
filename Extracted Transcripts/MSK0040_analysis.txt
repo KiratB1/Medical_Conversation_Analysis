@@ -1,0 +1,33 @@
+**List of symptoms:**
+- Ankle pain
+- Swelling
+- Bruising
+- Inability to bear weight
+- Sharp pain at lateral malleolus area
+- Limited dorsiflexion
+- Painful planter flexion
+- Limping
+
+**List of possible diseases or illnesses:**
+- Ankle fracture
+- Ankle sprain
+
+**SOAP Note:**
+
+**Subjective:**
+The patient presents with a chief complaint of right ankle pain following a rugby injury where the foot turned inwards during a tackle motion. The pain is sharp, localized to the lateral malleolus area, and rated at 7-8 out of 10. The pain worsens with weight-bearing and is temporarily relieved by ibuprofen and ice. The patient denies any previous ankle injuries or similar pain.
+
+**Objective:**
+- Swelling and bruising observed on the right ankle, with a 4 cm wide bruise and slight warmth noted.
+- Pin-point tenderness at the lateral malleolus.
+- Limited dorsiflexion and painful planter flexion.
+- Limping gait with an antalgic pattern and inability to bear weight on the affected ankle.
+
+**Assessment:**
+Based on the patient's history and physical examination findings, differential diagnoses include an ankle fracture or ankle sprain. Given the pin-point tenderness and inability to bear weight, an X-Ray is recommended to rule out a fracture.
+
+**Plan:**
+1. Order X-Ray of the right ankle to assess for any fractures.
+2. Prescribe pain management as needed.
+3. If a fracture is confirmed, consider immobilization with an air boot or casting for bone healing.
+4. Follow up with the patient for X-Ray results and further management.

@@ -1,0 +1,36 @@
+**List of symptoms:**
+- Dry cough
+- Fever
+- Headache
+- Fatigue
+- Sore throat
+- Altered sense of smell
+
+**List of possible diseases or illnesses:**
+- Viral or bacterial infection
+- COVID-19 (suggested by doctor)
+- Common cold or flu
+
+**SOAP Note:**
+
+**Subjective:**
+The patient presents with a sudden onset of dry cough two days ago, accompanied by fever, headache, fatigue, sore throat, and an altered sense of smell. The cough initially worsened but has remained consistent. The headache is described as a squeezing sensation around the head, rated at a pain level of 5. The patient reports taking over-the-counter cold medication and Tylenol for symptom relief. There is a history of exposure to potentially ill individuals at a recent family gathering.
+
+**Objective:**
+- Temperature recorded just over 38 degrees Celsius (38.1-38.2°C)
+- No reported difficulties breathing, swallowing, or chest pain
+- No rashes, changes in nails, dizziness, fainting, chest pain, belly pain, diarrhea, or urinary symptoms
+- No recent travel outside the province
+- No current smoking or significant alcohol consumption
+- Altered sense of smell reported, but taste remains unaffected
+
+**Assessment:**
+1. Suspected viral or bacterial infection based on symptoms of cough, fever, headache, sore throat, and fatigue.
+2. Concern for COVID-19 due to altered sense of smell, exposure history, and doctor's recommendation for COVID-19 testing.
+
+**Plan:**
+1. Recommend COVID-19 swab testing to rule out infection.
+2. Advise the patient to continue taking Tylenol, rest, and self-isolate for the next 14 days or until COVID test results are back.
+3. Instruct the patient to monitor symptoms and seek medical attention if symptoms worsen or persist.
+4. Encourage the patient to follow up with public health for guidance and to stay away from others while symptomatic.
+5. Follow-up appointment or contact public health if needed.

@@ -1,0 +1,37 @@
+**List of symptoms:**
+- Severe pain in the hand
+- Swelling and bruising in the hand
+- Sharp pain in the wrist area
+- Pain localized below the thumb area and on the wrist's right side
+- Constant pain
+- Pain worsens with movement
+- Pain severity rated 5-6 out of 10
+
+**Possible diseases or illnesses:**
+- Distal radial fracture
+- Scaphoid fracture
+
+**SOAP Note:**
+
+**S:**
+The patient, a young adult male, presented with severe pain in the hand following a skiing accident where he fell on his arm. He reported swelling and bruising in the hand, sharp pain localized below the thumb area and on the right side of the wrist. The pain is constant, worsens with movement, and has a severity rating of 5-6 out of 10.
+
+**O:**
+- Physical examination revealed slight swelling and a bruise on the right wrist compared to the left.
+- The right wrist felt warm to touch.
+- No muscle atrophy or deformity noted, but slight swelling observed.
+- Pain elicited upon palpation at the distal radius on the palm side of the wrist.
+- Full range of motion in the wrist with pain.
+- No pain in the anatomical snuffbox area.
+- The patient can flex, extend the wrist, move it side to side, and make a fist without difficulty.
+- No issues with elbow flexion and extension.
+
+**A:**
+1. Suspected distal radial fracture based on the mechanism of injury, location of pain, and physical examination findings.
+2. Scaphoid fracture cannot be ruled out entirely, although less likely due to absence of pain in that area.
+
+**P:**
+1. Order X-Ray to confirm diagnosis of distal radial fracture and assess for scaphoid fracture.
+2. Depending on X-Ray results, consider immobilization in a cast and potential surgical intervention if joint involvement is significant.
+3. Advise the patient to avoid strenuous activities and continue with pain management using ibuprofen.
+4. Follow up with the patient post X-Ray for further treatment planning.

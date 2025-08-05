@@ -1,0 +1,40 @@
+**List of symptoms:**
+- Pain in the right wrist
+- Bruising and swelling at the base of the thumb and wrist
+- Sharp pain, especially with movement
+- Pain rating of 3 at rest, 9 with movement
+- Pain localized to the wrist area
+- Difficulty bending the thumb
+- No numbness or tingling
+- Pain worsens with movement and pressing on the area
+
+**List of possible diseases or illnesses:**
+- Wrist fracture
+- Soft tissue injury
+- Sprain or strain
+
+**SOAP Note:**
+
+**S:**
+- Patient presents with pain in the right wrist following a fall onto the hand the previous night.
+- Reports bruising and swelling at the base of the thumb and wrist.
+- Describes sharp pain, especially with movement, rated 9 out of 10.
+- No numbness or tingling noted.
+- Pain worsens with movement and pressing on the area.
+- Difficulty bending the thumb.
+
+**O:**
+- Swelling and bruising observed at the base of the thumb and wrist.
+- Tenderness noted upon palpation, especially at the base of the thumb.
+- Limited range of motion in the wrist and thumb.
+- No signs of warmth or redness in the affected area.
+
+**A:**
+- Likely diagnosis of a wrist fracture based on mechanism of injury, localized pain, swelling, and tenderness.
+- Soft tissue injury or sprain/strain also possible differential diagnoses.
+
+**P:**
+- Order X-ray to confirm the presence of a fracture.
+- Prescribe pain management as needed.
+- Consider immobilization with a cast or splint based on X-ray results.
+- Advise on activity modification and follow-up for further assessment and management.

@@ -1,0 +1,41 @@
+**List of symptoms:**
+- Pain in joints of hands and feet
+- Morning stiffness lasting over 30 minutes
+- Symmetrical joint pain
+- Swelling in multiple joints
+- Warmth, redness, and swelling in affected joints
+- Difficulty making a fist
+- Decreased appetite
+- Feverish feeling
+- Joint pain worse with inactivity
+
+**List of possible diseases or illnesses:**
+- Rheumatoid arthritis
+- Autoimmune conditions
+- Hypothyroidism
+
+**SOAP Note:**
+
+**Subjective:**
+The patient presents with ongoing joint pain in the hands and feet for several months, with worsening symptoms over time. The pain is described as aching with sharp pains upon movement. Morning stiffness lasting over 30 minutes is noted, along with symmetrical joint involvement. Swelling, warmth, and redness are observed in multiple joints, with difficulty making a fist. The patient reports decreased appetite and occasional feverish feelings. Previous treatments with acetaminophen and anti-inflammatories have been ineffective.
+
+**Objective:**
+- Swelling, warmth, and redness observed in multiple joints
+- Symmetrical joint pain in hands and feet
+- Difficulty making a fist
+- Morning stiffness lasting over 30 minutes
+- Decreased appetite
+- Feverish feelings reported
+- Patient's cousin has type 1 diabetes
+- Patient has a history of hypothyroidism and high blood pressure
+- No deformities or nodules noted during physical examination
+
+**Assessment:**
+Likely diagnosis of rheumatoid arthritis given the symmetrical joint involvement, morning stiffness, and autoimmune history. Differential diagnosis includes other autoimmune conditions. Additional investigations are needed to confirm the diagnosis.
+
+**Plan:**
+1. Order blood work including CRP, ESR, CBC, rheumatoid factor, and antinuclear antibody tests.
+2. Perform X-Rays of hands and feet.
+3. Refer the patient to a rheumatologist for further evaluation and management.
+4. Monitor symptoms and response to treatment.
+5. Educate the patient on rheumatoid arthritis and the importance of follow-up care.

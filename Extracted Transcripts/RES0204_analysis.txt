@@ -1,0 +1,31 @@
+**List of symptoms:**
+- Dry cough for the past four to five days
+- Runny nose with clear discharge
+
+**List of possible diseases or illnesses:**
+- Common cold
+- Viral upper respiratory infection
+- Allergic rhinitis
+
+**SOAP Note:**
+
+**Subjective:**
+The patient presents with a dry cough persisting for the past four to five days. He also reports a runny nose with clear discharge. No associated symptoms of sore throat, chest pain, nausea, vomiting, headaches, or respiratory distress were reported. The patient denies any recent travel history or exposure to sick individuals.
+
+**Objective:**
+- Vital signs stable
+- No signs of respiratory distress
+- Clear lung and heart sounds upon auscultation
+- No fever reported during this visit
+- No significant physical exam findings
+
+**Assessment:**
+1. Acute upper respiratory symptoms including dry cough and clear runny nose, likely suggestive of a viral upper respiratory infection or common cold.
+2. Allergic rhinitis cannot be ruled out given the clear nasal discharge.
+3. Rule out COVID-19 infection with a nasal swab test.
+
+**Plan:**
+1. Order a chest X-ray to assess lung involvement.
+2. Perform a COVID-19 swab test to rule out infection.
+3. Encourage rest, hydration, and symptomatic relief measures.
+4. Follow up with the patient after test results are available for further management.

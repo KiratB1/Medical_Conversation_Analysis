@@ -1,0 +1,42 @@
+**List of symptoms:**
+- Severe headache
+- Body aches
+- Chills
+- High fever (38-39°C)
+- Fatigue
+- Taste changes
+- Stuffy nose
+- Pressure and stuffiness in the face
+
+**List of possible diseases or illnesses:**
+- Viral infection (possibly COVID-19)
+- Influenza
+- Migraine
+- Sinus infection
+
+**SOAP Note:**
+
+**Subjective:**
+The patient presents with a severe headache that started four days ago, body aches, chills, high fever ranging from 38-39°C, fatigue, taste changes, stuffy nose, and pressure in the face. The headache is described as constant, mostly located in the front of the head, and sometimes extending to the temples. The patient reports temporary relief with rest and over-the-counter medications but the headache returns once the effect wears off. There is no history of similar headaches in the past. The patient has been feeling exhausted and has not been able to work due to the symptoms.
+
+**Objective:**
+- No signs of confusion, memory loss, fainting, dizziness, neck pain, chest pain, wheezing, or swelling in the limbs.
+- No changes in hair, nails, skin, vision, or hearing.
+- No coughing, shortness of breath, or wheezing.
+- No nausea, vomiting, diarrhea, or urinary changes.
+- Patient's temperature is not recorded during the visit.
+- Patient reports feeling more stuffy in the nose and experiencing taste changes.
+- Patient has a medical history of diabetes, high blood pressure, high cholesterol, and fatty liver. He is compliant with his medications and immunizations.
+
+**Assessment:**
+1. Possible viral infection, with COVID-19 being a concern due to overlapping symptoms.
+2. Differential diagnosis includes influenza, migraine, and sinus infection.
+3. Underlying chronic conditions such as diabetes, high blood pressure, high cholesterol, and fatty liver may complicate the current presentation.
+
+**Plan:**
+1. Conduct a COVID-19 swab test to rule out infection.
+2. Advise the patient to isolate at home for 14 days due to symptom overlap with COVID-19.
+3. Monitor symptoms closely for any neurological deficits or worsening conditions.
+4. Follow up with the patient after the test results are available.
+5. Consider symptomatic management for headache, body aches, and fever.
+6. Educate the patient on the importance of rest, hydration, and self-isolation to prevent potential spread of infection.

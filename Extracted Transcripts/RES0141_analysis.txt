@@ -1,0 +1,33 @@
+**List of symptoms:**
+- Headache in the front of the forehead and temple
+- Feeling cold
+- Fever (38.7 degrees celsius)
+- Loss of smell
+- Weight gain
+
+**List of possible diseases or illnesses:**
+- Migraine headache
+- Viral infection (potentially COVID-19)
+- Sinusitis
+- Diabetes complications
+
+**SOAP Note:**
+
+**Subjective:**
+The patient presents with a constant aching headache in the front of the forehead and temple for the past four days, associated with feeling cold and a fever of 38.7 degrees celsius. The headache is described as less severe than migraines but persistent, rated at 6 out of 10. The patient reports taking Tylenol and Advil for pain relief with temporary relief. Additionally, the patient reports a recent loss of smell and weight gain. The patient has a history of type 2 diabetes and is currently taking metformin. There is a family history of diabetes on the paternal side. The patient denies respiratory symptoms, chest pain, gastrointestinal issues, musculoskeletal pain, neurological symptoms, night sweats, unintentional weight loss, or edema. The patient lives with their wife and two children, one of whom is a high school teacher with potential exposure to illness. The patient denies recent travel outside the province, smoking, and illicit drug use, but reports occasional marijuana and alcohol consumption.
+
+**Objective:**
+- Vital signs: Fever of 38.7 degrees celsius
+- Physical examination: Pending
+
+**Assessment:**
+1. Possible viral infection (COVID-19) given the fever, headache, and loss of smell. COVID-19 swab test recommended.
+2. Migraine headache as a differential diagnosis due to the headache characteristics.
+3. Diabetes management to be monitored closely.
+
+**Plan:**
+1. Order a COVID-19 swab test through public health to rule out infection.
+2. Perform a physical examination to assess for any other possible causes of the headache.
+3. Advise the patient to self-isolate and stay away from family members until COVID-19 test results are available.
+4. Monitor blood sugar levels closely due to recent weight gain and potential impact on diabetes management.
+5. Follow up with the patient for test results and further management accordingly.

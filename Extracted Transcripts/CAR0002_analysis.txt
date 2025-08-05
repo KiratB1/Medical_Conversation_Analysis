@@ -1,0 +1,42 @@
+**List of symptoms:**
+- Chest pain on the left side
+- Dull pain with pressure on the chest
+- Shortness of breath since the onset of pain
+- Feeling hot with a temperature of 38 degrees
+- Increased heart rate
+- No swelling in legs
+- No fatigue
+- No cough, runny nose, or sore throat
+- No dizziness or fainting
+
+**List of possible diseases or illnesses:**
+- Acute coronary syndrome (possible heart attack)
+- Angina
+- Myocardial infarction
+- Pulmonary embolism
+- Pneumonia
+- Possible drug-related complications due to crystal meth use
+
+**SOAP Note:**
+
+**Subjective:**
+The patient presents with acute chest pain on the left side that started 30 minutes ago while shoveling snow. The pain is described as dull with pressure on the chest. He rates the pain as a 7/10. There is associated shortness of breath since the onset of pain, feeling hot with a temperature of 38 degrees, and an increased heart rate. The patient denies any previous episodes of chest pain, swelling in the legs, fatigue, cough, runny nose, sore throat, dizziness, or fainting.
+
+**Objective:**
+- Patient appears uncomfortable and is experiencing chest discomfort.
+- Vital signs: Temperature of 38 degrees, increased heart rate.
+- No visible signs of distress or respiratory distress.
+- No swelling in the legs noted.
+
+**Assessment:**
+1. Acute chest pain with associated symptoms, concerning for possible acute coronary syndrome or myocardial infarction.
+2. Shortness of breath and increased heart rate may indicate cardiac involvement or pulmonary embolism.
+3. History of crystal meth use raises concerns for potential drug-related complications contributing to symptoms.
+
+**Plan:**
+1. Immediate transfer to the emergency department for further evaluation and management of possible cardiac event.
+2. ECG to assess for cardiac abnormalities.
+3. Blood tests including cardiac enzymes to evaluate for myocardial damage.
+4. Chest X-ray to rule out pulmonary causes of chest pain.
+5. Referral to a substance abuse counselor for evaluation and support regarding crystal meth use.
+6. Education on smoking cessation and potential risks associated with drug use.

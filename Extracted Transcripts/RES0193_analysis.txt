@@ -1,0 +1,49 @@
+**List of symptoms:**
+- Cough, especially at night
+- Wheezing
+- Difficulty breathing
+- Dry cough
+- Wheezing sound when exhaling
+- Symptoms worsen after physical exertion
+- Environmental allergies (itchy eyes, runny nose)
+- Symptoms relieved within 30-60 minutes
+- Nighttime symptoms
+- Missed school days due to poor sleep and feeling unwell
+
+**List of possible diseases or illnesses:**
+- Asthma
+- Allergic reactions
+- Bronchiolitis (in the past)
+- Environmental allergies
+
+**SOAP Note:**
+
+**Subjective:**
+A 6-year-old male patient presents with a history of cough, wheezing, and difficulty breathing, especially at night and after physical exertion. The cough is dry, and the patient experiences wheezing with a high-pitched whistling sound upon exhalation. The symptoms have been occurring multiple times per week for several months. The patient's mother reports a history of bronchiolitis in early childhood and environmental allergies manifesting as itchy eyes and a runny nose during seasonal changes. The patient has missed school days due to poor sleep and feeling unwell.
+
+**Objective:**
+- No fever, chills, nausea, vomiting, or changes in bowel movements reported
+- No recent travel or exposure to sick individuals
+- No significant changes in appetite, weight gain noted
+- Environmental exposure to a cat at a friend's house
+- Family history of asthma in the patient's mother
+- No smoking in the household, but presence of a carpet in the basement
+
+**Assessment:**
+1. Differential Diagnosis:
+   - Asthma
+   - Allergic reactions
+   - Environmental allergies
+   
+2. Working Diagnosis:
+   - Asthma exacerbation triggered by physical activity and environmental allergens
+
+**Plan:**
+1. Perform a full physical examination, focusing on respiratory function and auscultation.
+2. Consider ordering a pulmonary function test to assess lung function and potential asthma diagnosis.
+3. Discuss the possibility of allergy testing to identify triggers.
+4. Consider initiating treatment with a bronchodilator (e.g., Ventolin) and an inhaled corticosteroid for symptom management.
+5. Educate the patient and family on asthma management, including trigger avoidance and proper medication use.
+6. Follow up with the patient to monitor response to treatment and adjust management as needed.
+
+The patient and his mother will be scheduled for further evaluation and testing to confirm the diagnosis and establish an appropriate treatment plan.

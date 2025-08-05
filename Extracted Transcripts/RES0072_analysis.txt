@@ -1,0 +1,43 @@
+**List of symptoms:**
+- Sore throat
+- Painful swallowing of solids and liquids
+- Nausea
+- Vomiting (yellowish-green vomit)
+- Swollen neck
+- Sore stomach
+- Headache
+- Feeling hot and sweaty
+- Mild chest pain
+
+**List of possible diseases or illnesses:**
+- Strep throat
+- Gastroenteritis
+- Gastritis
+- Viral infection
+- Acute pharyngitis
+
+**SOAP Note:**
+
+**Subjective:**
+The patient presents with a sore throat that started the previous day, making swallowing painful for both solids and liquids. They have experienced nausea and vomiting, with yellowish-green vomit. The patient also reports a swollen neck, sore stomach, headache, feeling hot and sweaty, and mild chest pain.
+
+**Objective:**
+- Swollen neck noted on examination
+- No cough, sputum, or yellow material production
+- No coughing up blood
+- Mild chest pain reported
+- No signs of respiratory distress
+
+**Assessment:**
+1. Possible strep throat based on symptoms of sore throat, painful swallowing, and swollen neck.
+2. Gastroenteritis or gastritis suggested by symptoms of nausea, vomiting, and sore stomach.
+3. Viral infection or acute pharyngitis could also be considered due to the sore throat and associated symptoms.
+
+**Plan:**
+1. Perform testing for strep throat.
+2. Conduct a COVID-19 test due to the presence of multiple symptoms.
+3. Take the patient's temperature.
+4. Prescribe antibiotics if strep throat is confirmed.
+5. Provide symptomatic relief for nausea, vomiting, and sore throat.
+6. Advise the patient to rest and stay hydrated.
+7. Follow up with the patient to monitor their symptoms and test results.

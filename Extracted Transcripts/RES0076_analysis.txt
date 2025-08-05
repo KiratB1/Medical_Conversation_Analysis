@@ -1,0 +1,49 @@
+**List of symptoms:**
+- Chronic dry cough for six months
+- Coughing up blood (hemoptysis)
+- Shortness of breath
+- Nausea
+- Weight loss (10-15 pounds in 2 months)
+- Fatigue
+- Reduced appetite
+- Smoking history
+- Difficulty breathing with exertion
+
+**List of possible diseases or illnesses:**
+- Chronic obstructive pulmonary disease (COPD)
+- Lung cancer
+- Bronchitis
+- Pneumonia
+- Tuberculosis
+- Gastrointestinal issues
+- Possible side effects of long-term smoking
+
+**SOAP Note:**
+
+**Subjective:**
+The patient presents with a chronic dry cough lasting for six months, accompanied by hemoptysis, shortness of breath, nausea, weight loss of 10-15 pounds in the past 2 months, fatigue, reduced appetite, and a history of smoking for over 40 years. The patient reports difficulty breathing with exertion and ongoing issues with shortness of breath.
+
+**Objective:**
+- No chest pain, dizziness, fainting episodes, or swelling in extremities noted.
+- No night sweats or changes in sense of taste or smell reported.
+- No recent travel outside the country or exposure to tuberculosis.
+- Family history includes lung cancer in a great uncle and type 2 diabetes in the mother.
+- Patient works as a bus driver, lives with wife, and denies exposure to asbestos at home.
+- Patient currently smokes half a pack per day and consumes alcohol occasionally.
+
+**Assessment:**
+1. Differential diagnosis includes:
+   - Chronic obstructive pulmonary disease (COPD)
+   - Lung cancer
+   - Bronchitis
+   - Pneumonia
+   - Tuberculosis
+   - Gastrointestinal issues related to nausea and weight loss
+   - Possible complications from long-term smoking
+
+**Plan:**
+1. Order a chest X-ray to evaluate lung health and presence of any abnormalities.
+2. Consider cytology to analyze the bloody sputum for further investigation.
+3. Provide resources and information on smoking cessation methods, including Champix, to help the patient quit smoking.
+4. Monitor symptoms closely and follow up after diagnostic tests for further management, potentially including a biopsy if needed.
+5. Encourage healthy lifestyle changes, including smoking cessation and dietary improvements.

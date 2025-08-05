@@ -1,0 +1,39 @@
+**List of symptoms:**
+- Cough for the past two weeks
+- Dry cough with occasional production of whitish or clear phlegm
+- Wheezing
+- Chest pain, especially after coughing
+- No shortness of breath
+- No green or bloody phlegm
+- No swelling in legs, arms, or abdomen
+- No dizziness, fainting spells, headaches, confusion, memory loss, fevers, weight loss, excessive fatigue, nausea, vomiting, rashes, changes in vision or hearing, stuffy or runny nose, sore throat, changes in smell or taste
+
+**List of possible diseases or illnesses:**
+- Acute bronchitis
+- Viral respiratory infection
+- COVID-19 (to be confirmed by swab test)
+- Smoking-related respiratory issues
+
+**SOAP Note:**
+
+**Subjective:**
+The patient presents with a two-week history of a dry cough with occasional production of whitish or clear phlegm. They report wheezing, chest pain that worsens after coughing, and occasional smoking habits. No significant past medical history reported. Patient expresses concern about the possibility of having COVID-19.
+
+**Objective:**
+- No signs of respiratory distress observed
+- No fever or other acute symptoms noted during the examination
+- Patient appears otherwise healthy and well-nourished
+
+**Assessment:**
+1. Differential Diagnosis:
+   - Acute bronchitis
+   - Viral respiratory infection
+   - Possible COVID-19 (pending swab test results)
+   - Smoking-related respiratory issues
+
+2. Plan:
+   - Swab test for COVID-19 to be conducted with results expected in 24-48 hours
+   - Recommend isolation for 14 days due to cough symptoms
+   - Supportive treatment advised, including staying hydrated, maintaining good nutrition, getting adequate rest, and monitoring symptoms
+   - Advise patient to seek emergency care if symptoms worsen or if neurological symptoms develop
+   - Follow-up appointment scheduled for test results and symptom review

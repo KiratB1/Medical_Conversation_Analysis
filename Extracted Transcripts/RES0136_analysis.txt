@@ -1,0 +1,42 @@
+**List of symptoms:**
+- Difficulty breathing
+- Dry cough
+- Shortness of breath with minimal exertion
+- Bad breath
+- Fatigue
+
+**List of possible diseases or illnesses:**
+- Allergic reaction to morphine
+- Aspiration pneumonia
+- COVID-19 (considering the need for a COVID swab test)
+
+**SOAP Note:**
+
+**Subjective:**
+The patient presents with difficulty breathing, a dry cough, shortness of breath with minimal exertion, bad breath, and fatigue. Symptoms started yesterday and have been constant for the past two days. The patient suspects a possible allergic reaction to an extra dose of morphine taken the previous night. No previous history of similar symptoms or allergic reactions reported.
+
+**Objective:**
+- Vital signs: Fever of 37.2°C noted last night.
+- No signs of chest pain, sore throat, headaches, muscle pain, dizziness, fainting spells, nausea, vomiting, night sweats, swelling in extremities, or weight loss.
+- No recent travel history or contact with sick individuals reported.
+- Patient lives with a husband and a dog.
+- Occupation as a remote banker.
+- History of osteoarthritis, currently taking Advil for pain management.
+- Occasional marijuana use for pain relief, minimal alcohol consumption.
+- Family history of breast cancer in the grandmother.
+
+**Assessment:**
+1. Differential diagnosis includes:
+   - Allergic reaction to morphine
+   - Aspiration pneumonia
+   - Possible COVID-19 infection (pending swab test results)
+
+**Plan:**
+1. Conduct a COVID swab test to rule out COVID-19 infection.
+2. Perform a physical examination, including vital signs and oxygenation assessment.
+3. Order a chest x-ray and blood work to evaluate for aspiration pneumonia.
+4. Consider antibiotics based on test results.
+5. Monitor patient closely for any worsening symptoms or unstable vitals.
+6. Discuss the need for possible hospital admission if necessary.
+7. EKG to be conducted for further evaluation.
+8. Follow up with test results and treatment plan accordingly.

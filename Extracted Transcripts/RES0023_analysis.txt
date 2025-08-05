@@ -1,0 +1,35 @@
+**List of symptoms:**
+- Cough
+- Feeling hot
+- Exhaustion
+- Worsening cough throughout the day, interrupting sleep
+- Dry cough
+- Chest/throat pain
+- Sore throat
+- Altered sense of smell
+- Sweating
+- Night sweats
+
+**Possible diseases or illnesses:**
+- Viral respiratory infection
+- Influenza
+- COVID-19 (SARS-CoV-2 infection)
+
+**SOAP Note:**
+
+**Subjective:**
+The patient presents with a persistent dry cough that has been worsening over the past five days. They report feeling hot, exhausted, and experiencing chest/throat pain primarily with coughing. The patient also complains of a sore throat, altered sense of smell, sweating, and night sweats. There is a history of contact with numerous individuals at the grocery store where they work. The patient denies recent travel but lives with their wife and two children who have been mostly at home. They have a medical history of high blood pressure, type 2 diabetes, and a previous gallbladder surgery. The patient reports mild alcohol consumption and no smoking or substance use.
+
+**Objective:**
+- Vital signs: Not documented
+- Physical examination findings: Not documented
+
+**Assessment:**
+Based on the patient's symptoms of cough, chest/throat pain, altered sense of smell, and night sweats, along with potential exposure at work and contact with family members, the likely differential diagnosis includes a viral respiratory infection, influenza, or possibly COVID-19 (SARS-CoV-2 infection).
+
+**Plan:**
+1. Perform a swab test to check for COVID-19 and other respiratory viruses.
+2. Advise self-isolation for the patient and their family for 14 days.
+3. Monitor symptoms closely and provide supportive care as needed.
+4. Educate the patient on infection prevention measures.
+5. Follow up with test results and provide appropriate treatment based on the diagnosis.

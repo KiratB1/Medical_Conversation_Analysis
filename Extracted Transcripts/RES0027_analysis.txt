@@ -1,0 +1,36 @@
+**List of symptoms:**
+- Dry cough for the past three days
+- Cough getting worse
+- Feeling hot like having a fever
+- Fatigue
+- Slight headache
+- Chills and night sweats
+- Muscle aches
+- Difficulty sleeping due to cough
+
+**List of possible diseases or illnesses:**
+- Viral respiratory infection
+- Bacterial respiratory infection
+- COVID-19
+
+**SOAP Note:**
+
+**Subjective:**
+The patient presents with a dry cough for the past three days, worsening cough, feeling hot like having a fever, fatigue, slight headache, chills, night sweats, muscle aches, and difficulty sleeping due to cough. The patient's husband has been experiencing nausea, vomiting, and feeling hot as well.
+
+**Objective:**
+- No blood or sputum with cough
+- No triggers associated with cough
+- Over-the-counter cough syrup ineffective
+- No runny nose, sore throat, chest pain, shortness of breath, wheezing, palpitations, dizziness, loss of taste or smell, diarrhea, nausea, vomiting, painful urination, skin rashes, or weight loss
+- Living situation: Lives with husband and two healthy teenagers in a recently moved townhouse
+
+**Assessment:**
+1. Differential diagnosis includes viral respiratory infection, bacterial respiratory infection, and COVID-19 given the patient's symptoms and recent exposure to a sick household member.
+2. The patient's history of hypothyroidism on Synthroid medication and recent move may also contribute to the current symptoms.
+
+**Plan:**
+1. Order investigations including blood work, PCR nasal swab for COVID-19, and chest X-ray to further evaluate the patient's condition.
+2. Await results to confirm the diagnosis and guide appropriate treatment.
+3. Advise rest, hydration, and monitoring symptoms closely.
+4. Follow up with the patient after receiving test results for further management.

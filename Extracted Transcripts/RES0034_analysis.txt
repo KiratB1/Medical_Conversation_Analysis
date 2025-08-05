@@ -1,0 +1,41 @@
+**List of symptoms:**
+- Fever
+- Cough
+- Runny nose
+- Diarrhea
+- Irritability
+- Decreased oral intake
+- Dry mouth and cracked lips
+- Difficulty sleeping
+
+**List of possible diseases or illnesses:**
+- Viral respiratory infection
+- Influenza
+- Common cold
+- Gastroenteritis
+- Acute bronchitis
+
+**SOAP Note:**
+
+**Subjective:**
+The patient's mother reports that her daughter has been sick for the last few days with symptoms including fever, cough, runny nose, and diarrhea. The fever and cough started three to four days ago and have been persistent. The fever has worsened, reaching 103 degrees Fahrenheit. The patient has been irritable, with decreased oral intake, dry mouth, cracked lips, and difficulty sleeping. The mother notes that the patient's brother, who attends daycare, was also sick with similar symptoms.
+
+**Objective:**
+- Fever of 103 degrees Fahrenheit
+- Persistent cough with green, slimy sputum
+- Runny nose
+- Diarrhea for the last two days with watery consistency
+- Irritability and decreased oral intake
+- Dry mouth and cracked lips
+- Difficulty sleeping
+
+**Assessment:**
+1. Viral respiratory infection with possible influenza or common cold
+2. Gastroenteritis due to diarrhea symptoms
+3. Acute bronchitis based on cough with green, slimy sputum
+
+**Plan:**
+1. Recommend supportive care including rest, hydration, and fever management with acetaminophen.
+2. Advise monitoring the patient's symptoms and consider follow-up if there is no improvement or if symptoms worsen.
+3. Provide guidance on infection control measures to prevent spread within the household, especially with the patient's brother attending daycare.
+4. Consider further evaluation or testing if symptoms persist or new concerning symptoms develop.

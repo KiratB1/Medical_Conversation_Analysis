@@ -1,0 +1,60 @@
+**List of symptoms:**
+- Cough
+- Fever
+- Chills
+- Wet cough with sputum (white and sometimes yellow)
+- No sore throat
+- No shortness of breath
+- No wheezing
+- No chest pain
+- No swelling
+- No palpitations
+- No calf pain
+- No dizziness or fainting spells
+- No headaches
+- No nausea or vomiting
+- No joint pain or muscle ache
+- Normal bowel movements
+- Normal urination
+- No changes in taste or smell
+- No changes in hearing or vision
+- No weight loss
+- No changes in hair, nails, or skin
+- No confusion or memory loss
+- No runny or stuffy nose
+- No recent travel
+
+**List of possible diseases or illnesses:**
+- Viral infection (including COVID-19)
+- Bacterial infection
+- Allergic reaction
+- Pneumonia
+- Influenza
+
+**SOAP Note:**
+
+**Subjective:**
+The patient presents with a persistent wet cough with white and yellow sputum, fever, chills, and a history of exposure to a sick individual with similar symptoms. The patient's wife had a negative COVID-19 test result. No significant past medical history except for appendectomy in the past. The patient denies other symptoms such as sore throat, shortness of breath, chest pain, and gastrointestinal issues.
+
+**Objective:**
+- Vital signs: Not provided
+- Physical examination findings: Not provided
+
+**Assessment:**
+1. Differential diagnosis:
+   - Viral infection (including COVID-19)
+   - Bacterial infection
+   - Allergic reaction
+   - Pneumonia
+   - Influenza
+
+2. Rule out COVID-19: Due to overlapping symptoms with COVID-19, a COVID swab test has been recommended to the patient. Results will be available in 24 to 48 hours.
+
+**Plan:**
+1. Isolation: Patient advised to isolate for 14 days pending COVID-19 test results.
+2. Monitoring: Patient instructed to monitor symptoms closely. If symptoms worsen, develop neurological deficits, weakness, seizures, or persist beyond 7-10 days, patient should seek medical attention promptly.
+3. Follow-up: Patient advised to contact the clinic if symptoms persist or if there is a need for antibiotics in case of a bacterial infection.
+4. Lifestyle modifications: Patient advised to stay hydrated, get adequate rest, and continue over-the-counter medications if they provide relief.
+5. Public health notification: Patient informed that public health will contact for contact tracing if COVID-19 test is positive.
+
+This SOAP note is based on the information provided and should be supplemented with vital signs and physical exam findings for a comprehensive assessment.

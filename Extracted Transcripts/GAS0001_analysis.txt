@@ -1,0 +1,34 @@
+**List of symptoms:**
+- Nausea
+- Vomiting
+- Increased urinary frequency
+- Crampy feeling in the stomach
+- Dehydration
+
+**List of possible diseases or illnesses:**
+- Gastroenteritis
+- Urinary tract infection
+- Dehydration
+- Menstrual-related symptoms
+- Food poisoning
+
+**SOAP Note:**
+
+**Subjective:**
+The patient presents with a chief complaint of feeling nauseated for the past 9 days, with vomiting occurring once or twice daily. The nausea worsens with strong odors and is more pronounced in the morning. The patient also reports increased urinary frequency, needing to urinate every couple of hours, and a crampy feeling in the stomach. The patient attributes increased water intake to dehydration from vomiting. Menstrual history indicates irregular periods, with the last one occurring six weeks ago.
+
+**Objective:**
+- No flu-like symptoms, headaches, fevers, muscle aches, cough, blood in stools, palpitations, or chest pain reported.
+- No significant findings on physical examination noted.
+
+**Assessment:**
+1. Gastroenteritis: Given the symptoms of nausea, vomiting, and stomach cramps, gastroenteritis is a possible diagnosis.
+2. Urinary tract infection (UTI): Increased urinary frequency without pain during urination raises suspicion for a UTI.
+3. Dehydration: Increased water intake due to vomiting may have led to dehydration.
+4. Menstrual-related symptoms: Irregular periods and crampy feeling in the stomach suggest menstrual-related issues as a contributing factor.
+
+**Plan:**
+1. Order a complete blood count (CBC) and urinalysis to assess for infection and dehydration.
+2. Provide antiemetic medication to alleviate nausea and vomiting.
+3. Encourage oral rehydration therapy to address dehydration.
+4. Follow up with the patient to discuss laboratory results and adjust the treatment plan accordingly.

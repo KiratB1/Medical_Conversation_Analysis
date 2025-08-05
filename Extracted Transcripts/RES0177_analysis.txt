@@ -1,0 +1,38 @@
+**List of symptoms:**
+- Fever
+- Cough
+- Shortness of breath
+- Greenish-yellow sputum
+- Chest pain with deep breaths
+- Decreased appetite
+
+**List of possible diseases or illnesses:**
+- Community-acquired pneumonia
+- COVID-19
+- Possible bacterial infection (given prescription of amoxicillin or cefuroxime)
+
+**SOAP Note:**
+
+**Subjective:**
+The patient, a child, presented with a fever that started two days ago, followed by a cough, shortness of breath, greenish-yellow sputum, chest pain with deep breaths, and decreased appetite. The symptoms appeared suddenly and worsened over the past few days. The patient's sibling had a similar illness recently, prompting concern for possible contagious etiology.
+
+**Objective:**
+- Vital signs: Elevated temperature (38.7°C), increased respiratory rate, signs of respiratory distress
+- Physical examination: Presence of cough, shortness of breath, productive cough with greenish-yellow sputum, chest pain with deep breaths
+- No signs of wheezing, blood in sputum, dizziness, fainting, sore throat, changes in vision, hearing, smell, taste, weight loss, rashes, numbness, tingling, muscle or joint aches, confusion, memory loss, changes in bowel movements, or urinary problems
+
+**Assessment:**
+- Suspected community-acquired pneumonia given the constellation of symptoms including fever, cough, shortness of breath, and chest pain with consolidation on chest x-ray
+- Consideration for COVID-19 due to overlapping symptoms, hence swab test ordered
+- Likely bacterial infection prompting prescription of amoxicillin or cefuroxime
+
+**Plan:**
+1. Swab test for COVID-19 with results expected in 24-48 hours; patient to isolate for 14 days
+2. Chest x-ray to assess for consolidation or infiltrate suggestive of pneumonia
+3. Prescribe amoxicillin or cefuroxime for 5 days to treat potential bacterial infection
+4. Monitor symptoms closely, with expectation of improvement within 5 days of antibiotic course
+5. Advise to seek emergency care if symptoms worsen, such as neurological deficits or seizures
+6. If symptoms persist beyond 5-7 days, consider further workup for fungal infections, TB, or other etiologies
+
+**Follow-Up:**
+Patient to return for evaluation after completion of antibiotic course or earlier if symptoms worsen.

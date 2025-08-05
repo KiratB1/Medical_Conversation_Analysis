@@ -1,0 +1,36 @@
+**List of symptoms:**
+- Dry cough
+- Cough comes and goes, worsens with exercise or cold weather
+- Itchy eyes
+- Shortness of breath, especially outdoors
+- Coughing fits impairing sleep
+- Wheezing occasionally
+- Nighttime coughing worse
+- No fever, chills, night sweats, chest pain, headache, nausea, vomiting, dizziness, changes in bowel movements or urinary patterns, swelling in feet or hands, heart palpitations, changes in weight or appetite
+
+**Possible diseases or illnesses:**
+- Asthma exacerbation
+- Viral upper respiratory tract infection
+
+**SOAP Note:**
+
+**Subjective:**
+The patient presents with a dry cough that has been ongoing for the past two weeks since returning from Mexico. He attributes his illness to possibly drinking and partying excessively while in Mexico. He reports no cold symptoms like runny nose or sore throat, but does mention itchy eyes. The cough worsens with exercise and cold weather, impairs his sleep, and is more severe at night. He has a history of asthma in childhood, occasional wheezing, and his son has asthma. The patient also reports shortness of breath, especially outdoors. No other significant symptoms reported.
+
+**Objective:**
+- Patient appears well-nourished and in no acute distress.
+- Vital signs: Stable blood pressure, heart rate, and temperature.
+- Lungs: Clear to auscultation with occasional wheezing noted.
+- No signs of respiratory distress observed.
+- No swelling in extremities noted.
+
+**Assessment:**
+1. Asthma exacerbation: Considering the patient's history of childhood asthma, current symptoms of cough, wheezing, shortness of breath, and response to bronchodilator therapy.
+2. Viral upper respiratory tract infection: Given the recent travel history and onset of symptoms post-travel.
+
+**Plan:**
+1. Perform pulmonary function tests to assess lung function and confirm the presence of asthma.
+2. Consider chest X-ray if indicated based on test results.
+3. Recommend avoiding triggers such as cold weather and excessive exercise.
+4. Prescribe rescue inhaler for symptom relief.
+5. Follow up in a week to monitor response to treatment and adjust management as needed.

@@ -1,0 +1,40 @@
+**List of symptoms:**
+- Dry cough for two weeks
+- Runny nose for the past week
+- Congestion
+- Reduced sense of smell when congested
+
+**List of possible diseases or illnesses:**
+- Common cold
+- Viral respiratory infection
+- Allergic rhinitis
+- COVID-19 (ruled out with testing)
+
+**SOAP Note:**
+
+**Subjective:**
+The patient presents with a dry cough persisting for two weeks, accompanied by a runny nose for the past week. He reports no blood in cough, clear nasal discharge, and a recent onset of congestion leading to reduced sense of smell. The patient denies headaches, sore throat, difficulties breathing, chest pain, palpitations, abdominal pain, nausea, vomiting, diarrhea, muscle aches, numbness, fevers, chills, night sweats, unintentional weight loss, and any recent travel history outside the province. The patient admits to occasional casual smoking and marijuana use, with minimal alcohol consumption. The patient's mother had symptoms resembling a cold the previous week.
+
+**Objective:**
+- Vital signs stable
+- No visible signs of distress
+- Clear nasal discharge observed
+- No abnormalities noted during initial physical examination
+
+**Assessment:**
+1. Differential diagnosis:
+   - Common cold
+   - Viral respiratory infection
+   - Allergic rhinitis
+
+2. Rule out COVID-19:
+   - COVID swab test recommended due to recent exposure to symptomatic individual (patient's mother)
+   - Patient advised to self-isolate until test results are available
+
+**Plan:**
+1. Perform a physical examination to assess throat, mouth, and chest for any signs of infection or inflammation.
+2. Conduct a COVID swab test to rule out COVID-19.
+3. Advise the patient to self-isolate at home and maintain distance from family members until test results are received.
+4. Monitor symptoms and follow up with test results to determine further management.
+5. Consider further investigations or treatment based on physical exam findings and test results.
+6. Educate the patient on the importance of rest, hydration, and symptom management for viral illnesses.

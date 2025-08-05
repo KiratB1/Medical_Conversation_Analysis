@@ -1,0 +1,32 @@
+**List of symptoms:**
+- Sore throat
+- Difficulty swallowing food
+- Difficulty breathing
+- Reduced sense of taste
+- Muscle aches
+- Fatigue
+
+**List of possible diseases or illnesses:**
+- Pharyngitis
+- Mononucleosis (based on history of having mono)
+- COVID-19 (due to sore throat, difficulty breathing, reduced sense of taste, and fatigue)
+
+**SOAP Note:**
+
+**Subjective:**
+The patient presents with a sore throat that started four days ago, experiencing difficulty swallowing food, worsening sore throat, difficulty breathing that started one day ago, reduced sense of taste for the past two days, muscle aches, and fatigue. Patient has a history of mono and mild COPD. Denies cough, runny nose, headaches, chest pain, fevers, chills, night sweats, but reports feeling tired and muscle aches post-sore throat. Patient is retired, quit smoking two years ago after 40 years of smoking, drinks alcohol occasionally, lives alone, and has no known allergies or family history of respiratory problems or heart problems.
+
+**Objective:**
+- Vital signs: Not provided
+- Physical examination: Not provided
+
+**Assessment:**
+1. Pharyngitis
+2. Mononucleosis
+3. Suspected COVID-19
+
+**Plan:**
+1. Perform a COVID-19 swab test.
+2. Isolate the patient until test results are back and even after if symptoms persist.
+3. Order a chest x-ray to assess respiratory status.
+4. Monitor symptoms closely and follow up with the patient to discuss results and further management.

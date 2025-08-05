@@ -1,0 +1,48 @@
+**List of symptoms:**
+- Chest pain (left side)
+- Stabbing pain in the chest
+- Tightness in the chest
+- Pain worsens with breathing in
+- Shortness of breath
+- Fatigue
+- Swelling in legs
+- Dry cough
+- Dizziness
+- Leg pain (left calf)
+- Achiness in the body
+
+**List of possible diseases or illnesses:**
+- **Myocardial infarction (Heart Attack)**: Given the stabbing chest pain, tightness, pain worsening with breathing, shortness of breath, fatigue, and family history of heart attacks.
+- **Pulmonary embolism**: Considering the chest pain, shortness of breath, leg pain, and swelling in the legs.
+- **Pneumonia**: Due to the dry cough, shortness of breath, and recent respiratory symptoms.
+- **Deep vein thrombosis (DVT)**: Leg pain, swelling in the legs, and recent travel history.
+- **Smoking-related conditions**: Considering the patient's heavy smoking history and symptoms like chest pain and shortness of breath.
+
+**SOAP Note:**
+
+**Subjective:**
+The patient presents with stabbing chest pain on the left side that started suddenly after waking up this morning. The pain is described as tight and worsens with breathing in. The patient rates the pain at a 6 on a scale of 0 to 10. Additionally, the patient reports shortness of breath, fatigue, leg pain in the left calf, dry cough, dizziness, and achiness in the body. There is a history of recent travel to Italy and swelling in the legs during the flight. The patient also mentions a family history of heart attacks.
+
+**Objective:**
+- No signs of distress observed.
+- Vital signs: Heart rate elevated, blood pressure slightly elevated.
+- Lung sounds clear on auscultation.
+- No visible swelling in the legs noted during the examination.
+- No visible skin changes or rashes.
+- No palpable lymph nodes.
+
+**Assessment:**
+1. **Possible Myocardial Infarction**: Considering the acute onset of stabbing chest pain, family history of heart attacks, and associated symptoms like shortness of breath and fatigue.
+2. **Pulmonary Embolism**: Given the recent travel history, leg pain, and shortness of breath.
+3. **Smoking-related Respiratory Conditions**: Considering the patient's heavy smoking history and symptoms like chest pain and cough.
+4. **Venous Thromboembolism (DVT)**: Considering leg pain and swelling, especially after recent travel.
+
+**Plan:**
+1. Immediate transfer to the emergency department for further evaluation and management.
+2. ECG to assess for cardiac abnormalities.
+3. Chest X-ray and CT pulmonary angiography to rule out pulmonary embolism.
+4. Doppler ultrasound for assessment of deep vein thrombosis.
+5. Oxygen therapy if necessary.
+6. Referral to a cardiologist and pulmonologist for specialized care.
+7. Smoking cessation counseling and support.
+8. Lifestyle modifications including dietary changes and regular exercise.

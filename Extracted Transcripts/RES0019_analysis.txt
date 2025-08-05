@@ -1,0 +1,31 @@
+**List of symptoms:**
+- Feeling hot
+- Terrible headache
+- Brain fog
+- Muscle aches
+- Fatigue
+
+**List of possible diseases or illnesses:**
+- Viral infection (e.g., COVID-19, influenza, common cold)
+- Meningitis
+
+**SOAP Note:**
+
+**Subjective:**
+The patient presents with a history of feeling hot, experiencing a terrible headache primarily on the sides of the head for the past three days, brain fog, muscle aches, and significant fatigue. The headache is described as crampy and rated a 6-7 in severity. There is no associated nausea, vomiting, neck pain, sensitivity to light or sound, eye symptoms, or recent travel history. The patient denies any respiratory symptoms, chest pain, urinary problems, abdominal pain, diarrhea, constipation, or recent sick contacts. The patient reports regular use of marijuana edibles from a dispensary, occasional alcohol consumption, and a family history of heart disease.
+
+**Objective:**
+- Fever documented at 38.8 degrees Celsius
+- No signs of respiratory distress
+- No focal neurological deficits noted
+- No rash or abdominal tenderness on examination
+
+**Assessment:**
+1. Possible viral infection (e.g., COVID-19, influenza) given the acute onset of symptoms, fever, headache, and fatigue.
+2. Meningitis is also considered due to the severity of the headache and the patient's concern after researching online.
+
+**Plan:**
+1. Order PCR COVID swab and general lab work including CBC and white blood cell count.
+2. Consider lumbar puncture or additional blood work to investigate for signs of meningitis if indicated.
+3. Advise the patient to continue monitoring symptoms, rest, stay hydrated, and avoid contact with others until further evaluation results are available.
+4. Follow up with the patient to discuss test results and adjust the treatment plan accordingly.

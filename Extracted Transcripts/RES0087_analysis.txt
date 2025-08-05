@@ -1,0 +1,32 @@
+**List of symptoms:**
+- Pain in the right ear for the last 3-4 days
+- Irritability
+- Runny nose
+- Cough (dry, started yesterday)
+  
+**List of possible diseases or illnesses:**
+- Acute otitis media
+- Upper respiratory infection
+- Viral infection
+
+**SOAP Note:**
+
+**Subjective:**
+A child presented with a chief complaint of right ear pain for the past 3-4 days associated with irritability. The patient's parent reported a recent history of a runny nose that resolved, followed by the onset of ear pain. The parent also mentioned a dry cough that started yesterday. No fever, hearing loss, swelling, redness, or fluid discharge from the ear reported.
+
+**Objective:**
+- No visible swelling, redness, or warmth in the right ear
+- Clear runny nose, no yellow or green discharge
+- Dry cough, no phlegm or blood
+- No shortness of breath, wheezing, chest pain, nausea, vomiting, changes in bowel movements, or urinary changes reported
+
+**Assessment:**
+1. Acute otitis media: Given the unilateral ear pain, history of recent upper respiratory symptoms, and absence of systemic symptoms like fever, this could be a likely diagnosis.
+2. Upper respiratory infection: The presence of a runny nose and dry cough suggests a possible viral upper respiratory infection.
+3. Viral infection: Considering the constellation of symptoms without significant systemic involvement, a viral infection is also a differential diagnosis.
+
+**Plan:**
+1. Perform a thorough ear examination to assess for signs of acute otitis media.
+2. If tympanic membrane is perforated or pus is present, prescribe a 10-day course of antibiotics (Amoxicillin or Cefuroxime).
+3. If no systemic symptoms are present, reassess in 24-48 hours and consider antibiotic therapy if needed.
+4. Advise monitoring for any worsening symptoms and follow up if necessary.

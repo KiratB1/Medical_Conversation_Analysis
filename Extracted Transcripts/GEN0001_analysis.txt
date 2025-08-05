@@ -1,0 +1,40 @@
+**List of symptoms:**
+- Feeling like a bladder infection
+- Burning sensation when urinating
+- Increased frequency of urination
+- Cloudy urine
+- Feeling tired
+- Feeling hot
+- Overactive bladder with urgency to urinate frequently
+
+**List of possible diseases or illnesses:**
+- Bladder infection (urinary tract infection)
+- Overactive bladder
+- Cystitis
+- Possible recurrent urinary tract infections
+- Asthma (mentioned as a comorbidity)
+
+**SOAP Note:**
+
+**Subjective:**
+The patient, a 30-year-old female, presents with symptoms suggestive of a possible bladder infection, including burning sensation during urination, increased frequency of urination, and cloudy urine. She reports a history of recurrent urinary tract infections, with the last episode occurring about 3 months ago. The patient also mentions feeling tired, hot, and having an overactive bladder with urgency to urinate frequently. She denies any recent sexual activity or STI concerns.
+
+**Objective:**
+- Vital signs: Not documented
+- No swelling on ankles or puffiness around eyes noted
+- No visual changes in the vaginal area or lesions reported
+- No numbness or changes in bowel movements mentioned
+- Patient appears flushed, but denies rashes or markings on face
+- No significant findings on physical examination noted
+
+**Assessment:**
+1. Suspected bladder infection (urinary tract infection) based on symptoms reported by the patient.
+2. History of recurrent urinary tract infections and overactive bladder.
+3. Asthma as a comorbidity, although currently well-controlled.
+
+**Plan:**
+1. Order urine analysis and culture to confirm the presence of a urinary tract infection.
+2. Consider prescribing antibiotics based on urine culture results.
+3. Review current management of the overactive bladder and consider adjustments if necessary.
+4. Monitor patient's symptoms closely and provide symptomatic relief as needed.
+5. Follow up with the patient for further evaluation and management as indicated.

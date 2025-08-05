@@ -1,0 +1,34 @@
+**List of symptoms:**
+- Loss of taste
+- Dry cough
+- Shortness of breath after coughing
+- Fatigue
+- Diarrhea
+- Itchy throat
+- Dizziness
+- Feeling hot
+- Weakness
+
+**List of possible diseases or illnesses:**
+- COVID-19
+- Viral upper respiratory infection
+- Gastrointestinal infection
+
+**SOAP note:**
+
+**Subjective:**
+The patient presents with a two-day history of loss of taste, dry cough starting three to four days ago, fatigue, diarrhea, itchy throat, dizziness, feeling hot, and weakness. The patient also reports a recent cough and fever in a classmate. No recent travel history, but possible exposure to a sick classmate. Denies chest pain, wheeziness, muscle aches, abdominal pain, changes in bowel movements, rash, weight loss, night sweats, chills, confusion, memory loss, and significant family medical history.
+
+**Objective:**
+- Vital signs: Not provided
+- Physical examination: Not provided
+
+**Assessment:**
+1. Viral illness: Considering the patient's symptoms of loss of taste, dry cough, fatigue, diarrhea, and exposure to a sick classmate, viral upper respiratory infection or COVID-19 are likely differential diagnoses.
+2. Gastrointestinal infection: Diarrhea could also suggest a gastrointestinal infection.
+
+**Plan:**
+1. COVID-19 testing: Perform a COVID-19 swab to rule out infection.
+2. Isolation: Instruct the patient to isolate for 14 days regardless of test results.
+3. Symptomatic management: Provide supportive care for symptoms such as cough, fatigue, and diarrhea.
+4. Follow-up: Arrange for a follow-up visit to review test results and monitor the patient's progress.

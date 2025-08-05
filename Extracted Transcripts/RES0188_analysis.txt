@@ -1,0 +1,56 @@
+**List of symptoms:**
+- Grunting noises
+- Fever (38.5 degrees Celsius)
+- Irritability
+- Crying a lot
+- Fussy
+- Coughing (initially dry)
+- Increased chest movement while breathing
+- Fatigue
+- Decreased appetite
+- Difficulty feeding
+- Tiredness
+- Normal urine and bowel movements
+- 5-6 wet diapers per day
+- No runny or stuffy nose
+- No wheezing, but some noise while breathing
+- No weight loss
+- No rashes
+- No changes in vision or hearing
+- No fainting spells
+- No family history of lung or heart conditions
+- No smoking at home
+- No recent travel
+
+**Possible diseases or illnesses:**
+- Community-acquired pneumonia
+- Possible COVID-19 infection
+
+**SOAP Note:**
+
+**Subjective:**
+The patient's mother brought her son in due to concerns about grunting noises, fever, irritability, increased chest movement while breathing, coughing, fatigue, decreased appetite, and fussiness. The patient has been crying a lot and difficult to feed. No recent weight loss, rashes, changes in vision or hearing, fainting spells, or family history of lung or heart conditions reported.
+
+**Objective:**
+- Fever of 38.5 degrees Celsius
+- Increased chest movement while breathing
+- Fatigue and irritability noted
+- Decreased appetite and difficulty feeding
+- Normal urine and bowel movements
+- 5-6 wet diapers per day
+- No wheezing, but some noise while breathing
+- No signs of respiratory distress
+- No visible rashes or abnormalities
+
+**Assessment:**
+1. Suspected community-acquired pneumonia based on symptoms of fever, grunting noises, coughing, and increased chest movement while breathing.
+2. COVID-19 infection cannot be ruled out due to overlapping symptoms.
+
+**Plan:**
+1. Perform a COVID-19 swab to rule out infection.
+2. Conduct tests including temperature monitoring, oxygen saturation check, chest x-ray, and blood work.
+3. Consider hospital admission based on oxygen saturation and severity of symptoms.
+4. Provide extra oxygen and hydration if admitted.
+5. Administer antibiotics if pneumonia is confirmed.
+
+Follow-up with the patient to monitor progress and adjust treatment as needed.

@@ -1,0 +1,61 @@
+**List of symptoms:**
+- Persistent cough for a month
+- Cough producing dark and sometimes red phlegm
+- Cough worsens in the morning
+- Cough is constant and especially bad in the morning
+- Cough has been getting worse over the past month
+- Daily coughing
+- Fatigue
+- Night sweats
+- Weight loss (15 pounds over a few months)
+- Chest pain on the right side, stabbing in nature, worsened with deep breath
+- Shortness of breath with physical exertion
+- Exposure to individuals with tuberculosis in the Philippines
+- History of chronic bronchitis and smoker's cough
+- Medications: beta agonist inhaler, inhaled corticosteroid, anti-muscarinic inhaler
+- Family history of lung cancer (father)
+
+**Possible diseases or illnesses:**
+- Tuberculosis
+- Lung cancer
+- Chronic bronchitis exacerbation
+- Pneumonia
+- Pulmonary embolism
+- Bronchiectasis
+
+**SOAP Note:**
+
+**Subjective:**
+The patient presents with a persistent cough for a month, producing dark and sometimes red phlegm. The cough worsens in the morning and has been getting progressively worse over the past month. The patient reports daily coughing, fatigue, night sweats, unintentional weight loss of 15 pounds over a few months, chest pain on the right side exacerbated by deep breaths, shortness of breath with physical exertion, and a history of exposure to individuals with tuberculosis in the Philippines. The patient also has a history of chronic bronchitis and a family history of lung cancer (father). 
+
+**Objective:**
+- Patient appears fatigued during the examination.
+- No signs of respiratory distress at rest.
+- Lung auscultation reveals decreased breath sounds on the right side.
+- No skin rashes or visible abnormalities noted.
+- Vital signs: Temperature slightly elevated, no chills, blood pressure within normal limits, heart rate slightly elevated, respiratory rate within normal limits, oxygen saturation within normal limits.
+
+**Assessment:**
+1. Differential diagnosis includes:
+   - Tuberculosis: Given the patient's exposure history, persistent cough, weight loss, night sweats, and fatigue.
+   - Lung cancer: Family history and chest pain.
+   - Chronic bronchitis exacerbation: History of chronic bronchitis and smoker's cough.
+   - Pneumonia: Persistent cough with production of dark phlegm.
+   - Pulmonary embolism: Shortness of breath and chest pain.
+   - Bronchiectasis: Chronic cough with worsening symptoms.
+
+2. Further investigations required:
+   - Chest X-ray
+   - Sputum culture and sensitivity
+   - Tuberculin skin test or interferon-gamma release assay
+   - Complete blood count
+   - Pulmonary function tests
+
+**Plan:**
+1. Refer the patient for chest X-ray and sputum analysis.
+2. Order blood tests including a complete blood count.
+3. Consider a tuberculin skin test or interferon-gamma release assay.
+4. Review pulmonary function tests to assess lung function.
+5. Advise the patient to follow up for further evaluation and management based on test results.
+6. Educate the patient on smoking cessation and its impact on respiratory health.
+7. Monitor symptoms closely and address any acute concerns promptly.

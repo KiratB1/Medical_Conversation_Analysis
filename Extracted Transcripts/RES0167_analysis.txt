@@ -1,0 +1,40 @@
+**List of symptoms:**
+- Bad cough for 4-5 days
+- Trouble breathing
+- Coughing up gunky green stuff
+- Shortness of breath
+- Fever in the evenings
+- Chest pain when breathing in
+- Feeling weak and tired
+- Rundown and fatigued
+
+**List of possible diseases or illnesses:**
+- Pneumonia
+- Acute bronchitis
+- Respiratory infection
+
+**SOAP Note:**
+
+**Subjective:**
+The patient presents with a 4-5 day history of a bad cough, trouble breathing, coughing up gunky green sputum, shortness of breath, fever in the evenings, chest pain on inspiration, feeling weak, tired, rundown, and fatigued.
+
+**Objective:**
+- No wheezing reported
+- No runny or stuffy nose
+- No sore throat
+- No changes in taste or smell
+- No changes in vision or hearing
+- No weight loss reported
+- No significant changes in bowel movements or urine
+- No dizziness or confusion
+- No motor movement loss reported
+
+**Assessment:**
+Based on the patient's symptoms and history, the likely differential diagnoses include pneumonia, acute bronchitis, or a respiratory infection. Further investigations such as a chest x-ray are recommended to assess for possible pneumonia, especially with the presence of chest pain and productive cough.
+
+**Plan:**
+1. Perform a Covid swab test to rule out Covid-19.
+2. Order a chest x-ray to evaluate for pneumonia.
+3. Prescribe antibiotics if pneumonia is confirmed.
+4. Advise the patient to rest, stay hydrated, and monitor symptoms closely.
+5. Follow up with the patient in 24-48 hours for Covid test results and chest x-ray findings.

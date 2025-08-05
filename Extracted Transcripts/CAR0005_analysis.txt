@@ -1,0 +1,38 @@
+**List of symptoms:**
+- Chest pain on the left side
+- Sharp chest discomfort
+- Pain comes and goes in episodes lasting 20-30 minutes
+- Pain rated at 4 out of 10
+- Pain worsens at work or while driving
+
+**List of possible diseases or illnesses:**
+- Angina
+- Costochondritis
+- Gastroesophageal reflux disease (GERD)
+- Panic attack
+- Stress-related chest pain
+
+**SOAP Note:**
+
+**Subjective:**
+The patient presents with chest pain on the left side that has been occurring in episodes over the last two weeks. The pain is described as sharp, rated at 4 out of 10, lasting 20-30 minutes, and worsens during work or driving. The patient has been under significant stress due to personal issues for the past couple of years.
+
+**Objective:**
+- No reported nausea, vomiting, difficulty breathing, or fevers during episodes of chest pain.
+- No recent travel outside of Canada.
+- Patient smokes half a pack to a pack of cigarettes per day and consumes 1-2 glasses of wine on weekends.
+- No reported history of high blood pressure or high cholesterol.
+- Regular exercise routine of running or cycling 3-4 days per week without chest pain.
+- Family history of heart problems (father had a heart attack at 60).
+
+**Assessment:**
+1. The patient's chest pain is likely multifactorial, potentially due to stress-related factors, smoking habits, or underlying medical conditions.
+2. Differential diagnosis includes angina, costochondritis, GERD, panic attack, and stress-related chest pain.
+3. Family history of heart problems raises concern for cardiovascular conditions.
+
+**Plan:**
+1. Refer the patient to a cardiologist for further evaluation, including an ECG and stress test to rule out cardiac issues.
+2. Consider imaging studies such as a chest X-ray to assess for musculoskeletal causes.
+3. Advise the patient to quit smoking and reduce alcohol consumption to improve overall health.
+4. Recommend lifestyle modifications to manage stress, such as relaxation techniques and counseling.
+5. Follow up with the patient after specialist evaluation for further management and treatment.

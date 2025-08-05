@@ -1,0 +1,39 @@
+**List of symptoms:**
+- Headache
+- Cough
+- Nausea
+- Vomiting
+- Diarrhea
+- Fatigue
+- Loss of smell
+
+**List of possible diseases or illnesses:**
+- Viral infection (e.g., common cold, flu)
+- Gastroenteritis
+- COVID-19 (ruled out by the doctor)
+- Migraine headache
+
+**SOAP Note:**
+
+**Subjective:**
+The patient presents with a headache that started four days ago, described as persistent and located in the forehead and top of the head. The headache is rated at a 7 out of 10 in terms of severity. The patient also reports a dry cough, nausea, vomiting (two episodes), diarrhea (started two days ago with liquid stools), fatigue, and loss of smell over the past day. No significant weight loss, fevers, chills, chest pain, shortness of breath, wheezing, blood in vomit or stool, dehydration, appetite changes, rash, vision or hearing changes, dizziness, fainting, confusion, memory loss, joint pains, muscle aches, constipation, bloating, or gassiness reported.
+
+**Objective:**
+- No signs of neck stiffness or pain
+- No sputum or blood in cough
+- No wheezing or chest pain
+- No visible signs of dehydration
+- No abnormalities on physical examination mentioned
+
+**Assessment:**
+1. Viral infection: Considering the patient's symptoms of headache, cough, nausea, vomiting, diarrhea, and fatigue, a viral infection such as the common cold or flu is a probable diagnosis.
+2. Loss of smell: Anosmia reported by the patient could be related to the viral infection.
+3. COVID-19: Ruled out by the doctor with a COVID-19 test pending.
+
+**Plan:**
+1. Rule out COVID-19 with a swab test and isolate for 14 days.
+2. Supportive management: Encourage hydration, nutritious food intake, adequate rest, and use of antipyretics like Tylenol for fever if present.
+3. Symptomatic relief: Recommend Tylenol or NSAIDs for muscle aches or joint pains if needed.
+4. Follow-up: Advise the patient to monitor symptoms and seek medical attention if there is worsening or new symptoms.
+
+**Follow-up:** Patient to return for results and further guidance if needed.

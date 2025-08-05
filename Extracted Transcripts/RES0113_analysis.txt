@@ -1,0 +1,39 @@
+**List of symptoms:**
+- Fever
+- Cough (dry)
+- Headache (throbbing)
+
+**List of possible diseases or illnesses:**
+- Upper respiratory tract infection
+- Influenza
+- COVID-19
+- Tension headache
+
+**SOAP Note:**
+
+**Subjective:**
+The patient presents with a fever, dry cough, and a throbbing headache that has been worsening over the past four days. The headache is rated at a severity of 7 out of 10. The patient also reports feeling hot with chills but has not measured their temperature.
+
+**Objective:**
+- No reported blood or sputum in cough
+- No other associated symptoms such as confusion, changes in vision or hearing, redness in eyes, loss of taste or smell, runny or stuffy nose, sore throat, chest pain, difficulty breathing, palpitations, belly pain, diarrhea, aches or pains in the body, rashes, or discoloration of fingers or toes
+- Patient denies stiffness in the neck or difficulty moving the neck
+- Patient lives with husband and daughter, practices social distancing, wears a mask, and has limited recent travel history
+
+**Assessment:**
+1. Differential Diagnosis:
+   - Upper respiratory tract infection
+   - Influenza
+   - COVID-19
+   - Tension headache
+
+2. Working Diagnosis:
+   - Possible viral respiratory infection, including COVID-19, given the presence of fever, dry cough, and worsening headache
+
+**Plan:**
+1. Recommend continuing to take Tylenol for symptom management.
+2. Request a COVID-19 swab test to confirm or rule out infection.
+3. Advise the patient to monitor their fever and symptoms closely.
+4. Instruct the patient to quarantine for the next 14 days and maintain distance from family members.
+5. Follow up with the patient if symptoms worsen or do not improve.
+6. Educate the patient on the importance of rest, hydration, and symptom monitoring.

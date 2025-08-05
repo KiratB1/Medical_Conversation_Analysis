@@ -1,0 +1,40 @@
+**List of symptoms:**
+- Coughing
+- Stuffy nose
+- Pink eye
+- Harsh sounding cough
+- Congestion
+- Itchy eyes
+- Possible sore throat
+- Decreased appetite
+- Feeling hot
+
+**List of possible diseases or illnesses:**
+- Viral infection
+- Common cold
+- Conjunctivitis (pink eye)
+
+**SOAP Note:**
+
+**Subjective:**
+A 5-year-old female patient presented with a cough that started two days ago, along with congestion, stuffy nose, and pink eye. The cough is described as harsh-sounding, and the patient's parent noted itchiness in the eyes and a possible sore throat. The patient has also experienced a decreased appetite and feeling hot.
+
+**Objective:**
+- No sputum production or blood in cough
+- No wheezing, blood discharge, or changes in vision reported
+- No tearing or mucus from the eyes
+- No reported changes in smell, taste, or weight
+- No night sweats, stomach pains, nausea, vomiting, painful urination, diarrhea, headaches, aches/pains, or rashes noted
+- No previous medical conditions, surgeries, or allergies to medications reported
+- Living situation includes the patient's primary caregiver and father, with no pets or smokers in the household
+- No known exposure to lung or heart conditions in the family
+
+**Assessment:**
+Based on the patient's symptoms and history, the likely diagnosis includes a viral infection or common cold, possibly complicated by conjunctivitis (pink eye). Further investigation is warranted to rule out other possible causes.
+
+**Plan:**
+1. Conduct a swab test for COVID-19 to rule out viral infection.
+2. Recommend symptomatic treatment for cough and congestion.
+3. Provide guidance on managing pink eye symptoms.
+4. Advise monitoring the patient's temperature and overall condition.
+5. Schedule a follow-up appointment to assess the patient's progress and consider additional testing if necessary.

@@ -1,0 +1,41 @@
+**List of symptoms:**
+- Sharp pain in the chest
+- Pain worsens when coughing or laying down
+- Pain lasts for a few seconds and then goes away
+- Pain improves when leaning forward
+- Pain radiates to the neck
+- History of recent flu symptoms (fever, runny nose, cough, fatigue)
+- No shortness of breath, dizziness, palpitations, nausea, vomiting, fevers, chills, headaches, weakness, numbness, or fainting
+
+**List of possible diseases or illnesses:**
+- Acute coronary syndrome (possible heart attack)
+- Costochondritis
+- Pleurisy
+- Gastroesophageal reflux disease (GERD)
+- Musculoskeletal chest pain
+- Post-viral chest pain
+
+**SOAP Note:**
+
+**Subjective:**
+The patient, a 25-year-old male, presents with a sharp pain in the chest that started three days ago. The pain is localized over the heart and worsens when coughing or laying down. It lasts for a few seconds and then resolves, improving when leaning forward. The pain radiates to the neck. The patient reports a recent history of flu symptoms but currently denies any respiratory or systemic symptoms. He rates the chest pain as a 6 out of 10. The patient is concerned about the possibility of a heart attack due to a family history of his father having a recent fatal heart attack.
+
+**Objective:**
+- Vital signs: Stable
+- No signs of distress
+- No visible abnormalities on chest examination
+- No palpable chest tenderness or swelling
+- No respiratory distress or abnormal lung sounds
+
+**Assessment:**
+1. Chest pain likely musculoskeletal or non-cardiac in nature, given the patient's age and absence of typical cardiac symptoms.
+2. Differential diagnosis includes costochondritis, pleurisy, GERD, and post-viral chest pain.
+3. Family history of heart attack raises concern for acute coronary syndrome, warranting further investigation.
+
+**Plan:**
+1. Order an ECG to evaluate cardiac function.
+2. Consider further diagnostic tests such as blood work if indicated.
+3. Advise the patient to monitor symptoms and follow up for review of test results.
+4. Provide reassurance and support regarding anxiety related to family history.
+5. Educate the patient on chest pain management techniques and lifestyle modifications.
+6. Follow up with the patient to discuss test results and develop a comprehensive treatment plan.

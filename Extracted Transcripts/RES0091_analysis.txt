@@ -1,0 +1,34 @@
+**List of symptoms:**
+- Stuffy nose for two weeks
+- Runny nose for the past week and a half
+- Clear nasal discharge
+- Headache
+- Feeling of fluid backed up in sinuses
+- Fatigue
+- Pressure in face
+- Mild tiredness
+
+**List of possible diseases or illnesses:**
+- Common cold
+- Viral infection
+- Sinusitis
+
+**SOAP Note:**
+
+**Subjective:**
+The patient presents with a two-week history of a stuffy nose progressing to a week and a half of a runny nose. They describe clear nasal discharge, headache, feeling of fluid backed up in sinuses, fatigue, pressure in the face, and mild tiredness. No cough, fever, chills, coughing up blood, loss of taste or smell, nausea, vomiting, night sweats, or urinary trouble reported. The symptoms are constant, and the patient has not found relief with over-the-counter medications.
+
+**Objective:**
+No signs of respiratory distress noted. Patient appears alert and oriented. Vital signs within normal limits. No abnormal physical findings upon examination.
+
+**Assessment:**
+1. Likely diagnosis of a common cold or viral infection based on the patient's symptoms of nasal congestion, runny nose, and headache.
+2. Sinusitis could also be considered given the patient's description of pressure in the face and feeling of fluid backed up in sinuses.
+
+**Plan:**
+1. Recommend rest, hydration, and over-the-counter medications like Tylenol cold for symptom relief.
+2. Perform a COVID-19 swab test to rule out infection, considering the ongoing pandemic.
+3. Advise isolation until COVID-19 test results are available.
+4. Follow up with the patient after test results to determine further management.
+
+This SOAP note is based on the patient's reported symptoms, medical history, and the doctor's assessment during the consultation.

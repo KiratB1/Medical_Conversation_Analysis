@@ -1,0 +1,35 @@
+**List of symptoms:**
+- Shoulder pain for the past week
+- Pain with any movement of the right shoulder
+- Sharp pain with movement
+- Stiffness and achy feeling at rest
+- Pain located at the joint between upper arm and shoulder
+- Pain rated 7 out of 10
+
+**List of possible diseases or illnesses:**
+- Rotator cuff injury
+- Adhesive capsulitis (frozen shoulder)
+
+**SOAP Note:**
+
+**Subjective:**
+The patient presents with a chief complaint of severe shoulder pain for the past week, exacerbated by any movement. Patient reports a history of a rotator cuff injury a couple of months ago due to repetitive motions in the construction field. Pain is described as sharp with movement and achy at rest, rated at 7 out of 10. No significant radiation of pain to other joints or parts of the body reported. Temporary relief with ibuprofen and ice application noted.
+
+**Objective:**
+- No visible swelling, redness, or deformities noted on examination.
+- Tenderness on palpation with firm pressure but no tenderness otherwise.
+- No significant limitations in passive range of motion.
+- No systemic symptoms such as fever, chills, weight loss, or appetite changes reported.
+- Patient denies numbness, tingling, weakness, or other musculoskeletal symptoms.
+
+**Assessment:**
+- Likely diagnosis of adhesive capsulitis (frozen shoulder) based on patient history of previous rotator cuff injury and current symptoms of pain, stiffness, and limited range of motion.
+- Rule out other differential diagnoses such as rotator cuff tear or bursitis through imaging studies (X-Ray, ultrasound) and blood work to assess inflammation markers.
+
+**Plan:**
+1. Order X-Ray of the shoulder for comparison with previous imaging.
+2. Consider ultrasound if necessary for further evaluation.
+3. Perform blood work to assess inflammation markers.
+4. Emphasize the importance of completing a full course of physiotherapy for conservative management.
+5. Discuss potential corticosteroid injections for pain relief if conservative measures are ineffective.
+6. Follow up with the patient for imaging results and further management strategies.

@@ -1,0 +1,35 @@
+**List of symptoms:**
+- Pain in the chest on the left side
+- Feeling out of breath
+- Lingering sharp pain
+- Pain worsens with walking and deep breaths
+- Difficulty catching breath while walking
+- Fatigue
+- No fever, chills, nausea, vomiting, night sweats, headaches, racing heart, lightheadedness, fainting, cough, wheezing, abdominal pain, urinary problems, joint pains, muscle pains, skin changes, rashes
+
+**List of possible diseases or illnesses:**
+- Pulmonary embolism
+- Chest infection
+- Cardiac issues (considering the pain location and breathing difficulty)
+- Other lung conditions
+
+**SOAP Note:**
+
+**Subjective:**
+The patient presents with a five-day history of pain in the left side of the chest, describing it as a lingering sharp pain that worsens with walking and deep breaths. The pain is not alleviated by Tylenol and Advil. The patient also reports feeling out of breath, particularly when walking. There is a history of fatigue but denies fever, chills, nausea, vomiting, night sweats, headaches, racing heart, lightheadedness, fainting, cough, wheezing, abdominal pain, urinary problems, joint pains, muscle pains, skin changes, and rashes.
+
+**Objective:**
+- No visible signs of distress during the consultation
+- No abnormal vital signs noted
+- No abnormal physical examination findings
+
+**Assessment:**
+- Suspected pulmonary embolism based on symptoms of chest pain, worsening with activity, and difficulty breathing
+- Differential diagnosis includes chest infection, cardiac issues, and other lung conditions
+
+**Plan:**
+1. Order lab work and imaging studies to confirm the presence of a pulmonary embolism
+2. Provide appropriate treatment based on the diagnostic results
+3. Monitor the patient closely for any changes in symptoms
+4. Advise the patient to avoid strenuous activities until a diagnosis is confirmed
+5. Follow up with the patient after receiving the diagnostic results to discuss further management.

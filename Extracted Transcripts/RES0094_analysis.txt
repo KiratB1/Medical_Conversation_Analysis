@@ -1,0 +1,41 @@
+**List of symptoms:**
+- Runny nose
+- Sore throat
+- Watery clear nasal discharge
+- Nasal congestion
+- Mild headache
+- Muscle aches
+- Drowsiness
+
+**List of possible diseases or illnesses:**
+- Common cold
+- Seasonal allergies
+- Viral upper respiratory infection
+- Sinusitis
+
+**SOAP Note:**
+
+**Subjective:**
+The patient presents with a history of runny nose and sore throat for the past five days. The nasal discharge is watery and clear, with nasal congestion and mild headaches. The sore throat initially worsened but has since stabilized. The patient reports drowsiness and muscle aches. No fevers, chills, cough, chest pain, gastrointestinal symptoms, or urinary changes reported. The patient has a history of allergies to dust and environmental allergens, and occasional use of Reactine or Claritin. No significant past medical history reported.
+
+**Objective:**
+- Vital signs stable
+- Nasal congestion noted
+- Clear nasal discharge observed
+- Throat exam reveals mild redness
+- No hoarseness or difficulty swallowing noted
+- No signs of respiratory distress
+- No lymphadenopathy
+- No chest pain or abdominal tenderness
+
+**Assessment:**
+1. Viral upper respiratory infection likely causing the patient's symptoms of runny nose, sore throat, nasal congestion, and headache.
+2. Allergic rhinitis may contribute to the nasal symptoms based on the patient's history of allergies to dust and environmental allergens.
+
+**Plan:**
+1. Perform a physical exam including chest auscultation, throat inspection, and temperature check.
+2. Conduct a COVID-19 swab test as a precautionary measure.
+3. Recommend rest, hydration, and over-the-counter pain relief as needed.
+4. Advise the patient to continue using cold medication for symptom relief.
+5. Follow up with the patient if symptoms worsen or persist.
+6. Educate the patient on proper hand hygiene and respiratory etiquette to prevent the spread of infection.

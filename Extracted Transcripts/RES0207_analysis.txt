@@ -1,0 +1,33 @@
+**List of symptoms:**
+- Sudden shortness of breath
+- Dry cough
+- Mild fever (37.4°C)
+- Seizure the night before the visit
+
+**List of possible diseases or illnesses:**
+- Respiratory infection
+- Pneumonia
+- Epilepsy-related seizure
+- Medication non-compliance leading to seizure
+- COVID-19 (considering shortness of breath and cough, although not explicitly mentioned)
+
+**SOAP Note:**
+
+**Subjective:**
+The patient presents with a sudden onset of shortness of breath and dry cough this morning. He also reports a mild fever of 37.4°C, a seizure episode the night before the visit, and a history of epilepsy. The patient mentioned forgetting to take his Keppra medication due to a change in routine. No other significant symptoms reported.
+
+**Objective:**
+- No chest pain, faintness, nausea, vomiting, belly pain, diarrhea, sore throat, runny nose, loss of taste or smell.
+- Patient lives with his wife and 16-year-old daughter, works as an accountant from home, and consumes alcohol occasionally but does not smoke or use other substances.
+
+**Assessment:**
+1. Possible respiratory infection or pneumonia due to sudden shortness of breath and dry cough.
+2. Seizure episode possibly related to medication non-compliance.
+3. Consider COVID-19 as a differential diagnosis due to respiratory symptoms.
+
+**Plan:**
+1. Perform a physical examination to assess respiratory status and neurological function.
+2. Consider chest X-ray to evaluate for pneumonia.
+3. Check Keppra levels and reinforce medication compliance.
+4. Consider COVID-19 testing due to respiratory symptoms.
+5. Follow up with the patient to discuss test results and adjust treatment plan accordingly.

@@ -1,0 +1,41 @@
+**List of symptoms:**
+- Breathlessness
+- Cough
+- Chest tightness
+- Shortness of breath worsens in the cold and with increased activity
+- Wheeziness
+- Feeling of throat closing off
+- Heaviness in the chest
+- Dry cough
+- Feeling of inability to take deep breaths
+
+**List of possible diseases or illnesses:**
+- Asthma
+- Pneumonia
+- Allergic rhinitis
+
+**SOAP Note:**
+
+**Subjective:**
+The patient presents with a three-month history of breathlessness, cough, chest tightness, and wheeziness. Shortness of breath is exacerbated by cold weather and increased physical activity. The patient describes a feeling of throat closure and chest heaviness, with a dry cough. Symptoms have been progressively worsening over time.
+
+**Objective:**
+- No reported fever, night sweats, weight loss, sore throat, runny/stuffy nose, changes in smell, hearing, vision, ear symptoms, nausea, vomiting, bowel or urinary changes, headaches, dizziness, fainting, chest pain, palpitations, swelling, skin changes, or respiratory symptoms like sputum production or blood in cough.
+- No reported history of recent surgeries, allergies (except hay fever), or significant past medical conditions other than hay fever.
+- Family history includes a sister with asthma and eczema.
+- Patient denies smoking, marijuana use, recreational drug use, recent travel, contact with sick individuals, or exposure to pets.
+- Patient occasionally consumes alcohol at social events.
+
+**Assessment:**
+1. Differential diagnosis includes:
+   - Asthma: Given the patient's symptoms, family history, and triggers such as cold weather and smoke exposure.
+   - Pneumonia: Considered due to the persistent cough and breathlessness.
+   - Allergic rhinitis: Possible due to the history of hay fever and environmental triggers.
+
+**Plan:**
+1. Order pulmonary function tests to evaluate lung function and confirm asthma diagnosis.
+2. Initiate treatment with bronchodilators to manage asthma symptoms.
+3. Monitor response to treatment and consider further investigations if symptoms persist or worsen.
+4. Rule out pneumonia and allergic rhinitis through appropriate testing if needed.
+5. Advise the patient to avoid triggers such as cold weather and smoke exposure.
+6. Follow up with the patient for symptom review and treatment adjustment as necessary.

@@ -1,0 +1,36 @@
+**List of symptoms:**
+- Pain in the belly, specifically on the right side
+- Aching pain that started 8 hours ago and has worsened over the past 5-6 hours
+- Nausea
+- Fatigue
+- Decreased appetite
+
+**List of possible diseases or illnesses:**
+- Gallstones
+- Cholecystitis
+- Peptic ulcer disease
+- Pancreatitis
+- Gastroenteritis
+- Gastrointestinal malignancy
+
+**SOAP Note:**
+
+**Subjective:**
+The patient presents with a complaint of aching pain in the right side of the belly that started 8 hours ago and has intensified over the past 5-6 hours. The pain is described as constant and worsens after eating fatty foods. The patient also reports experiencing nausea, fatigue, and a decreased appetite. There is a history of similar intermittent pain after consuming fatty foods in the past.
+
+**Objective:**
+- Pain localized to the right side of the belly
+- No fever, chills, sweats, changes in bowel movements, or urinary patterns reported
+- No significant weight loss or recent infections noted
+- Patient has a history of diabetes and takes metformin as medication
+
+**Assessment:**
+1. Suspected acute cholecystitis or gallstones based on the location of the pain, worsening after fatty meals, and associated symptoms.
+2. Differential diagnosis includes peptic ulcer disease, pancreatitis, gastroenteritis, or gastrointestinal malignancy.
+
+**Plan:**
+1. Order abdominal ultrasound to evaluate for gallstones or signs of cholecystitis.
+2. Consider blood work including liver function tests and pancreatic enzymes.
+3. Prescribe anti-nausea medication to alleviate symptoms.
+4. Advise dietary modifications to avoid fatty foods.
+5. Follow up for further evaluation and management based on test results.

@@ -1,0 +1,40 @@
+**List of symptoms:**
+- Dry cough for around half a year
+- Increasing frequency of cough over the last couple of months
+- Fatigue, especially with exercise
+- Joint pain in hands and feet
+- Joint stiffness, especially in the morning
+- Limited energy, unable to engage in long walks or gardening as before
+- Weight loss over the last three to four months
+- Coughing fits at night leading to disrupted sleep
+- No phlegm with cough
+
+**List of possible diseases or illnesses:**
+- Chronic obstructive pulmonary disease (COPD)
+- Pulmonary fibrosis due to possible asbestos exposure
+- Connective tissue disease (e.g., rheumatoid arthritis, lupus)
+
+**SOAP Note:**
+
+**Subjective:**
+- Patient, a 75-year-old male, presents with a dry cough persisting for six months, increasing in frequency over the last few months.
+- Reports fatigue, joint pain in hands and feet, weight loss over the last three to four months, and limited energy levels affecting physical activities.
+- Coughing fits at night leading to disrupted sleep.
+- Denies phlegm with cough, shortness of breath, chest pain, heart racing, wheezing, or swelling in limbs. 
+
+**Objective:**
+- Vital signs stable.
+- No visible signs of distress.
+- No abnormalities noted on physical examination.
+
+**Assessment:**
+1. Chronic dry cough with increasing frequency over time.
+2. Fatigue, weight loss, and joint pain suggestive of underlying systemic condition.
+3. Possible asbestos exposure leading to pulmonary fibrosis.
+4. Consideration of connective tissue disease given joint symptoms.
+
+**Plan:**
+1. Order chest X-ray and chest CT to evaluate for pulmonary fibrosis.
+2. Conduct laboratory investigations to assess for autoimmune markers.
+3. Referral to a pulmonologist for further evaluation and management.
+4. Follow-up appointment to discuss test results and treatment options.

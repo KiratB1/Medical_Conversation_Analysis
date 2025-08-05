@@ -1,0 +1,36 @@
+**List of symptoms:**
+- Shortness of breath
+- Wheezing
+- Tightness in the chest
+- Cough (mainly dry)
+- Chest tightness when taking deep breaths
+
+**List of possible diseases or illnesses:**
+- Asthma exacerbation
+- Allergic reaction
+- Bronchitis
+- Respiratory infection
+
+**SOAP Note:**
+
+**Subjective:**
+The patient presents with shortness of breath, wheezing, chest tightness, and a dry cough that started after exerting themselves while cleaning the basement. The symptoms have persisted for a day and have not improved. The patient also reports a history of asthma diagnosed ten years ago, with stable symptoms until this recent exacerbation. No recent fevers, chills, nausea, vomiting, urinary problems, weight changes, night sweats, or skin changes were reported. The patient mentions occasional alcohol consumption and no smoking. Family history includes asthma and eczema in the patient and their older sister, and lung cancer in the grandfather due to smoking.
+
+**Objective:**
+- No fever or chills
+- No signs of respiratory distress observed
+- Clear lung sounds on auscultation
+- No chest pain or blood in sputum reported
+- No signs of allergic reactions observed
+
+**Assessment:**
+1. Asthma exacerbation: Considering the patient's history of asthma, recent triggers involving dust exposure, and inadequate response to rescue inhalers, an acute exacerbation of asthma is likely.
+2. Allergic reaction: Given the patient's history of allergies, exposure to potential allergens while cleaning the basement, and symptoms of wheezing and chest tightness, an allergic reaction cannot be ruled out.
+3. Rule out bronchitis or respiratory infection: The dry cough and chest tightness may also suggest bronchitis or a respiratory infection, although less likely given the patient's history of asthma.
+
+**Plan:**
+1. Prescribe a short course of oral corticosteroids to manage the asthma exacerbation.
+2. Increase the frequency of the rescue inhaler (Ventolin) as needed for symptom relief.
+3. Advise the patient to monitor their symptoms closely and seek immediate medical attention if breathing difficulties worsen.
+4. Recommend avoiding triggers, such as dust exposure, and using a mask during activities that may exacerbate asthma.
+5. Follow up with the patient in a week to assess symptom improvement and adjust treatment as necessary.

@@ -1,0 +1,27 @@
+**List of symptoms:**
+- Muscle aches
+- Headache
+- Dry cough
+
+**List of possible diseases or illnesses:**
+- Upper respiratory infection
+- COVID-19
+
+**SOAP Note:**
+
+**Subjective:**
+The patient presents with complaints of feeling unwell for the past couple of days. Symptoms include muscle aches, headache, and a dry cough that has worsened over the past three days. The cough is dry without sputum or blood. The headache is described as a squeezing sensation on both sides of the forehead and is alleviated partially by Tylenol/Acetaminophen. The patient mentions using Tylenol Cold and Sinus at night for improved sleep. There is no reported fever, chills, sore throat, runny nose, chest pain, palpitations, abdominal pain, or changes in bowel or urinary function. The patient has a history of occasional headaches, high cholesterol managed with a statin, and a possible allergy to penicillin. Family history includes a father with a stroke and a mother with high cholesterol. The patient quit smoking 17 years ago after smoking half a pack per day for 12 years. Alcohol consumption includes three to four glasses of wine over the weekend. No history of marijuana or recreational drug use. The patient takes magnesium, vitamin D, and a multivitamin. Recent exposure to a family party is noted, and the patient is unvaccinated against COVID-19.
+
+**Objective:**
+- Physical examination findings not provided in the transcript.
+
+**Assessment:**
+1. Possible upper respiratory infection or COVID-19 based on symptoms of muscle aches, headache, and dry cough.
+2. Differential diagnosis includes viral respiratory infection, considering the worsening cough over three days.
+
+**Plan:**
+1. Recommend a COVID-19 test to rule out infection due to recent exposure at a family party.
+2. Advise the patient to stay hydrated, eat well, and monitor symptoms.
+3. Continue taking Tylenol for symptom relief and ensure adequate rest.
+4. Instruct the patient to seek medical help if experiencing shortness of breath or worsening symptoms.
+5. Arrange for a COVID-19 test for further evaluation and management.

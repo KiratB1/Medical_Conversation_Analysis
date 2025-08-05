@@ -1,0 +1,36 @@
+**List of symptoms:**
+- Fever
+- Cough
+- Runny nose
+- Chills
+- Sore throat
+- Muscle aches
+- Decreased appetite
+
+**List of possible diseases or illnesses:**
+- Viral infection
+- Influenza (flu)
+
+**SOAP Note:**
+
+**Subjective:**
+A year-old male patient presents with a two-day history of fever, dry cough, runny nose, chills, sore throat, and muscle aches. The patient's parent reports a decrease in appetite but mentions the sore throat is not severe enough to affect eating habits significantly.
+
+**Objective:**
+- Vital signs: Fever of 38.8°C measured at home
+- Physical examination reveals no wheezing, chest pain, shortness of breath, or other respiratory distress
+- Clear runny nose, no colored discharge
+- No eye symptoms, ear pain, dizziness, numbness, or tingling reported
+- Patient has been gaining weight, no rashes, no changes in bowel movements or urine output
+- Developmentally meeting milestones, up to date with immunizations, no allergies reported
+
+**Assessment:**
+- Likely viral infection or influenza based on symptoms presented
+- Rule out COVID-19 with a swab test due to overlapping symptoms
+- No focal neurological deficits reported
+
+**Plan:**
+1. Perform a COVID-19 swab test to confirm or rule out infection.
+2. Provide supportive care including hydration, nutritious foods, and monitoring symptoms.
+3. Advise the parent to watch for any worsening symptoms, especially focal neurological deficits, and seek immediate medical attention if needed.
+4. Follow up in 24 to 48 hours for COVID-19 test results and reevaluation of symptoms.

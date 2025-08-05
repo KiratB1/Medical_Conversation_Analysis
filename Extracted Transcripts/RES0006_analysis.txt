@@ -1,0 +1,38 @@
+**List of symptoms:**
+- Cough that has been worsening
+- Shortness of breath
+- Production of white or yellowish sputum
+- Cough producing 5 to 10 teaspoons of sputum daily
+- Shortness of breath worsens with exertion
+- Shortness of breath and cough started around two months ago
+- Frequent use of salbutamol inhaler
+- Fatigue when symptoms worsen
+
+**List of possible diseases or illnesses:**
+- Chronic bronchitis
+- Asthma exacerbation
+- Chronic obstructive pulmonary disease (COPD) due to smoking history
+
+**SOAP Note:**
+
+**Subjective:**
+The patient, a 60-year-old male, presents with a worsening cough that started around two months ago, producing white or yellowish sputum, along with shortness of breath that worsens with exertion. He reports using his salbutamol inhaler frequently, up to 6 to 10 times per week, and experiencing fatigue when symptoms are severe. The patient has a significant smoking history of 30 cigarettes per day for 25 years and lives in London with his wife in a smoke-free environment.
+
+**Objective:**
+- No fever, chills, loss of smell or taste, chest pain, palpitations, lightheadedness, runny nose, sore throat, headaches, abdominal pain, urinary or bowel problems, rashes, muscle or joint aches, wheezing, or changes in voice noted.
+- Patient denies allergies to medications, recent hospitalizations, surgeries, and illicit drug use.
+- Patient reports having asthma and using a steroid inhaler daily.
+- Patient received a flu shot this year.
+- Family history includes a sister with COPD, potentially related to smoking.
+
+**Assessment:**
+1. Chronic bronchitis exacerbated by smoking: Given the patient's chronic cough with sputum production, shortness of breath, smoking history, and exposure to environmental tobacco smoke, chronic bronchitis is a likely diagnosis.
+2. Asthma exacerbation: The patient's history of asthma and increased use of salbutamol inhaler suggest an exacerbation of asthma symptoms.
+3. Consideration of COPD: Family history of COPD and prolonged smoking history raise concern for COPD as a differential diagnosis.
+
+**Plan:**
+1. Order a chest X-ray to evaluate lung changes.
+2. Perform pulmonary function tests to assess lung function.
+3. Provide smoking cessation counseling and support to help the patient quit smoking.
+4. Monitor symptoms closely and adjust asthma management as needed.
+5. Follow up with the patient to discuss investigation results and further management options.

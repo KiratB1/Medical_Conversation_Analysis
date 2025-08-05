@@ -1,0 +1,36 @@
+**List of symptoms:**
+- Pain in the wrist area
+- Numbness and tingling in the wrist, thumb, middle finger, and index finger
+- Discomfort in the palm and lower palm area
+- Burning sensation
+- Aching pain
+- Pain radiating from palm to fingers and lower arm
+- Difficulty at nighttime affecting sleep and daily routine
+- Worsening symptoms with continued use of the hand
+- Discomfort, pain, numbness, and tingling while gripping objects or lifting things
+
+**List of possible diseases or illnesses:**
+- Carpal tunnel syndrome
+- Radiculopathy
+- Inflammation in the wrist area
+
+**SOAP Note:**
+
+**Subjective:**
+The patient presents with complaints of pain, numbness, and tingling in the right wrist, thumb, middle finger, and index finger. Symptoms started about 2 weeks ago and have been gradually worsening, particularly affecting nighttime sleep and daily activities. The patient reports discomfort in the palm and lower palm area, along with a burning sensation and aching pain. Symptoms are exacerbated with continued use of the hand, especially during work activities that involve keyboard and mouse use.
+
+**Objective:**
+- No visible swelling, redness, or warmth in the hand or wrist
+- Mild muscle atrophy near the thumb area
+- Positive Tinel sign and positive Phalen sign during physical examination
+- Burning and tingling sensation elicited upon tapping the base of the palm and flexing both wrists
+
+**Assessment:**
+Based on the patient's history, symptoms, and physical examination findings, the likely diagnosis is carpal tunnel syndrome. Differential diagnosis includes radiculopathy, although the absence of neck symptoms makes it less likely. Inflammation in the wrist area may also be contributing to the symptoms.
+
+**Plan:**
+1. Recommend the use of wrist splints at night to maintain a neutral hand position.
+2. Suggest NSAIDs like ibuprofen for potential inflammation relief.
+3. Emphasize activity modification to reduce symptoms, especially during work activities.
+4. Monitor symptoms over time, and if they do not improve, consider surgical options for carpal tunnel release.
+5. Advise the patient to follow up for further evaluation and management as needed.

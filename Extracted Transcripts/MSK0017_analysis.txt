@@ -1,0 +1,36 @@
+**List of symptoms:**
+- Back pain in the lower back
+- Pain worsens with movement
+- Sharp pain
+- Pain on bending forward or leaning to the side
+- Pain rating of 7/10
+
+**List of possible diseases or illnesses:**
+- Mechanical back pain
+- Muscle strain or sprain
+- Degenerative disc disease
+- Herniated disc
+
+**SOAP note:**
+
+**Subjective:**
+The patient presents with a two-week history of persistent back pain located in the lower back. The pain is described as sharp and worsens with movement, particularly bending forward or leaning to the side. The pain is rated at 7/10 and has been limiting the patient's abilities at work, where heavy lifting and standing are common tasks. The onset of pain was not associated with any specific injury but followed a night of stiffness after work.
+
+**Objective:**
+- Physical examination reveals tenderness and pain on palpation in the lower right side of the back.
+- Limited range of motion and pain on flexion and lateral flexion.
+- No visible signs of redness, swelling, or atrophy in the affected area.
+- No numbness, weakness, or changes in bowel or bladder habits noted.
+- No abnormalities in knee or toe movements.
+
+**Assessment:**
+- Likely diagnosis of mechanical back pain, possibly due to muscle strain or sprain exacerbated by work-related activities.
+- Differential diagnosis includes degenerative disc disease or herniated disc, although less likely given the absence of neurological symptoms.
+
+**Plan:**
+1. Modified activity at work to avoid heavy lifting and improper positioning.
+2. Short-term bed rest for severe pain and muscle spasms, not exceeding 24-48 hours.
+3. Referral to physical therapy for exercises to strengthen back muscles and improve flexibility.
+4. Ice and heat therapy as needed for pain relief.
+5. NSAIDs for inflammation management.
+6. Follow-up to monitor progress and consider imaging if symptoms persist beyond eight weeks.

@@ -1,0 +1,35 @@
+**List of symptoms:**
+- Chest pain while breathing
+- Shortness of breath
+- Cough (dry)
+
+**List of possible diseases or illnesses:**
+- Pneumothorax
+- Pulmonary embolism
+- Pleurisy
+
+**SOAP Note:**
+
+**Subjective:**
+The patient presents with sudden onset chest pain while breathing, worsening over the past day, localized to the right side with a stabbing sensation. Shortness of breath has been constant since yesterday. The patient also reports a dry cough that started recently.
+
+**Objective:**
+- No reported fever, chills, night sweats, or other systemic symptoms.
+- No history of heart palpitations, dizziness, wheezing, or blood in sputum.
+- No urinary or bowel problems, abdominal pain, nausea, vomiting, muscle aches, joint pains, or skin changes.
+- No known medical conditions, medications, allergies, hospitalizations, or surgeries.
+- Social history includes living in student housing, occasional marijuana and alcohol use, and safe sexual practices.
+- Family history includes a sister with asthma, but no known lung or heart problems.
+
+**Assessment:**
+1. Differential diagnosis:
+   - Pneumothorax
+   - Pulmonary embolism
+   - Pleurisy
+
+**Plan:**
+1. Perform a physical exam to assess lung sounds and vital signs.
+2. Order a chest X-ray to evaluate for pneumothorax or other pulmonary abnormalities.
+3. Conduct blood work to assess for any underlying infections or inflammatory markers.
+4. Monitor the patient's symptoms and response to treatment.
+5. Educate the patient on potential diagnoses and the need for follow-up care.

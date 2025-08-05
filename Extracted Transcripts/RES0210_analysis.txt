@@ -1,0 +1,40 @@
+**List of symptoms:**
+- Persistent cough
+- Red spots in sputum
+- Fever
+- Chills
+- Difficulty breathing with exertion
+- Sore throat
+- Runny nose (resolved)
+- Chest pain on the right side, worsens with coughing and deep breaths
+- Dull chest pain even at rest
+
+**List of possible diseases or illnesses:**
+- Acute bronchitis
+- Pneumonia
+- Pulmonary embolism
+- Pleurisy
+- Respiratory infection
+
+**SOAP Note:**
+
+**Subjective:**
+The patient presents with a persistent cough that started around a week ago, accompanied by red spots in the sputum, fever, chills, difficulty breathing with exertion, sore throat, and chest pain on the right side that worsens with coughing and deep breaths. The patient also reports a history of runny nose that has since resolved. No significant weight loss or recent travel history except for a work trip to Sarnia.
+
+**Objective:**
+- Patient appears fatigued but alert during the examination.
+- Vital signs: Elevated temperature indicating a fever.
+- Chest examination reveals tenderness and localized pain on the right side, exacerbated by coughing and deep breathing.
+- Auscultation of the lungs may reveal abnormal breath sounds or crackles.
+
+**Assessment:**
+1. Possible acute respiratory infection based on the patient's symptoms of cough, fever, chills, and production of discolored sputum.
+2. Differential diagnosis includes acute bronchitis, pneumonia, pulmonary embolism, pleurisy, or other respiratory infections.
+
+**Plan:**
+1. Order a chest X-ray to evaluate for any signs of pneumonia or other pulmonary conditions.
+2. Perform a sputum culture to identify the causative organism.
+3. Consider blood tests such as a complete blood count (CBC) and inflammatory markers.
+4. Prescribe symptomatic relief medications such as cough suppressants, analgesics for pain, and antipyretics for fever management.
+5. Advise the patient to rest, stay hydrated, and monitor symptoms closely.
+6. Follow up with the patient in a few days to reassess their condition and adjust the treatment plan as needed.

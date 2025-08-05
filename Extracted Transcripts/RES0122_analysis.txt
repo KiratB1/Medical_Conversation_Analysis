@@ -1,0 +1,34 @@
+**List of symptoms:**
+- Congestion in the nose
+- Pressure in the head, jaws, and face
+- Pain in and around the cheeks going up to the head
+- Stuffy and sometimes runny nose
+- Clear nasal discharge
+- Changes in sense of smell
+- Changes in sense of taste
+
+**List of possible diseases or illnesses:**
+- Rhinosinusitis
+- Viral infection
+- Environmental allergies
+
+**SOAP Note:**
+
+**Subjective:**
+The patient presents with symptoms of nasal congestion, pressure in the head, jaws, and face, pain in and around the cheeks going up to the head, clear nasal discharge, changes in sense of smell, and taste for the past 2 weeks. The symptoms have remained the same, with worsening pressure. The patient denies cough, sore throat, difficulty breathing, swallowing, chest pain, heart palpitations, abdominal pain, nausea, vomiting, changes in bowel movements, urinary symptoms, muscle aches, fevers, chills, weight changes, night sweats, recent contact with sick individuals, recent travel, smoking, recreational drug use, environmental allergies, known medical conditions, allergies, hospitalizations, surgeries, and family members being sick. The patient reports taking Tylenol cold for symptom relief and using steam therapy.
+
+**Objective:**
+No signs of acute distress. Vital signs stable. No abnormal physical findings upon examination.
+
+**Assessment:**
+1. Rhinosinusitis: Based on the patient's symptoms of nasal congestion, pressure in the head, and clear nasal discharge, along with changes in sense of smell, the likely diagnosis is rhinosinusitis, which is inflammation of the sinuses and nasal cavity.
+2. Possible viral infection: Considering the patient's symptoms and the self-limiting nature of the condition, a viral infection could also be a contributing factor.
+3. Environmental allergies: Although not explicitly mentioned, the absence of other significant medical history suggests the possibility of environmental allergies causing or exacerbating the symptoms.
+
+**Plan:**
+1. Conservative management: Continue with current symptomatic relief measures, including Tylenol cold and steam therapy.
+2. Monitoring: Advise the patient to monitor symptoms over the next week. If symptoms do not improve or worsen, the patient should contact the healthcare provider for further evaluation.
+3. COVID-19 testing: Recommend a COVID-19 swab test due to symptom overlap with COVID-19. Advise the patient to quarantine until test results are available.
+4. Follow-up: Schedule a follow-up appointment to reassess the patient's condition and determine the need for additional interventions, such as antibiotics if a bacterial infection is suspected.
+
+The patient was educated on the potential diagnosis, management strategies, and the importance of monitoring symptoms and COVID-19 testing.

@@ -1,0 +1,42 @@
+**List of symptoms:**
+- Chronic cough for the past six months
+- Significant weight loss (20-30 pounds in six months)
+- Shortness of breath
+- Dull chest pain on the right side
+- No wheezing
+- No blood or sputum in cough
+- No chest pain with deep breaths or leaning forward
+
+**List of possible diseases or illnesses:**
+- Lung cancer
+- Chronic obstructive pulmonary disease (COPD)
+- Heart conditions (due to a-fib and high blood pressure history)
+- Respiratory infection
+- Pneumonia
+
+**SOAP Note:**
+
+**Subjective:**
+The patient presents with a chronic dry cough lasting for six months, significant weight loss of 20-30 pounds during the same period, shortness of breath worsening over time, and dull chest pain on the right side. The patient denies wheezing, blood or sputum in cough, chest pain with deep breaths or leaning forward. The patient is concerned about the possibility of lung cancer due to a long history of smoking.
+
+**Objective:**
+- Patient's vital signs are stable.
+- No signs of respiratory distress.
+- No wheezing on auscultation.
+- No abnormal findings on physical examination.
+
+**Assessment:**
+1. Differential diagnosis:
+   - Lung cancer: High suspicion due to chronic cough, significant weight loss, and smoking history.
+   - COPD: Considered due to chronic cough and shortness of breath.
+   - Heart conditions: Due to a-fib and high blood pressure history.
+   - Respiratory infection or pneumonia: Cannot be ruled out.
+
+**Plan:**
+1. Conduct a Covid swab test to rule out COVID-19 infection.
+2. Perform a chest x-ray to evaluate for masses or effusions.
+3. Consider a CT scan if abnormalities are found on the chest x-ray.
+4. Further investigations may include a PET CT scan, biopsy, and pathology evaluation for staging and determining the type of cancer if present.
+5. Discuss treatment options and prognosis based on the results of diagnostic tests.
+
+Follow-up appointment scheduled to review test results and discuss further management.

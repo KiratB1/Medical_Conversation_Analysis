@@ -1,0 +1,39 @@
+**List of symptoms:**
+- Red and tender area behind the left knee
+- Soreness in the skin behind the knee
+- Recent tick bite
+- No engorgement or swelling of the tick
+- No bullseye rash present
+- No joint pain
+- No fever or feeling ill
+- No other bites found on the body
+- History of previous tick bite with target rash
+
+**List of possible diseases or illnesses:**
+- Tick-borne illnesses (e.g., Lyme disease)
+- Tick-borne encephalitis
+- Tick paralysis
+
+**SOAP Note:**
+
+**Subjective:**
+The patient, Jean, presents with a recent tick bite behind the left knee. She reports redness and tenderness in the area where the tick was removed. Jean mentions a history of a previous tick bite with a target rash but denies current presence of a bullseye rash. She has not experienced joint pain, fever, or other symptoms since the tick bite.
+
+**Objective:**
+- Physical examination reveals redness and tenderness behind the left knee.
+- The tick removed by the patient appears small and not engorged.
+- No signs of systemic illness or fever are noted.
+- No other tick bites are found on the body upon examination.
+
+**Assessment:**
+1. Tick bite with localized redness and tenderness, possibly indicating a mild inflammatory reaction.
+2. Concern for tick-borne illnesses such as Lyme disease due to the patient's history of a previous tick bite with a target rash.
+3. Consideration for prophylactic antibiotics due to the potential duration of tick attachment exceeding 72 hours.
+
+**Plan:**
+1. Send the tick for species identification at a local laboratory.
+2. Consider starting the patient on prophylactic antibiotics to prevent Lyme disease.
+3. Discuss the case with the physician for further evaluation and management.
+4. Monitor for any signs of Lyme disease or worsening symptoms.
+5. Educate the patient on tick prevention strategies, such as checking for ticks after outdoor activities and using insecticides in tick-prone areas.
+6. Follow up with the patient for review of laboratory results and assessment of symptoms.

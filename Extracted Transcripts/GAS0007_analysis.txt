@@ -1,0 +1,47 @@
+**List of symptoms:**
+- Abdominal pain, increasing over the last 3 days
+- Crampy feeling initially, thought to be constipation
+- Pain mainly located near right hip, lower stomach, and below belly button
+- Pain worsens with touch
+- Nausea associated with pain
+- Constipation for the past 5 days
+- Feverish feeling
+- Pain worsened by vomiting
+- Pain localized in one spot
+
+**List of possible diseases or illnesses:**
+- Appendicitis
+- Diverticulitis
+- Gastroenteritis
+- Gallstones
+- Irritable bowel syndrome (IBS)
+- Bowel obstruction
+
+**SOAP Note:**
+
+**Subjective:**
+The patient presents with complaints of abdominal pain that started as a crampy feeling and progressed over the last 3 days, mainly localized near the right hip, lower stomach, and below the belly button. The pain worsens with touch and was associated with nausea and constipation for the past 5 days. The patient also experienced a feverish feeling, worsened pain with vomiting, and has not had a bowel movement in 2 days.
+
+**Objective:**
+- Patient appears uncomfortable, holding abdomen
+- Tenderness noted on palpation in the right lower abdomen
+- No signs of acute distress
+- Vital signs: temperature slightly elevated
+
+**Assessment:**
+1. Differential diagnosis:
+   - Appendicitis
+   - Diverticulitis
+   - Gastroenteritis
+   - Gallstones
+   - Irritable bowel syndrome (IBS)
+   - Bowel obstruction
+
+2. Rule out acute surgical abdomen requiring immediate intervention.
+
+**Plan:**
+1. Order blood work to assess for signs of infection or inflammation.
+2. Consider imaging studies such as an abdominal ultrasound or CT scan to further evaluate the source of pain.
+3. Provide pain management as needed.
+4. Monitor for any worsening symptoms and consider surgical consultation if indicated.
+5. Follow up with patient after test results to discuss further treatment options.

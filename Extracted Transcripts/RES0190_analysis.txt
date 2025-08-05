@@ -1,0 +1,36 @@
+**List of symptoms:**
+- Sore throat for the past four days
+- Fever for the last two days
+- Pain with swallowing solids
+- Redness in the back of the mouth
+- Whitish material in the back of the throat
+- Swelling and lumps in the front side of the neck
+- Chills
+- Swelling in the back of the mouth
+- Tonsillar exudate
+- Fever of 38.4 degrees Celsius
+- No cough at present
+
+**List of possible diseases or illnesses:**
+- Group A strep pharyngitis
+- Viral illness
+
+**SOAP Note:**
+
+**Subjective:**
+The patient presents with a sore throat for the past four days, fever for the last two days, pain with swallowing solids, redness in the back of the mouth, whitish material in the throat, swelling and lumps in the front side of the neck, chills, and tonsillar exudate. The patient reports exposure to a sick contact (brother who had similar symptoms and received antibiotics).
+
+**Objective:**
+- Physical examination reveals redness in the back of the mouth, tonsillar exudate, and swelling in the neck.
+- Fever of 38.4 degrees Celsius noted during the visit.
+- No cough present currently.
+
+**Assessment:**
+Likely diagnosis of Group A strep pharyngitis based on symptoms and exposure to a sick contact. Differential diagnosis includes a viral illness.
+
+**Plan:**
+1. Perform a rapid strep antigen test to confirm Group A strep pharyngitis.
+2. Prescribe antibiotics if the strep test is positive.
+3. Monitor symptoms and hold off on antibiotics if the test is negative, considering a viral illness.
+4. Instruct the patient to seek medical attention if symptoms worsen, such as developing shortness of breath or worsening fever.
+5. Follow-up appointment scheduled to reevaluate the patient's condition.

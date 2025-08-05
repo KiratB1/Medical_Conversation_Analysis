@@ -1,0 +1,41 @@
+**List of symptoms:**
+- Increased coughing
+- Increased sputum production (green-yellow sputum)
+- Coughing up blood
+- Difficulty breathing
+- Worsening shortness of breath
+- Fever
+- Sinus pressure
+- Headache
+
+**List of possible diseases or illnesses:**
+- COPD exacerbation
+- Respiratory infection
+- Pneumonia
+- Possible COVID-19 infection
+
+**SOAP Note:**
+
+**Subjective:**
+The patient presents with a history of COPD diagnosed 4-5 years ago, experiencing worsening symptoms over the past 3 days. Symptoms include increased coughing with green-yellow sputum production, coughing up blood, difficulty breathing, worsening shortness of breath, fever, sinus pressure, and headache. The patient also reports potential exposure to a sick friend and recent lifestyle changes to manage COPD.
+
+**Objective:**
+- Vital signs: Pending
+- Physical examination findings: Pending
+- COVID-19 swab test pending
+- Patient appears fatigued but alert and oriented
+
+**Assessment:**
+1. COPD exacerbation: Likely exacerbation of COPD due to recent worsening of symptoms and history of COPD.
+2. Respiratory infection/pneumonia: Considering the presence of fever, increased sputum production, and coughing up blood.
+3. Possible COVID-19 infection: Given the patient's exposure to a sick friend and fever, COVID-19 needs to be ruled out.
+
+**Plan:**
+1. Conduct a thorough physical examination and assess vital signs.
+2. Perform a COVID-19 swab test to rule out infection.
+3. Consider chest X-ray to evaluate for pneumonia.
+4. Monitor oxygen saturation and respiratory status closely.
+5. Consult with attending physician to determine the need for hospital admission based on lab results and vital signs.
+6. Provide supportive care, including oxygen therapy and bronchodilators as needed.
+7. Educate the patient on the importance of medication adherence and follow-up care for COPD management.
+8. Follow up with the patient after test results are available to discuss further management options.

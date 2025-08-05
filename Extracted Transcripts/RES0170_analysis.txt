@@ -1,0 +1,37 @@
+**List of symptoms:**
+- Episodes of coughing fits
+- Wheezing
+- Shortness of breath
+- Difficulty breathing, especially during intense activities like soccer practice
+- Symptoms last 30-60 minutes, occurring once or twice a week
+- Cough is dry
+- Shortness of breath in cold weather
+- Wakes up at night due to symptoms
+- Avoids intense physical activities like soccer when symptoms occur
+
+**List of possible diseases or illnesses:**
+- Asthma
+- Exercise-induced bronchoconstriction
+- Viral respiratory infection
+
+**SOAP Note:**
+
+**Subjective:**
+A young boy presents with recurrent episodes of coughing fits, wheezing, and shortness of breath, lasting 30-60 minutes, occurring once or twice a week for the past couple of months. Symptoms are triggered during intense physical activities like soccer practice and at night, with shortness of breath exacerbated in cold weather. The cough is dry, and there is no associated chest pain, fevers, headaches, or other systemic symptoms. The patient's mother reports that symptoms have impacted the child's daily activities, leading to missed school days and soccer practice.
+
+**Objective:**
+- No current fevers, chest pain, or other concerning findings on physical examination.
+- No significant medical history except for a previous viral infection.
+- Family history of asthma and allergies in the sister.
+- Normal growth and development milestones achieved.
+- No current medications or allergies reported.
+
+**Assessment:**
+1. Likely diagnosis of asthma given the recurrent episodes of coughing, wheezing, and exercise-induced symptoms. Differential diagnosis includes exercise-induced bronchoconstriction and viral respiratory infections.
+2. Rule out other respiratory conditions through further testing.
+
+**Plan:**
+1. Prescribe inhalers (puffers) to help manage symptoms and improve quality of life.
+2. Recommend further diagnostic testing to confirm the diagnosis of asthma and assess lung function.
+3. Educate the patient and family on asthma management, triggers, and emergency action plan.
+4. Follow-up appointment to monitor response to treatment and adjust management as needed.

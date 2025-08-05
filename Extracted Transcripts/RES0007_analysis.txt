@@ -1,0 +1,37 @@
+**List of symptoms:**
+- History of asthma diagnosis
+- Shortness of breath during exercise
+- Chest tightness in cold weather
+- Wheezing around cats
+- Noisy breathing with cats
+- Seasonal allergy symptoms (runny nose, itchy eyes)
+- Confusion regarding inhaler usage
+
+**List of possible diseases or illnesses:**
+- Asthma
+- Exercise-induced bronchoconstriction
+- Allergic asthma
+- Seasonal allergies
+- Environmental allergies
+
+**SOAP Note:**
+
+**Subjective:**
+The patient, a 16-year-old male, presents with a history of asthma diagnosed a few months ago. He reports experiencing shortness of breath during exercise, chest tightness in cold weather, wheezing around cats, and seasonal allergy symptoms. The patient also expresses confusion regarding the usage of his inhalers.
+
+**Objective:**
+- Patient appears well-nourished and in no acute distress.
+- No signs of respiratory distress observed.
+- No cough reported by the patient.
+- No fever, chills, night sweats, or infectious symptoms mentioned.
+- No gastrointestinal, urinary, or dermatological complaints reported.
+
+**Assessment:**
+1. Asthma: The patient's history of asthma, along with symptoms such as exercise-induced shortness of breath, chest tightness, and wheezing, are suggestive of asthma exacerbations.
+2. Allergic Asthma: Wheezing around cats and seasonal allergy symptoms indicate a possible allergic component to the patient's asthma symptoms.
+
+**Plan:**
+1. Review and clarify the patient's inhaler usage to ensure optimal management of asthma symptoms.
+2. Consider allergy testing to identify specific triggers for the patient's symptoms.
+3. Discuss the impact of asthma on the patient's interest in joining the Marines and provide appropriate guidance.
+4. Follow up to monitor asthma control and adjust treatment as needed.

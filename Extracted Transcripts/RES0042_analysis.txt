@@ -1,0 +1,32 @@
+**List of symptoms:**
+- Dry cough for the past 3 days
+- High temperature of 99.9°F
+- Runny nose
+
+**List of possible diseases or illnesses:**
+- COVID-19
+- Viral respiratory infection
+
+**SOAP Note:**
+
+**Subjective:**
+The patient presents with a dry cough for the past 3 days, accompanied by a high temperature of 99.9°F. The cough is described as annoying and persistent. The patient also reports a runny nose. The patient is on biologic medication for Crohn's disease and has a history of eczema.
+
+**Objective:**
+- Vital signs: Temperature of 99.9°F
+- Dry cough noted during physical examination
+- No wheezing, shortness of breath, chest pain, palpitations, or swelling reported
+- No sore throat, changes in taste or smell, vision or hearing issues
+- No weight loss, changes in hair, nails, or skin, difficulty swallowing, nausea, vomiting, changes in bowel habits
+- No dizziness, fainting spells, confusion, or memory loss
+
+**Assessment:**
+1. Possible COVID-19 infection given the presence of dry cough, high temperature, and runny nose. Testing is recommended.
+2. Differential diagnosis includes a viral respiratory infection due to overlapping symptoms.
+
+**Plan:**
+1. Conduct COVID-19 testing with a swab to confirm the diagnosis. Results expected in 24 to 48 hours.
+2. Advise the patient to isolate for 14 days regardless of test results, including from their children.
+3. Recommend staying hydrated, eating nutritious foods, and getting adequate rest.
+4. Instruct the patient to monitor symptoms and seek emergency care if symptoms worsen significantly, such as high fever, difficulty breathing, or neurological symptoms.
+5. Follow up with the patient after receiving test results for further management.

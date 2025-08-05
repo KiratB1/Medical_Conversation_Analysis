@@ -1,0 +1,45 @@
+**List of symptoms:**
+- Dry cough for the past two weeks
+- Coughing episodes causing the patient to turn blue
+- Wheezing sound while breathing in
+- Vomiting once or twice
+- Watery nasal discharge initially
+- Cough worsening over time
+- Fatigue and irritability after coughing fits
+- Disrupted sleep due to coughing
+- Exposure to a new pet (cat)
+- Living with a smoker (dad)
+
+**List of possible diseases or illnesses:**
+- Pertussis (whooping cough)
+- Acute bronchitis
+- Asthma exacerbation
+- Allergic rhinitis with postnasal drip
+- Gastroesophageal reflux disease (GERD)
+
+**SOAP Note:**
+
+**Subjective:**
+The patient, a young child with a history of a dry cough for two weeks, coughing episodes leading to cyanosis, wheezing, vomiting, and fatigue after coughing fits. The cough initially started with watery nasal discharge and has worsened over time. The patient has disrupted sleep due to coughing and is exposed to a new pet (cat) and secondhand smoke at home.
+
+**Objective:**
+- No reported fevers or chills
+- No blood in vomit or coughed up
+- No diarrhea or constipation
+- No trouble with urination
+- Disrupted sleep due to coughing
+- Exposure to a new pet (cat) and secondhand smoke at home
+- Normal growth and meeting developmental milestones on time
+
+**Assessment:**
+1. Suspected pertussis given the characteristic dry cough, coughing episodes leading to cyanosis, and vomiting.
+2. Differential diagnosis includes acute bronchitis, asthma exacerbation, allergic rhinitis with postnasal drip, and GERD due to the persistent cough and wheezing.
+
+**Plan:**
+1. Perform a full physical examination to assess the patient's respiratory status and overall health.
+2. Obtain vital signs, including oxygen saturation levels.
+3. Conduct a COVID swab test as a precautionary measure.
+4. Provide supportive care, including monitoring and managing symptoms.
+5. Recommend vaccination for pertussis and other preventable diseases to the parent.
+6. Educate the parent on the importance of vaccinations and dispel misconceptions regarding vaccine safety.
+7. Consider hospital admission if necessary for further evaluation and management.

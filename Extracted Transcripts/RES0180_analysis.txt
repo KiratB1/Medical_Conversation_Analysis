@@ -1,0 +1,38 @@
+**List of symptoms:**
+- Cough
+- Headache
+- Body aches
+- Feverish feeling
+- Loss of smell and taste
+- Decreased appetite
+
+**List of possible diseases or illnesses:**
+- Upper respiratory tract infection
+- Influenza (flu)
+- COVID-19
+- Sinusitis
+
+**SOAP Note:**
+
+**Subjective:**
+The patient presents with a dry cough that started 1-2 days ago, accompanied by a headache, body aches, feverish feeling, and loss of smell and taste. The headache is described as a dull, achy pain located at the front of the head and on both sides. The patient rates the headache pain as a 4/10. There is also a decreased appetite noted.
+
+**Objective:**
+- No signs of wheezing, chest pain, shortness of breath, or sputum production.
+- No reported neck pain, dizziness, fainting, confusion, memory loss, vision or hearing changes, weight loss, rash, changes in bowel movements, nausea, vomiting, or urinary changes.
+- Patient denies smoking, recreational drug use, and reports minimal alcohol consumption.
+- Patient has a history of high blood pressure and high cholesterol, currently taking a statin and an ACE inhibitor.
+- Family history does not indicate any lung or heart conditions.
+- Patient lives in a house with family members, one of whom had a recent cough and sore throat that resolved.
+
+**Assessment:**
+1. Possible upper respiratory tract infection or viral illness such as influenza or COVID-19, given the symptoms of cough, headache, feverish feeling, and loss of smell and taste.
+2. Differential diagnosis includes sinusitis due to the headache and nasal symptoms.
+3. Consideration for COVID-19 testing based on symptomatology and recent exposure history.
+
+**Plan:**
+1. Conduct a COVID-19 swab test and isolate for 14 days while awaiting results.
+2. Monitor symptoms closely and seek emergency care if symptoms worsen or neurological symptoms develop.
+3. Encourage hydration, healthy eating, and use of a humidifier if available.
+4. Recommend antipyretics like Tylenol for fever management.
+5. Provide supportive care and follow-up instructions for potential bacterial infection if symptoms persist beyond a few weeks.

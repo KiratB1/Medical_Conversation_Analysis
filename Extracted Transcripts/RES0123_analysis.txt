@@ -1,0 +1,36 @@
+**List of symptoms:**
+- Persistent headache across the forehead and temples
+- Chills for the last few days
+- Muscle aches all over the body
+- Cough (started yesterday)
+
+**List of possible diseases or illnesses:**
+- **Migraine**: Due to the description of the headache, its severity, and the patient's history of migraines.
+- **Influenza**: Chills, muscle aches, and cough are common symptoms.
+- **COVID-19**: Considering the current pandemic situation, symptoms such as headache, chills, and cough, warrant testing for COVID-19.
+- **Tension headache**: The constant, aching pain in the forehead and temples could be indicative of tension headaches.
+
+**SOAP Note:**
+
+**Subjective:**
+The patient reports feeling sick over the past week with a persistent headache rated at 7/10, chills, muscle aches all over the body, and a dry cough that started yesterday. There is no nausea, vomiting, sensitivity to light or sound, visual changes, confusion, or significant respiratory symptoms. The patient has a history of migraines and a recent switch to working in the office environment.
+
+**Objective:**
+- Physical examination planned to assess the neck stiffness, chest, and mouth.
+- Chest x-ray ordered.
+- COVID-19 swab test to be conducted.
+- Patient advised to continue home quarantine, work from home, and avoid contact with family members until test results are back.
+- Labs to be performed to aid in diagnosis and treatment decision.
+
+**Assessment:**
+1. Suspected migraine based on headache description and history.
+2. Influenza or viral illness indicated by chills, muscle aches, and cough.
+3. COVID-19 testing warranted due to overlapping symptoms.
+4. Tension headache possible given the nature of the headache.
+
+**Plan:**
+1. Conduct physical examination, chest x-ray, and COVID-19 swab test.
+2. Advise patient to continue home quarantine, work remotely, and avoid close contact with family members.
+3. Run necessary labs for further evaluation.
+4. Provide guidelines for self-isolation and monitor symptoms closely.
+5. Follow up with patient after test results to determine the next steps in management.

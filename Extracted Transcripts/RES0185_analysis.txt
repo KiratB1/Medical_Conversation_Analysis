@@ -1,0 +1,36 @@
+**List of symptoms:**
+- Runny nose
+- Nasal obstruction
+- Sore throat
+- Watery and clear nasal discharge
+- Dry cough
+- Headache
+- Fatigue
+
+**List of possible diseases or illnesses:**
+- Common cold
+- Viral infection
+- Allergic rhinitis
+- Sinusitis
+
+**SOAP Note:**
+
+**Subjective:**
+The patient presents with symptoms of a runny nose, nasal obstruction, sore throat, watery and clear nasal discharge, dry cough, headache, and fatigue. Symptoms started about four days ago with the sore throat developing two days ago. The patient denies fever, shortness of breath, wheezing, chest pain, fainting spells, dizziness, changes in vision or hearing, weight loss, fevers, chills, night sweats, rashes, changes in bowel movements, nausea, vomiting, abdominal pain, changes in urine, gassiness, bloating, muscle aches, and joint pains. The patient reports occasional alcohol consumption and recreational drug use. There is a history of mild headache associated with sickness or poor sleep.
+
+**Objective:**
+- Vital signs stable
+- No signs of respiratory distress
+- No visible abnormalities on physical examination
+
+**Assessment:**
+1. Viral upper respiratory tract infection, likely common cold.
+2. Rule out COVID-19 with a swab test.
+
+**Plan:**
+1. Perform a COVID-19 swab test to rule out infection.
+2. Encourage hydration, rest, and good nutrition for symptomatic relief.
+3. Monitor symptoms for progression or development of neurological deficits.
+4. Follow-up if symptoms worsen or do not improve after a couple of weeks.
+5. Educate the patient on the importance of hand hygiene and respiratory etiquette to prevent the spread of infections.
+6. Advise avoiding alcohol and recreational drug use during illness for better recovery.
